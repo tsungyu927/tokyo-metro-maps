@@ -239,7 +239,15 @@ export function RailMapCanvas({
   const linesGeoJson = useMemo<GeoJSON.FeatureCollection<GeoJSON.LineString>>(() => {
     const hasSelection = effectiveActiveLineIds !== null;
 
-    const features: GeoJSON.Feature<GeoJSON.LineString>[] = [];
+    interface VisibleSegmentEntry {
+      seg: (typeof dataset.segments)[number];
+      line: NonNullable<ReturnType<typeof lineById.get>>;
+      from: NonNullable<ReturnType<typeof stationById.get>>;
+      to: NonNullable<ReturnType<typeof stationById.get>>;
+      isCanonicalForward: boolean;
+    }
+
+    const pairGroups = new Map<string, VisibleSegmentEntry[]>();
     for (const seg of dataset.segments) {
       const line = lineById.get(seg.lineId);
       if (!line) continue;
@@ -250,31 +258,55 @@ export function RailMapCanvas({
       const to = stationById.get(seg.toStationId);
       if (!from || !to) continue;
 
-      const railwayKind: RailwayKind = line.railwayKind ?? 'subway';
-      const isActive = hasSelection ? effectiveActiveLineIds.has(line.id) : false;
-      const opacity = hasSelection ? (isActive ? 0.96 : 0.14) : 0.82;
-      const baseWidths = BASE_LINE_WIDTH[railwayKind];
-      const width = hasSelection
-        ? isActive
-          ? baseWidths.active
-          : 2.4
-        : baseWidths.idle;
+      const isCanonicalForward = seg.fromStationId < seg.toStationId;
+      const pairKey = isCanonicalForward
+        ? `${seg.fromStationId}::${seg.toStationId}`
+        : `${seg.toStationId}::${seg.fromStationId}`;
+      let group = pairGroups.get(pairKey);
+      if (!group) {
+        group = [];
+        pairGroups.set(pairKey, group);
+      }
+      group.push({ seg, line, from, to, isCanonicalForward });
+    }
 
-      features.push({
-        type: 'Feature',
-        properties: {
-          lineId: line.id,
-          color: line.color,
-          railwayKind,
-          opacity,
-          width,
-          isActive: isActive ? 1 : 0,
-        },
-        geometry: {
-          type: 'LineString',
-          coordinates: [from.coord, ...(seg.viaCoords ?? []), to.coord],
-        },
-      });
+    const features: GeoJSON.Feature<GeoJSON.LineString>[] = [];
+    for (const group of pairGroups.values()) {
+      group.sort((a, b) => a.line.id.localeCompare(b.line.id));
+      const count = group.length;
+      for (let idx = 0; idx < count; idx++) {
+        const { seg, line, from, to, isCanonicalForward } = group[idx];
+        const rawSlot = count > 1 ? idx - (count - 1) / 2 : 0;
+        // Flip sign for reversed station pairs so MapLibre line-offset stays consistent on shared corridors
+        const offsetSlot = isCanonicalForward ? rawSlot : -rawSlot;
+
+        const railwayKind: RailwayKind = line.railwayKind ?? 'subway';
+        const isActive = hasSelection ? effectiveActiveLineIds.has(line.id) : false;
+        const opacity = hasSelection ? (isActive ? 0.96 : 0.14) : 0.82;
+        const baseWidths = BASE_LINE_WIDTH[railwayKind];
+        const width = hasSelection
+          ? isActive
+            ? baseWidths.active
+            : 2.4
+          : baseWidths.idle;
+
+        features.push({
+          type: 'Feature',
+          properties: {
+            lineId: line.id,
+            color: line.color,
+            railwayKind,
+            opacity,
+            width,
+            isActive: isActive ? 1 : 0,
+            offsetSlot,
+          },
+          geometry: {
+            type: 'LineString',
+            coordinates: [from.coord, ...(seg.viaCoords ?? []), to.coord],
+          },
+        });
+      }
     }
 
     return { type: 'FeatureCollection', features };
@@ -465,6 +497,19 @@ export function RailMapCanvas({
         ['*', ['get', 'width'], 1.3 * multiplier],
       ] as maplibregl.ExpressionSpecification;
 
+    const scaledLineOffset = () =>
+      [
+        'interpolate',
+        ['linear'],
+        ['zoom'],
+        10,
+        ['*', ['get', 'offsetSlot'], 1.8],
+        13,
+        ['*', ['get', 'offsetSlot'], 3.2],
+        15,
+        ['*', ['get', 'offsetSlot'], 4.6],
+      ] as maplibregl.ExpressionSpecification;
+
     const ensureTransitLayers = () => {
       if (disposed || !map.getStyle()) return;
 
@@ -491,6 +536,7 @@ export function RailMapCanvas({
               'line-width': 12,
               'line-blur': 6,
               'line-opacity': 0.42,
+              'line-offset': scaledLineOffset(),
             },
           });
         }
@@ -506,6 +552,7 @@ export function RailMapCanvas({
               'line-color': ['get', 'color'],
               'line-width': scaledLineWidth(1.32),
               'line-opacity': ['get', 'opacity'],
+              'line-offset': scaledLineOffset(),
             },
           });
         }
@@ -521,6 +568,7 @@ export function RailMapCanvas({
               'line-color': ['get', 'color'],
               'line-width': scaledLineWidth(1),
               'line-opacity': ['get', 'opacity'],
+              'line-offset': scaledLineOffset(),
             },
           });
         }
@@ -536,6 +584,7 @@ export function RailMapCanvas({
               'line-color': '#FFFFFF',
               'line-width': scaledLineWidth(0.72),
               'line-opacity': ['get', 'opacity'],
+              'line-offset': scaledLineOffset(),
             },
           });
         }
@@ -552,6 +601,7 @@ export function RailMapCanvas({
               'line-width': scaledLineWidth(0.52),
               'line-dasharray': [3, 2.2],
               'line-opacity': ['get', 'opacity'],
+              'line-offset': scaledLineOffset(),
             },
           });
         }
@@ -568,6 +618,7 @@ export function RailMapCanvas({
               'line-width': scaledLineWidth(0.36),
               'line-dasharray': [1.6, 1.8],
               'line-opacity': ['get', 'opacity'],
+              'line-offset': scaledLineOffset(),
             },
           });
         }
@@ -583,6 +634,7 @@ export function RailMapCanvas({
               'line-color': '#FFFFFF',
               'line-width': scaledLineWidth(0.3),
               'line-opacity': ['get', 'opacity'],
+              'line-offset': scaledLineOffset(),
             },
           });
         }
@@ -599,6 +651,7 @@ export function RailMapCanvas({
               'line-width': scaledLineWidth(0.44),
               'line-dasharray': [0.2, 1.8],
               'line-opacity': ['get', 'opacity'],
+              'line-offset': scaledLineOffset(),
             },
           });
         }

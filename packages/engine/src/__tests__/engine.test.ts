@@ -80,6 +80,42 @@ describe('Tokyo dataset referential integrity', () => {
       ).toBe(true);
     }
   });
+
+  it('populates valid curved track viaCoords across segments within Greater Tokyo bounds', () => {
+    const curvedSegments = tokyoTransitDataset.segments.filter(
+      (s) => Array.isArray(s.viaCoords) && s.viaCoords.length > 0
+    );
+    expect(curvedSegments.length).toBeGreaterThan(450);
+
+    for (const seg of curvedSegments) {
+      for (const coord of seg.viaCoords!) {
+        expect(coord).toHaveLength(2);
+        const [lng, lat] = coord;
+        expect(Number.isFinite(lng)).toBe(true);
+        expect(Number.isFinite(lat)).toBe(true);
+        expect(lng).toBeGreaterThanOrEqual(138.9);
+        expect(lng).toBeLessThanOrEqual(140.5);
+        expect(lat).toBeGreaterThanOrEqual(35.4);
+        expect(lat).toBeLessThanOrEqual(36.05);
+      }
+    }
+
+    const chuoMoatSeg = tokyoTransitDataset.segments.find(
+      (s) =>
+        s.lineId === 'JC' &&
+        ((s.fromStationId === 'ochanomizu' && s.toStationId === 'yotsuya') ||
+          (s.fromStationId === 'yotsuya' && s.toStationId === 'ochanomizu'))
+    );
+    expect(chuoMoatSeg?.viaCoords?.length).toBeGreaterThanOrEqual(10);
+
+    const rainbowBridgeSeg = tokyoTransitDataset.segments.find(
+      (s) =>
+        s.lineId === 'U' &&
+        ((s.fromStationId === 'takeshiba' && s.toStationId === 'odaiba-kaihinkoen') ||
+          (s.fromStationId === 'odaiba-kaihinkoen' && s.toStationId === 'takeshiba'))
+    );
+    expect(rainbowBridgeSeg?.viaCoords?.length).toBeGreaterThanOrEqual(10);
+  });
 });
 
 describe('TransitGraph', () => {
@@ -216,6 +252,37 @@ describe('TransitGraph', () => {
     expect(shinkansenRoutes.length).toBeGreaterThan(0);
     expect(shinkansenRoutes[0].legs[0].lineId).toBe('SHK-Tokaido');
     expect(shinkansenRoutes[0].fare.payableFare).toBeGreaterThan(1000);
+  });
+
+  it('materializes curved viaCoords cleanly in both forward and reverse route directions', () => {
+    const allowedLineIds = new Set(['JC']);
+    const forward = graph.findRoutes('ochanomizu', 'yotsuya', defaultIcWallet, { allowedLineIds });
+    const reverse = graph.findRoutes('yotsuya', 'ochanomizu', defaultIcWallet, { allowedLineIds });
+
+    expect(forward.length).toBeGreaterThan(0);
+    expect(reverse.length).toBeGreaterThan(0);
+
+    const fLeg = forward[0].legs[0];
+    const rLeg = reverse[0].legs[0];
+    expect(fLeg.lineId).toBe('JC');
+    expect(rLeg.lineId).toBe('JC');
+
+    const chuoMoatSeg = tokyoTransitDataset.segments.find(
+      (s) =>
+        s.lineId === 'JC' &&
+        s.fromStationId === 'ochanomizu' &&
+        s.toStationId === 'yotsuya'
+    );
+    const viaLen = chuoMoatSeg?.viaCoords?.length ?? 0;
+    expect(viaLen).toBeGreaterThanOrEqual(10);
+    expect(fLeg.coordinates).toHaveLength(2 + viaLen);
+    expect(rLeg.coordinates).toHaveLength(2 + viaLen);
+
+    const ochanomizu = tokyoTransitDataset.stations.find((s) => s.id === 'ochanomizu');
+    const yotsuya = tokyoTransitDataset.stations.find((s) => s.id === 'yotsuya');
+    expect(fLeg.coordinates[0]).toEqual(ochanomizu?.coord);
+    expect(fLeg.coordinates[fLeg.coordinates.length - 1]).toEqual(yotsuya?.coord);
+    expect([...fLeg.coordinates].reverse()).toEqual(rLeg.coordinates);
   });
 });
 
