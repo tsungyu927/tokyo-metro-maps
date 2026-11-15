@@ -1,0 +1,142 @@
+{
+  "appTitle": "Tokyo Rail Compass",
+  "appSubtitle": "東京互動式鐵道與票夾探索",
+  "tabs": {
+    "explore": "路線地圖",
+    "wallet": "我的票夾",
+    "lines": "路線設定"
+  },
+  "selector": {
+    "originLabel": "起點",
+    "destinationLabel": "終點",
+    "selectOriginPlaceholder": "點擊地圖圓點選擇起點",
+    "selectDestinationPlaceholder": "點擊地圖選擇第 2 站（終點）",
+    "swapAria": "對調起訖站",
+    "clearDestinationAria": "清除終點",
+    "resetAria": "重設選取"
+  },
+  "idle": {
+    "headline": "點擊地圖任一車站圓點開始",
+    "step1Title": "① 第一次點擊車站",
+    "step1Desc": "自動點亮通過該站的所有已啟用路線，其餘路網淡出。",
+    "step2Title": "② 第二次點擊車站",
+    "step2Desc": "立即比較多種搭乘方案、行車＋站內轉乘分鐘數，以及套用票夾後的實付票價。",
+    "step3Title": "③ 點擊第三個車站",
+    "step3Desc": "保留起點不變、直接替換新終點，方便連續比價不同目的地。",
+    "quickStartsLabel": "常用樞紐快速試點"
+  },
+  "stationDetail": {
+    "originSelectedBadge": "起點已選取",
+    "linesServingCount": "{count} 條路線交會",
+    "litLinesHeading": "本站點亮路線",
+    "nextStepHint": "接著點擊地圖上任一站，或從下方選取常見目的地：",
+    "popularDestinationsLabel": "熱門直試終點"
+  },
+  "routes": {
+    "tags": {
+      "fastest": "最快推薦",
+      "direct": "免轉乘直達",
+      "passSaver": "票夾最省",
+      "alternative": "替代路線"
+    },
+    "minutesUnit": "分",
+    "directLabel": "直達 · 0 轉乘",
+    "transfersCountLabel": "{count} 次轉乘",
+    "rideSummary": "行車 {ride} 分 · 轉乘步行 {walk} 分",
+    "passSavedBadge": "票夾已折抵 {currency}{amount}",
+    "passFullFreeBadge": "周遊券全額折抵",
+    "interOperatorDiscountBadge": "Metro/都營轉乘折 {currency}{amount}",
+    "paidByIc": "IC 卡計價",
+    "paidByCash": "現金切符",
+    "noRoutesFound": "在目前勾選的路線圖層下找不到可達路線，請至「路線設定」開啟更多路線或切換預設組合。",
+    "legDuration": "乘車 {minutes} 分",
+    "transferWalkEasy": "站內轉乘 {minutes} 分",
+    "transferWalkNormal": "站內轉乘 {minutes} 分",
+    "transferWalkHard": "站內長距離步行 {minutes} 分",
+    "thirdClickHint": "提示：直接點擊地圖上的其他車站，即可保留起點「{origin}」並立即切換終點。"
+  },
+  "transfer": {
+    "crossPlatform": "同月台對面換車（免上下樓梯）",
+    "stairsDown": "月台連通道轉乘",
+    "sameConcourse": "同付費區大廳快速換線",
+    "uenoGates": "JR ↔ 地下鐵出閘轉乘",
+    "undergroundPassage": "地下連通道步行",
+    "deepUnderground": "深層地下月台・手扶梯較長",
+    "longPassage": "跨區長通道轉乘",
+    "keiyoWalk": "往京葉線長距離地下通道",
+    "marunouchiGate": "經丸之內地下改札口",
+    "otemachiMaze": "大手町地下連通道",
+    "interStationLink": "地下連通道相連車站",
+    "sameOperatorDefault": "同系統站內轉乘",
+    "crossOperatorDefault": "跨鐵道公司出閘轉乘",
+    "throughService": "直通運轉（同班列車直達）"
+  },
+  "wallet": {
+    "title": "我的票夾 (Transit Wallet)",
+    "subtitle": "勾選持有的交通卡與周遊券，地圖路線將即時扣除免費區間並計算實付差額。",
+    "baseMethodHeading": "基礎支付方式（單選・補票區間計價）",
+    "icTitle": "Suica / PASMO / ICOCA (交通 IC 卡)",
+    "icDesc": "¥1 單位精算 · Metro ↔ 都營轉乘自動折抵 ¥70",
+    "cashTitle": "現金購票 (切符)",
+    "cashDesc": "¥10 單位進位費率",
+    "passesHeading": "持有周遊券・一日券（可複選折抵）",
+    "activeSummaryNone": "目前僅使用「{method}」計算標準票價。",
+    "activeSummaryWithPasses": "已啟用「{method}」＋ {count} 張周遊券：路線將自動折抵免費區間並算出補票差額。",
+    "enabledBadge": "已啟用"
+  },
+  "controls": {
+    "zoomIn": "放大地圖",
+    "zoomOut": "縮小地圖",
+    "resetView": "回到東京都心",
+    "sheetPeek": "展開路線",
+    "sheetHalf": "半開",
+    "sheetFull": "全開"
+  },
+  "errorBoundary": {
+    "title": "畫面渲染發生錯誤",
+    "description": "應用程式遇到非預期錯誤而中止渲染，請重新整理頁面或回報以下訊息：",
+    "reloadButton": "重新整理頁面"
+  },
+  "settings": {
+    "title": "路線圖層與計算設定",
+    "subtitle": "僅顯示並計算已勾選路線（含點到點乘車時間與票價）",
+    "enabledSummary": "已啟用 {enabled} / {total} 條",
+    "zeroWarningTitle": "目前未啟用任何路線",
+    "zeroWarningBody": "請至少勾選一條路線，或點選下方「推薦預設」以恢復東京核心觀光路網。",
+    "presetsLabel": "快速路網組合",
+    "presets": {
+      "recommended": "推薦預設",
+      "withPrivateHubs": "＋熱門私鐵",
+      "subwayOnly": "僅地下鐵",
+      "all": "全選"
+    },
+    "legendTitle": "5 種軌道樣式與車站形狀圖例",
+    "legendMultiKindHint": "若車站同時停靠多種軌道（如地鐵＋JR），統一顯示「圓形色環點」",
+    "stationShapesHint": "站點圖示：圓點＝地鐵 / 多軌道樞紐・方點＝JR / 私鐵・雙環＝新幹線・菱形＝單軌 / 路面",
+    "railwayKinds": {
+      "subway": "地下鐵",
+      "jr": "JR 在來線",
+      "private": "私鐵・臨海",
+      "shinkansen": "新幹線",
+      "monorail": "單軌・路面"
+    },
+    "railwayKindsShort": {
+      "subway": "地鐵",
+      "jr": "JR",
+      "private": "私鐵",
+      "shinkansen": "新幹線",
+      "monorail": "單軌・路面"
+    },
+    "searchPlaceholder": "搜尋路線名稱或代碼（如 JY、銀座、新幹線）...",
+    "clearSearch": "清除搜尋",
+    "emptySearch": "找不到符合「{query}」的路線",
+    "selectAllGroup": "全選",
+    "clearGroup": "全不選",
+    "defaultBadge": "推薦",
+    "openLineSettingsAria": "前往路線設定",
+    "kindUnconfiguredHint": "尚未在「路線設定」勾選此類路線",
+    "hiddenByQuickFilterNotice": "右下角快捷篩選目前暫時隱藏了 {count} 條已勾選路線",
+    "showAllConfiguredButton": "恢復顯示"
+  }
+}
+

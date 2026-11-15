@@ -1,0 +1,769 @@
+[
+  {
+    "id": "G",
+    "code": "G",
+    "operatorId": "TokyoMetro",
+    "name": "銀座線",
+    "color": "#FF9500",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "M",
+    "code": "M",
+    "operatorId": "TokyoMetro",
+    "name": "丸ノ内線",
+    "color": "#F62E36",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "Mb",
+    "code": "Mb",
+    "operatorId": "TokyoMetro",
+    "name": "丸ノ内線（方南町支線）",
+    "color": "#F62E36",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "H",
+    "code": "H",
+    "operatorId": "TokyoMetro",
+    "name": "日比谷線",
+    "color": "#B5B5AC",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "T",
+    "code": "T",
+    "operatorId": "TokyoMetro",
+    "name": "東西線",
+    "color": "#009BBF",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "C",
+    "code": "C",
+    "operatorId": "TokyoMetro",
+    "name": "千代田線",
+    "color": "#00BB85",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "Y",
+    "code": "Y",
+    "operatorId": "TokyoMetro",
+    "name": "有楽町線",
+    "color": "#C1A470",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "Z",
+    "code": "Z",
+    "operatorId": "TokyoMetro",
+    "name": "半蔵門線",
+    "color": "#8F76D6",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "N",
+    "code": "N",
+    "operatorId": "TokyoMetro",
+    "name": "南北線",
+    "color": "#00AC9B",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "F",
+    "code": "F",
+    "operatorId": "TokyoMetro",
+    "name": "副都心線",
+    "color": "#9C5E31",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "A",
+    "code": "A",
+    "operatorId": "Toei",
+    "name": "都営浅草線",
+    "color": "#EC6E65",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "I",
+    "code": "I",
+    "operatorId": "Toei",
+    "name": "都営三田線",
+    "color": "#006CB6",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "S",
+    "code": "S",
+    "operatorId": "Toei",
+    "name": "都営新宿線",
+    "color": "#B0BF1E",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "E",
+    "code": "E",
+    "operatorId": "Toei",
+    "name": "都営大江戸線",
+    "color": "#B6007A",
+    "railwayKind": "subway",
+    "defaultEnabled": true,
+    "tier": "tier0",
+    "isLoop": true
+  },
+  {
+    "id": "JY",
+    "code": "JY",
+    "operatorId": "JR-East",
+    "name": "JR山手線",
+    "color": "#80C241",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0",
+    "isLoop": true
+  },
+  {
+    "id": "JC",
+    "code": "JC",
+    "operatorId": "JR-East",
+    "name": "JR中央線快速",
+    "color": "#F15A22",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "JB",
+    "code": "JB",
+    "operatorId": "JR-East",
+    "name": "JR中央・総武線",
+    "color": "#FFD400",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "JK",
+    "code": "JK",
+    "operatorId": "JR-East",
+    "name": "JR京浜東北線",
+    "color": "#00B2E5",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "JA",
+    "code": "JA",
+    "operatorId": "JR-East",
+    "name": "JR埼京線",
+    "color": "#00AC9A",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "JS",
+    "code": "JS",
+    "operatorId": "JR-East",
+    "name": "JR湘南新宿ライン",
+    "color": "#E21F26",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "JE",
+    "code": "JE",
+    "operatorId": "JR-East",
+    "name": "JR京葉線",
+    "color": "#C9252F",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "JO",
+    "code": "JO",
+    "operatorId": "JR-East",
+    "name": "JR横須賀・総武快速線",
+    "color": "#0067C0",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0"
+  },
+  {
+    "id": "NEX",
+    "code": "NEX",
+    "operatorId": "JR-East",
+    "name": "成田エクスプレス N'EX",
+    "color": "#E60012",
+    "railwayKind": "jr",
+    "defaultEnabled": true,
+    "tier": "tier0",
+    "isExpress": true
+  },
+  {
+    "id": "MO",
+    "code": "MO",
+    "operatorId": "TokyoMonorail",
+    "name": "東京モノレール羽田空港線",
+    "color": "#0068B7",
+    "railwayKind": "monorail",
+    "defaultEnabled": true,
+    "tier": "tier1"
+  },
+  {
+    "id": "U",
+    "code": "U",
+    "operatorId": "Yurikamome",
+    "name": "ゆりかもめ",
+    "color": "#00A0DE",
+    "railwayKind": "monorail",
+    "defaultEnabled": true,
+    "tier": "tier1"
+  },
+  {
+    "id": "R",
+    "code": "R",
+    "operatorId": "Rinkai",
+    "name": "りんかい線",
+    "color": "#004098",
+    "railwayKind": "private",
+    "defaultEnabled": true,
+    "tier": "tier1"
+  },
+  {
+    "id": "KK",
+    "code": "KK",
+    "operatorId": "Keikyu",
+    "name": "京急本線",
+    "color": "#E5002D",
+    "railwayKind": "private",
+    "defaultEnabled": true,
+    "tier": "tier1"
+  },
+  {
+    "id": "KKA",
+    "code": "KKA",
+    "operatorId": "Keikyu",
+    "name": "京急空港線",
+    "color": "#E5002D",
+    "railwayKind": "private",
+    "defaultEnabled": true,
+    "tier": "tier1"
+  },
+  {
+    "id": "KS",
+    "code": "KS",
+    "operatorId": "Keisei",
+    "name": "京成本線",
+    "color": "#005AAA",
+    "railwayKind": "private",
+    "defaultEnabled": true,
+    "tier": "tier1"
+  },
+  {
+    "id": "KSO",
+    "code": "KSO",
+    "operatorId": "Keisei",
+    "name": "京成押上線",
+    "color": "#005AAA",
+    "railwayKind": "private",
+    "defaultEnabled": true,
+    "tier": "tier1"
+  },
+  {
+    "id": "TY",
+    "code": "TY",
+    "operatorId": "Tokyu",
+    "name": "東急東横線",
+    "color": "#D90226",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "MG",
+    "code": "MG",
+    "operatorId": "Tokyu",
+    "name": "東急目黒線",
+    "color": "#009CD2",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "DT",
+    "code": "DT",
+    "operatorId": "Tokyu",
+    "name": "東急田園都市線",
+    "color": "#20A288",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "IN",
+    "code": "IN",
+    "operatorId": "Keio",
+    "name": "京王井の頭線",
+    "color": "#224499",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "KO",
+    "code": "KO",
+    "operatorId": "Keio",
+    "name": "京王線",
+    "color": "#DD0077",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "OH",
+    "code": "OH",
+    "operatorId": "Odakyu",
+    "name": "小田急小田原線",
+    "color": "#0078C8",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "TS",
+    "code": "TS",
+    "operatorId": "Tobu",
+    "name": "東武スカイツリーライン",
+    "color": "#0F6CC3",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "TX",
+    "code": "TX",
+    "operatorId": "Rinkai",
+    "name": "つくばエクスプレス",
+    "color": "#CC0000",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier2"
+  },
+  {
+    "id": "JT",
+    "code": "JT",
+    "operatorId": "JR-East",
+    "name": "JR東海道線",
+    "color": "#F68B1E",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "JU",
+    "code": "JU",
+    "operatorId": "JR-East",
+    "name": "JR上野東京ライン",
+    "color": "#F68B1E",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "JJ",
+    "code": "JJ",
+    "operatorId": "JR-East",
+    "name": "JR常磐線快速",
+    "color": "#00B261",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "JL",
+    "code": "JL",
+    "operatorId": "JR-East",
+    "name": "JR常磐線各駅停車",
+    "color": "#787878",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "JM",
+    "code": "JM",
+    "operatorId": "JR-East",
+    "name": "JR武蔵野線",
+    "color": "#F15A22",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "JN",
+    "code": "JN",
+    "operatorId": "JR-East",
+    "name": "JR南武線",
+    "color": "#FFD400",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "JH",
+    "code": "JH",
+    "operatorId": "JR-East",
+    "name": "JR横浜線",
+    "color": "#7FC342",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "OME",
+    "code": "JC",
+    "operatorId": "JR-East",
+    "name": "JR青梅線",
+    "color": "#F15A22",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "ITS",
+    "code": "JC",
+    "operatorId": "JR-East",
+    "name": "JR五日市線",
+    "color": "#F15A22",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "HCK",
+    "code": "HCK",
+    "operatorId": "JR-East",
+    "name": "JR八高線",
+    "color": "#A8A8A8",
+    "railwayKind": "jr",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SHK-Tohoku",
+    "code": "東北",
+    "operatorId": "Shinkansen",
+    "name": "東北・山形・秋田新幹線",
+    "color": "#008000",
+    "railwayKind": "shinkansen",
+    "defaultEnabled": false,
+    "tier": "tier3",
+    "isExpress": true
+  },
+  {
+    "id": "SHK-Joetsu",
+    "code": "上越",
+    "operatorId": "Shinkansen",
+    "name": "上越新幹線",
+    "color": "#E64D3D",
+    "railwayKind": "shinkansen",
+    "defaultEnabled": false,
+    "tier": "tier3",
+    "isExpress": true
+  },
+  {
+    "id": "SHK-Hokuriku",
+    "code": "北陸",
+    "operatorId": "Shinkansen",
+    "name": "北陸新幹線",
+    "color": "#8C59B5",
+    "railwayKind": "shinkansen",
+    "defaultEnabled": false,
+    "tier": "tier3",
+    "isExpress": true
+  },
+  {
+    "id": "SHK-Tokaido",
+    "code": "東海道",
+    "operatorId": "Shinkansen",
+    "name": "東海道新幹線",
+    "color": "#003399",
+    "railwayKind": "shinkansen",
+    "defaultEnabled": false,
+    "tier": "tier3",
+    "isExpress": true
+  },
+  {
+    "id": "OM",
+    "code": "OM",
+    "operatorId": "Tokyu",
+    "name": "東急大井町線",
+    "color": "#F18C43",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "IK",
+    "code": "IK",
+    "operatorId": "Tokyu",
+    "name": "東急池上線",
+    "color": "#EE86A7",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "TM",
+    "code": "TM",
+    "operatorId": "Tokyu",
+    "name": "東急多摩川線",
+    "color": "#AE0378",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SG",
+    "code": "SG",
+    "operatorId": "Tokyu",
+    "name": "東急世田谷線",
+    "color": "#FCC70D",
+    "railwayKind": "monorail",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "KOT",
+    "code": "KO",
+    "operatorId": "Keio",
+    "name": "京王高尾線",
+    "color": "#DD0077",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "KOS",
+    "code": "KO",
+    "operatorId": "Keio",
+    "name": "京王相模原線",
+    "color": "#DD0077",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "KOD",
+    "code": "KO",
+    "operatorId": "Keio",
+    "name": "京王動物園線",
+    "color": "#DD0077",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "OT",
+    "code": "OT",
+    "operatorId": "Odakyu",
+    "name": "小田急多摩線",
+    "color": "#0078C8",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SI",
+    "code": "SI",
+    "operatorId": "Seibu",
+    "name": "西武池袋線",
+    "color": "#EF7A00",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SIY",
+    "code": "SI",
+    "operatorId": "Seibu",
+    "name": "西武有楽町線",
+    "color": "#EF7A00",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SIT",
+    "code": "SI",
+    "operatorId": "Seibu",
+    "name": "西武豊島線",
+    "color": "#EF7A00",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SS",
+    "code": "SS",
+    "operatorId": "Seibu",
+    "name": "西武新宿線",
+    "color": "#00A7E3",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SSH",
+    "code": "SS",
+    "operatorId": "Seibu",
+    "name": "西武拝島線",
+    "color": "#00A7E3",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SK",
+    "code": "SK",
+    "operatorId": "Seibu",
+    "name": "西武国分寺線",
+    "color": "#00A651",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "ST",
+    "code": "ST",
+    "operatorId": "Seibu",
+    "name": "西武多摩湖線",
+    "color": "#F7931E",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SW",
+    "code": "SW",
+    "operatorId": "Seibu",
+    "name": "西武多摩川線",
+    "color": "#F15A22",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "TSK",
+    "code": "TS",
+    "operatorId": "Tobu",
+    "name": "東武亀戸線",
+    "color": "#0F6CC3",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "TSD",
+    "code": "TS",
+    "operatorId": "Tobu",
+    "name": "東武大師線",
+    "color": "#0F6CC3",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "TJ",
+    "code": "TJ",
+    "operatorId": "Tobu",
+    "name": "東武東上線",
+    "color": "#004098",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "KSK",
+    "code": "KS",
+    "operatorId": "Keisei",
+    "name": "京成金町線",
+    "color": "#005AAA",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "HS",
+    "code": "HS",
+    "operatorId": "Keisei",
+    "name": "北総鉄道北総線",
+    "color": "#0072BC",
+    "railwayKind": "private",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "SA",
+    "code": "SA",
+    "operatorId": "Toei-Tram",
+    "name": "都電荒川線 (東京さくらトラム)",
+    "color": "#E85298",
+    "railwayKind": "monorail",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "NT",
+    "code": "NT",
+    "operatorId": "Toei-Tram",
+    "name": "日暮里・舎人ライナー",
+    "color": "#00A0E9",
+    "railwayKind": "monorail",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  },
+  {
+    "id": "TT",
+    "code": "TT",
+    "operatorId": "Toei-Tram",
+    "name": "多摩都市モノレール",
+    "color": "#F39800",
+    "railwayKind": "monorail",
+    "defaultEnabled": false,
+    "tier": "tier3"
+  }
+]

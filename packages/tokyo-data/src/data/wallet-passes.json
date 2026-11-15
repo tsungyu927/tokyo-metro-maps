@@ -1,0 +1,46 @@
+[
+  {
+    "id": "tokyo-subway-ticket",
+    "name": "Tokyo Subway Ticket (24/48/72h)",
+    "subtitle": "東京メトロ全 9 線 + 都営地下鉄全 4 線 ¥0",
+    "badgeColor": "#00A7DB",
+    "coveredOperators": [
+      "TokyoMetro",
+      "Toei"
+    ]
+  },
+  {
+    "id": "tokyo-metro-24h",
+    "name": "東京メトロ24時間券",
+    "subtitle": "東京メトロ全 9 線 ¥0",
+    "badgeColor": "#009BBF",
+    "coveredOperators": [
+      "TokyoMetro"
+    ]
+  },
+  {
+    "id": "toei-oneday",
+    "name": "都営まるごときっぷ",
+    "subtitle": "都営地下鉄全 4 線 + 都電荒川線・舎人ライナー ¥0",
+    "badgeColor": "#B6007A",
+    "coveredOperators": [
+      "Toei",
+      "Toei-Tram"
+    ],
+    "excludedLineIds": [
+      "TT"
+    ]
+  },
+  {
+    "id": "jr-tokunai-pass",
+    "name": "JR都区内パス (Tokunai Pass)",
+    "subtitle": "東京 23 區內 JR 普通・快速線 ¥0（不含 N'EX）",
+    "badgeColor": "#80C241",
+    "coveredOperators": [
+      "JR-East"
+    ],
+    "excludedLineIds": [
+      "NEX"
+    ]
+  }
+]

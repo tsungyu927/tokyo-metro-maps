@@ -1,0 +1,3873 @@
+[
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "kanda",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "kanda",
+    "toStationId": "akihabara",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "akihabara",
+    "toStationId": "okachimachi",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "okachimachi",
+    "toStationId": "ueno",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "ueno",
+    "toStationId": "uguisudani",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "uguisudani",
+    "toStationId": "nippori",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "nippori",
+    "toStationId": "nishi-nippori",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "nishi-nippori",
+    "toStationId": "tabata",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "tabata",
+    "toStationId": "komagome",
+    "lineId": "JY",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "komagome",
+    "toStationId": "sugamo",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "sugamo",
+    "toStationId": "otsuka",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "otsuka",
+    "toStationId": "ikebukuro",
+    "lineId": "JY",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "ikebukuro",
+    "toStationId": "mejiro",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "mejiro",
+    "toStationId": "takadanobaba",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "takadanobaba",
+    "toStationId": "shin-okubo",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "shin-okubo",
+    "toStationId": "shinjuku",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "yoyogi",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "yoyogi",
+    "toStationId": "harajuku",
+    "lineId": "JY",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "harajuku",
+    "toStationId": "shibuya",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "ebisu",
+    "lineId": "JY",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "ebisu",
+    "toStationId": "meguro",
+    "lineId": "JY",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "meguro",
+    "toStationId": "gotanda",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "gotanda",
+    "toStationId": "osaki",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "osaki",
+    "toStationId": "shinagawa",
+    "lineId": "JY",
+    "rideMinutes": 4,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "shinagawa",
+    "toStationId": "takanawa-gateway",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "takanawa-gateway",
+    "toStationId": "tamachi",
+    "lineId": "JY",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "tamachi",
+    "toStationId": "hamamatsucho",
+    "lineId": "JY",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "hamamatsucho",
+    "toStationId": "shimbashi",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "yurakucho",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "yurakucho",
+    "toStationId": "tokyo",
+    "lineId": "JY",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "kanda",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "kanda",
+    "toStationId": "ochanomizu",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "ochanomizu",
+    "toStationId": "yotsuya",
+    "lineId": "JC",
+    "rideMinutes": 5,
+    "distanceKm": 3.5
+  },
+  {
+    "fromStationId": "yotsuya",
+    "toStationId": "shinjuku",
+    "lineId": "JC",
+    "rideMinutes": 5,
+    "distanceKm": 4.2
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "nakano",
+    "lineId": "JC",
+    "rideMinutes": 4,
+    "distanceKm": 4.4
+  },
+  {
+    "fromStationId": "nakano",
+    "toStationId": "koenji",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "koenji",
+    "toStationId": "asagaya",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "asagaya",
+    "toStationId": "ogikubo",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "ogikubo",
+    "toStationId": "nishi-ogikubo",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "nishi-ogikubo",
+    "toStationId": "kichijoji",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "kichijoji",
+    "toStationId": "mitaka",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "mitaka",
+    "toStationId": "musashi-sakai",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "musashi-sakai",
+    "toStationId": "koganei",
+    "lineId": "JC",
+    "rideMinutes": 4,
+    "distanceKm": 3.3
+  },
+  {
+    "fromStationId": "koganei",
+    "toStationId": "kokubunji",
+    "lineId": "JC",
+    "rideMinutes": 3,
+    "distanceKm": 2.3
+  },
+  {
+    "fromStationId": "kokubunji",
+    "toStationId": "nishi-kokubunji",
+    "lineId": "JC",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "nishi-kokubunji",
+    "toStationId": "tachikawa",
+    "lineId": "JC",
+    "rideMinutes": 5,
+    "distanceKm": 4.7
+  },
+  {
+    "fromStationId": "tachikawa",
+    "toStationId": "hino",
+    "lineId": "JC",
+    "rideMinutes": 3,
+    "distanceKm": 2.8
+  },
+  {
+    "fromStationId": "hino",
+    "toStationId": "hachioji",
+    "lineId": "JC",
+    "rideMinutes": 5,
+    "distanceKm": 5.2
+  },
+  {
+    "fromStationId": "hachioji",
+    "toStationId": "takao",
+    "lineId": "JC",
+    "rideMinutes": 6,
+    "distanceKm": 5.7
+  },
+  {
+    "fromStationId": "mitaka",
+    "toStationId": "kichijoji",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "kichijoji",
+    "toStationId": "nishi-ogikubo",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "nishi-ogikubo",
+    "toStationId": "ogikubo",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "ogikubo",
+    "toStationId": "asagaya",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "asagaya",
+    "toStationId": "koenji",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "koenji",
+    "toStationId": "nakano",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "nakano",
+    "toStationId": "shinjuku",
+    "lineId": "JB",
+    "rideMinutes": 7,
+    "distanceKm": 4.4
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "yoyogi",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "yoyogi",
+    "toStationId": "yotsuya",
+    "lineId": "JB",
+    "rideMinutes": 6,
+    "distanceKm": 3.5
+  },
+  {
+    "fromStationId": "yotsuya",
+    "toStationId": "ichigaya",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "ichigaya",
+    "toStationId": "iidabashi",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "iidabashi",
+    "toStationId": "suidobashi",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "suidobashi",
+    "toStationId": "ochanomizu",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "ochanomizu",
+    "toStationId": "akihabara",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "akihabara",
+    "toStationId": "asakusabashi",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "asakusabashi",
+    "toStationId": "ryogoku",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "ryogoku",
+    "toStationId": "kinshicho",
+    "lineId": "JB",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "kinshicho",
+    "toStationId": "kameido",
+    "lineId": "JB",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "kameido",
+    "toStationId": "shin-koiwa",
+    "lineId": "JB",
+    "rideMinutes": 4,
+    "distanceKm": 3.7
+  },
+  {
+    "fromStationId": "shin-koiwa",
+    "toStationId": "koiwa",
+    "lineId": "JB",
+    "rideMinutes": 3,
+    "distanceKm": 2.8
+  },
+  {
+    "fromStationId": "akabane",
+    "toStationId": "oji",
+    "lineId": "JK",
+    "rideMinutes": 5,
+    "distanceKm": 4.2
+  },
+  {
+    "fromStationId": "oji",
+    "toStationId": "tabata",
+    "lineId": "JK",
+    "rideMinutes": 3,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "tabata",
+    "toStationId": "nippori",
+    "lineId": "JK",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "nippori",
+    "toStationId": "ueno",
+    "lineId": "JK",
+    "rideMinutes": 4,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "ueno",
+    "toStationId": "okachimachi",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "okachimachi",
+    "toStationId": "akihabara",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "akihabara",
+    "toStationId": "kanda",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "kanda",
+    "toStationId": "tokyo",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "yurakucho",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "yurakucho",
+    "toStationId": "shimbashi",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "hamamatsucho",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "hamamatsucho",
+    "toStationId": "tamachi",
+    "lineId": "JK",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "tamachi",
+    "toStationId": "takanawa-gateway",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "takanawa-gateway",
+    "toStationId": "shinagawa",
+    "lineId": "JK",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "shinagawa",
+    "toStationId": "oimachi",
+    "lineId": "JK",
+    "rideMinutes": 4,
+    "distanceKm": 2.4
+  },
+  {
+    "fromStationId": "oimachi",
+    "toStationId": "omori",
+    "lineId": "JK",
+    "rideMinutes": 3,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "omori",
+    "toStationId": "kamata",
+    "lineId": "JK",
+    "rideMinutes": 3,
+    "distanceKm": 3
+  },
+  {
+    "fromStationId": "akabane",
+    "toStationId": "jujo",
+    "lineId": "JA",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "jujo",
+    "toStationId": "itabashi",
+    "lineId": "JA",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "itabashi",
+    "toStationId": "ikebukuro",
+    "lineId": "JA",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "ikebukuro",
+    "toStationId": "shinjuku",
+    "lineId": "JA",
+    "rideMinutes": 5,
+    "distanceKm": 4.8
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "shibuya",
+    "lineId": "JA",
+    "rideMinutes": 5,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "ebisu",
+    "lineId": "JA",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "ebisu",
+    "toStationId": "osaki",
+    "lineId": "JA",
+    "rideMinutes": 4,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "akabane",
+    "toStationId": "ikebukuro",
+    "lineId": "JS",
+    "rideMinutes": 9,
+    "distanceKm": 7.4
+  },
+  {
+    "fromStationId": "ikebukuro",
+    "toStationId": "shinjuku",
+    "lineId": "JS",
+    "rideMinutes": 6,
+    "distanceKm": 4.8
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "shibuya",
+    "lineId": "JS",
+    "rideMinutes": 5,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "ebisu",
+    "lineId": "JS",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "ebisu",
+    "toStationId": "osaki",
+    "lineId": "JS",
+    "rideMinutes": 4,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "hatchobori",
+    "lineId": "JE",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "hatchobori",
+    "toStationId": "etchujima",
+    "lineId": "JE",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "etchujima",
+    "toStationId": "shinkiba",
+    "lineId": "JE",
+    "rideMinutes": 5,
+    "distanceKm": 4.6
+  },
+  {
+    "fromStationId": "shinkiba",
+    "toStationId": "maihama",
+    "lineId": "JE",
+    "rideMinutes": 6,
+    "distanceKm": 5.3
+  },
+  {
+    "fromStationId": "shinagawa",
+    "toStationId": "shimbashi",
+    "lineId": "JO",
+    "rideMinutes": 5,
+    "distanceKm": 4.9
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "tokyo",
+    "lineId": "JO",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "shin-nihombashi",
+    "lineId": "JO",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "shin-nihombashi",
+    "toStationId": "bakurocho",
+    "lineId": "JO",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "bakurocho",
+    "toStationId": "kinshicho",
+    "lineId": "JO",
+    "rideMinutes": 4,
+    "distanceKm": 2.5
+  },
+  {
+    "fromStationId": "kinshicho",
+    "toStationId": "shin-koiwa",
+    "lineId": "JO",
+    "rideMinutes": 4,
+    "distanceKm": 3.7
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "shibuya",
+    "lineId": "NEX",
+    "rideMinutes": 6,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "shinagawa",
+    "lineId": "NEX",
+    "rideMinutes": 11,
+    "distanceKm": 7.2
+  },
+  {
+    "fromStationId": "shinagawa",
+    "toStationId": "tokyo",
+    "lineId": "NEX",
+    "rideMinutes": 8,
+    "distanceKm": 6.8
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "narita-airport-t2",
+    "lineId": "NEX",
+    "rideMinutes": 53,
+    "distanceKm": 77.2
+  },
+  {
+    "fromStationId": "narita-airport-t2",
+    "toStationId": "narita-airport-t1",
+    "lineId": "NEX",
+    "rideMinutes": 3,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "tokyo",
+    "lineId": "NEX",
+    "rideMinutes": 19,
+    "distanceKm": 10.3
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "omotesando",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "omotesando",
+    "toStationId": "gaiemmae",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "gaiemmae",
+    "toStationId": "aoyama-itchome",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "aoyama-itchome",
+    "toStationId": "akasaka-mitsuke",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "akasaka-mitsuke",
+    "toStationId": "tameike-sanno",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "tameike-sanno",
+    "toStationId": "toranomon",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "toranomon",
+    "toStationId": "shimbashi",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "ginza",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "ginza",
+    "toStationId": "kyobashi",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "kyobashi",
+    "toStationId": "nihombashi",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "nihombashi",
+    "toStationId": "mitsukoshimae",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "mitsukoshimae",
+    "toStationId": "kanda",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "kanda",
+    "toStationId": "suehirocho",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "suehirocho",
+    "toStationId": "ueno-hirokoji",
+    "lineId": "G",
+    "rideMinutes": 1,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "ueno-hirokoji",
+    "toStationId": "ueno",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "ueno",
+    "toStationId": "inaricho",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "inaricho",
+    "toStationId": "tawaramachi",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "tawaramachi",
+    "toStationId": "asakusa",
+    "lineId": "G",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "ogikubo",
+    "toStationId": "minami-asagaya",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "minami-asagaya",
+    "toStationId": "shin-koenji",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "shin-koenji",
+    "toStationId": "higashi-koenji",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "higashi-koenji",
+    "toStationId": "shin-nakano",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "shin-nakano",
+    "toStationId": "nakano-sakaue",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "nakano-sakaue",
+    "toStationId": "nishi-shinjuku",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "nishi-shinjuku",
+    "toStationId": "shinjuku",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "shinjuku-sanchome",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.3
+  },
+  {
+    "fromStationId": "shinjuku-sanchome",
+    "toStationId": "shinjuku-gyoemmae",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "shinjuku-gyoemmae",
+    "toStationId": "yotsuya-sanchome",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "yotsuya-sanchome",
+    "toStationId": "yotsuya",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "yotsuya",
+    "toStationId": "akasaka-mitsuke",
+    "lineId": "M",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "akasaka-mitsuke",
+    "toStationId": "kokkai-gijidomae",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "kokkai-gijidomae",
+    "toStationId": "kasumigaseki",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "kasumigaseki",
+    "toStationId": "ginza",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "ginza",
+    "toStationId": "tokyo",
+    "lineId": "M",
+    "rideMinutes": 3,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "otemachi",
+    "lineId": "M",
+    "rideMinutes": 1,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "otemachi",
+    "toStationId": "awajicho",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "awajicho",
+    "toStationId": "ochanomizu",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "ochanomizu",
+    "toStationId": "hongo-sanchome",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "hongo-sanchome",
+    "toStationId": "korakuen",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "korakuen",
+    "toStationId": "myogadani",
+    "lineId": "M",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "myogadani",
+    "toStationId": "shin-otsuka",
+    "lineId": "M",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "shin-otsuka",
+    "toStationId": "ikebukuro",
+    "lineId": "M",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "nakano-sakaue",
+    "toStationId": "nakano-shimbashi",
+    "lineId": "Mb",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "nakano-shimbashi",
+    "toStationId": "nakano-fujimicho",
+    "lineId": "Mb",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "nakano-fujimicho",
+    "toStationId": "honancho",
+    "lineId": "Mb",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "nakameguro",
+    "toStationId": "ebisu",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "ebisu",
+    "toStationId": "hiro-o",
+    "lineId": "H",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "hiro-o",
+    "toStationId": "roppongi",
+    "lineId": "H",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "roppongi",
+    "toStationId": "kamiyacho",
+    "lineId": "H",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "kamiyacho",
+    "toStationId": "toranomon-hills",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "toranomon-hills",
+    "toStationId": "kasumigaseki",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "kasumigaseki",
+    "toStationId": "hibiya",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "hibiya",
+    "toStationId": "ginza",
+    "lineId": "H",
+    "rideMinutes": 1,
+    "distanceKm": 0.4
+  },
+  {
+    "fromStationId": "ginza",
+    "toStationId": "higashi-ginza",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.4
+  },
+  {
+    "fromStationId": "higashi-ginza",
+    "toStationId": "tsukiji",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "tsukiji",
+    "toStationId": "hatchobori",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "hatchobori",
+    "toStationId": "kayabacho",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "kayabacho",
+    "toStationId": "ningyocho",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "ningyocho",
+    "toStationId": "kodemmacho",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "kodemmacho",
+    "toStationId": "akihabara",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "akihabara",
+    "toStationId": "naka-okachimachi",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "naka-okachimachi",
+    "toStationId": "ueno",
+    "lineId": "H",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "ueno",
+    "toStationId": "minami-senju",
+    "lineId": "H",
+    "rideMinutes": 6,
+    "distanceKm": 3.2
+  },
+  {
+    "fromStationId": "minami-senju",
+    "toStationId": "kitasenju",
+    "lineId": "H",
+    "rideMinutes": 3,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "nakano",
+    "toStationId": "ochiai",
+    "lineId": "T",
+    "rideMinutes": 3,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "ochiai",
+    "toStationId": "takadanobaba",
+    "lineId": "T",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "takadanobaba",
+    "toStationId": "waseda",
+    "lineId": "T",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "waseda",
+    "toStationId": "kagurazaka",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "kagurazaka",
+    "toStationId": "iidabashi",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "iidabashi",
+    "toStationId": "kudanshita",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "kudanshita",
+    "toStationId": "takebashi",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "takebashi",
+    "toStationId": "otemachi",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "otemachi",
+    "toStationId": "nihombashi",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "nihombashi",
+    "toStationId": "kayabacho",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "kayabacho",
+    "toStationId": "monzen-nakacho",
+    "lineId": "T",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "monzen-nakacho",
+    "toStationId": "toyocho",
+    "lineId": "T",
+    "rideMinutes": 4,
+    "distanceKm": 2.4
+  },
+  {
+    "fromStationId": "toyocho",
+    "toStationId": "minami-sunamachi",
+    "lineId": "T",
+    "rideMinutes": 3,
+    "distanceKm": 2.4
+  },
+  {
+    "fromStationId": "minami-sunamachi",
+    "toStationId": "nishi-kasai",
+    "lineId": "T",
+    "rideMinutes": 3,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "nishi-kasai",
+    "toStationId": "kasai",
+    "lineId": "T",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "yoyogi-uehara",
+    "toStationId": "yoyogi-koen",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "yoyogi-koen",
+    "toStationId": "meiji-jingumae",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "meiji-jingumae",
+    "toStationId": "omotesando",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "omotesando",
+    "toStationId": "nogizaka",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "nogizaka",
+    "toStationId": "akasaka",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "akasaka",
+    "toStationId": "kokkai-gijidomae",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "kokkai-gijidomae",
+    "toStationId": "kasumigaseki",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "kasumigaseki",
+    "toStationId": "hibiya",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "hibiya",
+    "toStationId": "nijubashimae",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "nijubashimae",
+    "toStationId": "otemachi",
+    "lineId": "C",
+    "rideMinutes": 1,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "otemachi",
+    "toStationId": "shin-ochanomizu",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "shin-ochanomizu",
+    "toStationId": "yushima",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "yushima",
+    "toStationId": "nezu",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "nezu",
+    "toStationId": "sendagi",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "sendagi",
+    "toStationId": "nishi-nippori",
+    "lineId": "C",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "nishi-nippori",
+    "toStationId": "machiya",
+    "lineId": "C",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "machiya",
+    "toStationId": "kitasenju",
+    "lineId": "C",
+    "rideMinutes": 4,
+    "distanceKm": 2.5
+  },
+  {
+    "fromStationId": "kitasenju",
+    "toStationId": "ayase",
+    "lineId": "C",
+    "rideMinutes": 4,
+    "distanceKm": 2.6
+  },
+  {
+    "fromStationId": "ayase",
+    "toStationId": "kita-ayase",
+    "lineId": "C",
+    "rideMinutes": 4,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "chikatetsu-narimasu",
+    "toStationId": "chikatetsu-akatsuka",
+    "lineId": "Y",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "chikatetsu-akatsuka",
+    "toStationId": "heiwadai",
+    "lineId": "Y",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "heiwadai",
+    "toStationId": "hikawadai",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "hikawadai",
+    "toStationId": "kotake-mukaihara",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "kotake-mukaihara",
+    "toStationId": "senkawa",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "senkawa",
+    "toStationId": "kanamecho",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "kanamecho",
+    "toStationId": "ikebukuro",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "ikebukuro",
+    "toStationId": "higashi-ikebukuro",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "higashi-ikebukuro",
+    "toStationId": "gokokuji",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "gokokuji",
+    "toStationId": "edogawabashi",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "edogawabashi",
+    "toStationId": "iidabashi",
+    "lineId": "Y",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "iidabashi",
+    "toStationId": "ichigaya",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "ichigaya",
+    "toStationId": "kojimachi",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "kojimachi",
+    "toStationId": "nagatacho",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "nagatacho",
+    "toStationId": "sakuradamon",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "sakuradamon",
+    "toStationId": "yurakucho",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "yurakucho",
+    "toStationId": "ginza-itchome",
+    "lineId": "Y",
+    "rideMinutes": 1,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "ginza-itchome",
+    "toStationId": "shintomicho",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "shintomicho",
+    "toStationId": "tsukishima",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "tsukishima",
+    "toStationId": "toyosu",
+    "lineId": "Y",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "toyosu",
+    "toStationId": "tatsumi",
+    "lineId": "Y",
+    "rideMinutes": 2,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "tatsumi",
+    "toStationId": "shinkiba",
+    "lineId": "Y",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "omotesando",
+    "lineId": "Z",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "omotesando",
+    "toStationId": "aoyama-itchome",
+    "lineId": "Z",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "aoyama-itchome",
+    "toStationId": "nagatacho",
+    "lineId": "Z",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "nagatacho",
+    "toStationId": "hanzomon",
+    "lineId": "Z",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "hanzomon",
+    "toStationId": "kudanshita",
+    "lineId": "Z",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "kudanshita",
+    "toStationId": "jimbocho",
+    "lineId": "Z",
+    "rideMinutes": 1,
+    "distanceKm": 0.4
+  },
+  {
+    "fromStationId": "jimbocho",
+    "toStationId": "otemachi",
+    "lineId": "Z",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "otemachi",
+    "toStationId": "mitsukoshimae",
+    "lineId": "Z",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "mitsukoshimae",
+    "toStationId": "suitengumae",
+    "lineId": "Z",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "suitengumae",
+    "toStationId": "kiyosumi-shirakawa",
+    "lineId": "Z",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "kiyosumi-shirakawa",
+    "toStationId": "kinshicho",
+    "lineId": "Z",
+    "rideMinutes": 5,
+    "distanceKm": 2.9
+  },
+  {
+    "fromStationId": "kinshicho",
+    "toStationId": "oshiage",
+    "lineId": "Z",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "meguro",
+    "toStationId": "shirokanedai",
+    "lineId": "N",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "shirokanedai",
+    "toStationId": "shirokane-takanawa",
+    "lineId": "N",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "shirokane-takanawa",
+    "toStationId": "azabu-juban",
+    "lineId": "N",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "azabu-juban",
+    "toStationId": "roppongi-itchome",
+    "lineId": "N",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "roppongi-itchome",
+    "toStationId": "tameike-sanno",
+    "lineId": "N",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "tameike-sanno",
+    "toStationId": "nagatacho",
+    "lineId": "N",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "nagatacho",
+    "toStationId": "yotsuya",
+    "lineId": "N",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "yotsuya",
+    "toStationId": "ichigaya",
+    "lineId": "N",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "ichigaya",
+    "toStationId": "iidabashi",
+    "lineId": "N",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "iidabashi",
+    "toStationId": "korakuen",
+    "lineId": "N",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "korakuen",
+    "toStationId": "komagome",
+    "lineId": "N",
+    "rideMinutes": 6,
+    "distanceKm": 3.7
+  },
+  {
+    "fromStationId": "komagome",
+    "toStationId": "oji",
+    "lineId": "N",
+    "rideMinutes": 4,
+    "distanceKm": 2.3
+  },
+  {
+    "fromStationId": "oji",
+    "toStationId": "akabane-iwabuchi",
+    "lineId": "N",
+    "rideMinutes": 6,
+    "distanceKm": 3.9
+  },
+  {
+    "fromStationId": "chikatetsu-narimasu",
+    "toStationId": "chikatetsu-akatsuka",
+    "lineId": "F",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "chikatetsu-akatsuka",
+    "toStationId": "heiwadai",
+    "lineId": "F",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "heiwadai",
+    "toStationId": "hikawadai",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "hikawadai",
+    "toStationId": "kotake-mukaihara",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "kotake-mukaihara",
+    "toStationId": "senkawa",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "senkawa",
+    "toStationId": "kanamecho",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "kanamecho",
+    "toStationId": "ikebukuro",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "ikebukuro",
+    "toStationId": "zoshigaya",
+    "lineId": "F",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "zoshigaya",
+    "toStationId": "nishi-waseda",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "nishi-waseda",
+    "toStationId": "higashi-shinjuku",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "higashi-shinjuku",
+    "toStationId": "shinjuku-sanchome",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "shinjuku-sanchome",
+    "toStationId": "kita-sando",
+    "lineId": "F",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "kita-sando",
+    "toStationId": "meiji-jingumae",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "meiji-jingumae",
+    "toStationId": "shibuya",
+    "lineId": "F",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "nishi-magome",
+    "toStationId": "magome",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "magome",
+    "toStationId": "nakanobu",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "nakanobu",
+    "toStationId": "togoshi",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "togoshi",
+    "toStationId": "gotanda",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "gotanda",
+    "toStationId": "takanawadai",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "takanawadai",
+    "toStationId": "sengakuji",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "sengakuji",
+    "toStationId": "mita",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "mita",
+    "toStationId": "daimon",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "daimon",
+    "toStationId": "shimbashi",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "higashi-ginza",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "higashi-ginza",
+    "toStationId": "nihombashi",
+    "lineId": "A",
+    "rideMinutes": 4,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "nihombashi",
+    "toStationId": "ningyocho",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "ningyocho",
+    "toStationId": "higashi-nihombashi",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "higashi-nihombashi",
+    "toStationId": "asakusabashi",
+    "lineId": "A",
+    "rideMinutes": 1,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "asakusabashi",
+    "toStationId": "kuramae",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "kuramae",
+    "toStationId": "asakusa",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "asakusa",
+    "toStationId": "honjo-azumabashi",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "honjo-azumabashi",
+    "toStationId": "oshiage",
+    "lineId": "A",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "meguro",
+    "toStationId": "shirokanedai",
+    "lineId": "I",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "shirokanedai",
+    "toStationId": "shirokane-takanawa",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "shirokane-takanawa",
+    "toStationId": "mita",
+    "lineId": "I",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "mita",
+    "toStationId": "shibakoen",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "shibakoen",
+    "toStationId": "onarimon",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "onarimon",
+    "toStationId": "uchisaiwaicho",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "uchisaiwaicho",
+    "toStationId": "hibiya",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "hibiya",
+    "toStationId": "otemachi",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "otemachi",
+    "toStationId": "jimbocho",
+    "lineId": "I",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "jimbocho",
+    "toStationId": "suidobashi",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "suidobashi",
+    "toStationId": "kasuga",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "kasuga",
+    "toStationId": "sugamo",
+    "lineId": "I",
+    "rideMinutes": 5,
+    "distanceKm": 2.9
+  },
+  {
+    "fromStationId": "sugamo",
+    "toStationId": "nishi-sugamo",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "nishi-sugamo",
+    "toStationId": "shin-itabashi",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "shin-itabashi",
+    "toStationId": "itabashi-kuyakushomae",
+    "lineId": "I",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "itabashi-kuyakushomae",
+    "toStationId": "takashimadaira",
+    "lineId": "I",
+    "rideMinutes": 6,
+    "distanceKm": 4.9
+  },
+  {
+    "fromStationId": "takashimadaira",
+    "toStationId": "nishi-takashimadaira",
+    "lineId": "I",
+    "rideMinutes": 3,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "shinjuku-sanchome",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "shinjuku-sanchome",
+    "toStationId": "akebonobashi",
+    "lineId": "S",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "akebonobashi",
+    "toStationId": "ichigaya",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "ichigaya",
+    "toStationId": "kudanshita",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "kudanshita",
+    "toStationId": "jimbocho",
+    "lineId": "S",
+    "rideMinutes": 1,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "jimbocho",
+    "toStationId": "ogawamachi",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "ogawamachi",
+    "toStationId": "iwamotocho",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "iwamotocho",
+    "toStationId": "bakuro-yokoyama",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "bakuro-yokoyama",
+    "toStationId": "morishita",
+    "lineId": "S",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "morishita",
+    "toStationId": "sumiyoshi",
+    "lineId": "S",
+    "rideMinutes": 4,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "sumiyoshi",
+    "toStationId": "ojima",
+    "lineId": "S",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "ojima",
+    "toStationId": "higashi-ojima",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "higashi-ojima",
+    "toStationId": "funabori",
+    "lineId": "S",
+    "rideMinutes": 2,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "funabori",
+    "toStationId": "shinozaki",
+    "lineId": "S",
+    "rideMinutes": 6,
+    "distanceKm": 4.7
+  },
+  {
+    "fromStationId": "tochomae",
+    "toStationId": "shinjuku-nishiguchi",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "shinjuku-nishiguchi",
+    "toStationId": "higashi-shinjuku",
+    "lineId": "E",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "higashi-shinjuku",
+    "toStationId": "wakamatsu-kawada",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "wakamatsu-kawada",
+    "toStationId": "iidabashi",
+    "lineId": "E",
+    "rideMinutes": 5,
+    "distanceKm": 2.8
+  },
+  {
+    "fromStationId": "iidabashi",
+    "toStationId": "kasuga",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "kasuga",
+    "toStationId": "ueno-okachimachi",
+    "lineId": "E",
+    "rideMinutes": 4,
+    "distanceKm": 2.4
+  },
+  {
+    "fromStationId": "ueno-okachimachi",
+    "toStationId": "shin-okachimachi",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "shin-okachimachi",
+    "toStationId": "kuramae",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "kuramae",
+    "toStationId": "ryogoku",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "ryogoku",
+    "toStationId": "morishita",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "morishita",
+    "toStationId": "kiyosumi-shirakawa",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "kiyosumi-shirakawa",
+    "toStationId": "monzen-nakacho",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "monzen-nakacho",
+    "toStationId": "tsukishima",
+    "lineId": "E",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "tsukishima",
+    "toStationId": "kachidoki",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "kachidoki",
+    "toStationId": "tsukijishijo",
+    "lineId": "E",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "tsukijishijo",
+    "toStationId": "shiodome",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "shiodome",
+    "toStationId": "daimon",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "daimon",
+    "toStationId": "akabanebashi",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "akabanebashi",
+    "toStationId": "azabu-juban",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "azabu-juban",
+    "toStationId": "roppongi",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "roppongi",
+    "toStationId": "aoyama-itchome",
+    "lineId": "E",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "aoyama-itchome",
+    "toStationId": "kokuritsu-kyogijo",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "kokuritsu-kyogijo",
+    "toStationId": "yoyogi",
+    "lineId": "E",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "yoyogi",
+    "toStationId": "shinjuku",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.6
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "tochomae",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "tochomae",
+    "toStationId": "nishi-shinjuku-gochome",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "nishi-shinjuku-gochome",
+    "toStationId": "nakano-sakaue",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "nakano-sakaue",
+    "toStationId": "higashi-nakano",
+    "lineId": "E",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "higashi-nakano",
+    "toStationId": "nakai",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "nakai",
+    "toStationId": "ochiai-minami-nagasaki",
+    "lineId": "E",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "ochiai-minami-nagasaki",
+    "toStationId": "nerima",
+    "lineId": "E",
+    "rideMinutes": 4,
+    "distanceKm": 3
+  },
+  {
+    "fromStationId": "nerima",
+    "toStationId": "toshimaen",
+    "lineId": "E",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "toshimaen",
+    "toStationId": "hikarigaoka",
+    "lineId": "E",
+    "rideMinutes": 4,
+    "distanceKm": 2.7
+  },
+  {
+    "fromStationId": "hamamatsucho",
+    "toStationId": "tennozu-isle",
+    "lineId": "MO",
+    "rideMinutes": 5,
+    "distanceKm": 4
+  },
+  {
+    "fromStationId": "tennozu-isle",
+    "toStationId": "oi-keibajo-mae",
+    "lineId": "MO",
+    "rideMinutes": 4,
+    "distanceKm": 3.1
+  },
+  {
+    "fromStationId": "oi-keibajo-mae",
+    "toStationId": "ryutsu-center",
+    "lineId": "MO",
+    "rideMinutes": 3,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "ryutsu-center",
+    "toStationId": "haneda-t3",
+    "lineId": "MO",
+    "rideMinutes": 7,
+    "distanceKm": 6.2
+  },
+  {
+    "fromStationId": "haneda-t3",
+    "toStationId": "haneda-t1",
+    "lineId": "MO",
+    "rideMinutes": 3,
+    "distanceKm": 2.9
+  },
+  {
+    "fromStationId": "haneda-t1",
+    "toStationId": "haneda-t2",
+    "lineId": "MO",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "shiodome",
+    "lineId": "U",
+    "rideMinutes": 2,
+    "distanceKm": 0.4
+  },
+  {
+    "fromStationId": "shiodome",
+    "toStationId": "takeshiba",
+    "lineId": "U",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "takeshiba",
+    "toStationId": "odaiba-kaihinkoen",
+    "lineId": "U",
+    "rideMinutes": 4,
+    "distanceKm": 3.3
+  },
+  {
+    "fromStationId": "odaiba-kaihinkoen",
+    "toStationId": "daiba",
+    "lineId": "U",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "daiba",
+    "toStationId": "tokyo-big-sight",
+    "lineId": "U",
+    "rideMinutes": 4,
+    "distanceKm": 2.4
+  },
+  {
+    "fromStationId": "tokyo-big-sight",
+    "toStationId": "ariake",
+    "lineId": "U",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "ariake",
+    "toStationId": "shijo-mae",
+    "lineId": "U",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "shijo-mae",
+    "toStationId": "shin-toyosu",
+    "lineId": "U",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "shin-toyosu",
+    "toStationId": "toyosu",
+    "lineId": "U",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "osaki",
+    "toStationId": "oimachi",
+    "lineId": "R",
+    "rideMinutes": 3,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "oimachi",
+    "toStationId": "shinagawa-seaside",
+    "lineId": "R",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "shinagawa-seaside",
+    "toStationId": "tennozu-isle",
+    "lineId": "R",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "tennozu-isle",
+    "toStationId": "tokyo-teleport",
+    "lineId": "R",
+    "rideMinutes": 3,
+    "distanceKm": 2.9
+  },
+  {
+    "fromStationId": "tokyo-teleport",
+    "toStationId": "kokusai-tenjijo",
+    "lineId": "R",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "kokusai-tenjijo",
+    "toStationId": "shinonome",
+    "lineId": "R",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "shinonome",
+    "toStationId": "shinkiba",
+    "lineId": "R",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "sengakuji",
+    "toStationId": "shinagawa",
+    "lineId": "KK",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "shinagawa",
+    "toStationId": "aomono-yokocho",
+    "lineId": "KK",
+    "rideMinutes": 5,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "aomono-yokocho",
+    "toStationId": "heiwajima",
+    "lineId": "KK",
+    "rideMinutes": 4,
+    "distanceKm": 3.5
+  },
+  {
+    "fromStationId": "heiwajima",
+    "toStationId": "keikyu-kamata",
+    "lineId": "KK",
+    "rideMinutes": 3,
+    "distanceKm": 2.3
+  },
+  {
+    "fromStationId": "keikyu-kamata",
+    "toStationId": "rokugodote",
+    "lineId": "KK",
+    "rideMinutes": 3,
+    "distanceKm": 2.6
+  },
+  {
+    "fromStationId": "keikyu-kamata",
+    "toStationId": "kojiya",
+    "lineId": "KKA",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "kojiya",
+    "toStationId": "anamori-inari",
+    "lineId": "KKA",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "anamori-inari",
+    "toStationId": "tenkubashi",
+    "lineId": "KKA",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "tenkubashi",
+    "toStationId": "haneda-t3",
+    "lineId": "KKA",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "haneda-t3",
+    "toStationId": "haneda-t1",
+    "lineId": "KKA",
+    "rideMinutes": 3,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "keisei-ueno",
+    "toStationId": "nippori",
+    "lineId": "KS",
+    "rideMinutes": 4,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "nippori",
+    "toStationId": "machiya",
+    "lineId": "KS",
+    "rideMinutes": 4,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "machiya",
+    "toStationId": "senju-ohashi",
+    "lineId": "KS",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "senju-ohashi",
+    "toStationId": "aoto",
+    "lineId": "KS",
+    "rideMinutes": 6,
+    "distanceKm": 4.7
+  },
+  {
+    "fromStationId": "aoto",
+    "toStationId": "keisei-takasago",
+    "lineId": "KS",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "keisei-takasago",
+    "toStationId": "keisei-koiwa",
+    "lineId": "KS",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "oshiage",
+    "toStationId": "keisei-hikifune",
+    "lineId": "KSO",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "keisei-hikifune",
+    "toStationId": "yotsugi",
+    "lineId": "KSO",
+    "rideMinutes": 3,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "yotsugi",
+    "toStationId": "keisei-tateishi",
+    "lineId": "KSO",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "keisei-tateishi",
+    "toStationId": "aoto",
+    "lineId": "KSO",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "daikanyama",
+    "lineId": "TY",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "daikanyama",
+    "toStationId": "nakameguro",
+    "lineId": "TY",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "nakameguro",
+    "toStationId": "gakugei-daigaku",
+    "lineId": "TY",
+    "rideMinutes": 3,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "gakugei-daigaku",
+    "toStationId": "toritsu-daigaku",
+    "lineId": "TY",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "toritsu-daigaku",
+    "toStationId": "jiyugaoka",
+    "lineId": "TY",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "jiyugaoka",
+    "toStationId": "den-en-chofu",
+    "lineId": "TY",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "den-en-chofu",
+    "toStationId": "tamagawa",
+    "lineId": "TY",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "meguro",
+    "toStationId": "fudomae",
+    "lineId": "MG",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "fudomae",
+    "toStationId": "musashi-koyama",
+    "lineId": "MG",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "musashi-koyama",
+    "toStationId": "ookayama",
+    "lineId": "MG",
+    "rideMinutes": 4,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "ookayama",
+    "toStationId": "den-en-chofu",
+    "lineId": "MG",
+    "rideMinutes": 3,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "den-en-chofu",
+    "toStationId": "tamagawa",
+    "lineId": "MG",
+    "rideMinutes": 2,
+    "distanceKm": 0.8
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "ikejiri-ohashi",
+    "lineId": "DT",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "ikejiri-ohashi",
+    "toStationId": "sangenjaya",
+    "lineId": "DT",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "sangenjaya",
+    "toStationId": "komazawa-daigaku",
+    "lineId": "DT",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "komazawa-daigaku",
+    "toStationId": "sakura-shimmachi",
+    "lineId": "DT",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "sakura-shimmachi",
+    "toStationId": "yoga",
+    "lineId": "DT",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "yoga",
+    "toStationId": "futako-tamagawa",
+    "lineId": "DT",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "shibuya",
+    "toStationId": "shinsen",
+    "lineId": "IN",
+    "rideMinutes": 2,
+    "distanceKm": 0.5
+  },
+  {
+    "fromStationId": "shinsen",
+    "toStationId": "komaba-todaimae",
+    "lineId": "IN",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "komaba-todaimae",
+    "toStationId": "shimokitazawa",
+    "lineId": "IN",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "shimokitazawa",
+    "toStationId": "meidaimae",
+    "lineId": "IN",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "meidaimae",
+    "toStationId": "eifukucho",
+    "lineId": "IN",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "eifukucho",
+    "toStationId": "kugayama",
+    "lineId": "IN",
+    "rideMinutes": 5,
+    "distanceKm": 4.2
+  },
+  {
+    "fromStationId": "kugayama",
+    "toStationId": "kichijoji",
+    "lineId": "IN",
+    "rideMinutes": 4,
+    "distanceKm": 2.5
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "sasazuka",
+    "lineId": "KO",
+    "rideMinutes": 4,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "sasazuka",
+    "toStationId": "meidaimae",
+    "lineId": "KO",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "meidaimae",
+    "toStationId": "shimo-takaido",
+    "lineId": "KO",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "shimo-takaido",
+    "toStationId": "chitose-karasuyama",
+    "lineId": "KO",
+    "rideMinutes": 5,
+    "distanceKm": 3.8
+  },
+  {
+    "fromStationId": "chitose-karasuyama",
+    "toStationId": "chofu",
+    "lineId": "KO",
+    "rideMinutes": 7,
+    "distanceKm": 5.6
+  },
+  {
+    "fromStationId": "chofu",
+    "toStationId": "fuchu",
+    "lineId": "KO",
+    "rideMinutes": 7,
+    "distanceKm": 6.4
+  },
+  {
+    "fromStationId": "fuchu",
+    "toStationId": "bubaigawara",
+    "lineId": "KO",
+    "rideMinutes": 2,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "bubaigawara",
+    "toStationId": "seiseki-sakuragaoka",
+    "lineId": "KO",
+    "rideMinutes": 3,
+    "distanceKm": 2.9
+  },
+  {
+    "fromStationId": "seiseki-sakuragaoka",
+    "toStationId": "takahatafudo",
+    "lineId": "KO",
+    "rideMinutes": 4,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "takahatafudo",
+    "toStationId": "kitano",
+    "lineId": "KO",
+    "rideMinutes": 6,
+    "distanceKm": 6.4
+  },
+  {
+    "fromStationId": "kitano",
+    "toStationId": "keio-hachioji",
+    "lineId": "KO",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "shinjuku",
+    "toStationId": "yoyogi-hachiman",
+    "lineId": "OH",
+    "rideMinutes": 4,
+    "distanceKm": 2.5
+  },
+  {
+    "fromStationId": "yoyogi-hachiman",
+    "toStationId": "yoyogi-uehara",
+    "lineId": "OH",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "yoyogi-uehara",
+    "toStationId": "shimokitazawa",
+    "lineId": "OH",
+    "rideMinutes": 2,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "shimokitazawa",
+    "toStationId": "gotokuji",
+    "lineId": "OH",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "gotokuji",
+    "toStationId": "kyodo",
+    "lineId": "OH",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "kyodo",
+    "toStationId": "seijogakuen-mae",
+    "lineId": "OH",
+    "rideMinutes": 4,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "seijogakuen-mae",
+    "toStationId": "komae",
+    "lineId": "OH",
+    "rideMinutes": 3,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "komae",
+    "toStationId": "machida",
+    "lineId": "OH",
+    "rideMinutes": 10,
+    "distanceKm": 17
+  },
+  {
+    "fromStationId": "asakusa",
+    "toStationId": "tokyo-skytree",
+    "lineId": "TS",
+    "rideMinutes": 2,
+    "distanceKm": 1.1
+  },
+  {
+    "fromStationId": "tokyo-skytree",
+    "toStationId": "hikifune",
+    "lineId": "TS",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "hikifune",
+    "toStationId": "kitasenju",
+    "lineId": "TS",
+    "rideMinutes": 5,
+    "distanceKm": 4.5
+  },
+  {
+    "fromStationId": "kitasenju",
+    "toStationId": "nishiarai",
+    "lineId": "TS",
+    "rideMinutes": 4,
+    "distanceKm": 4.2
+  },
+  {
+    "fromStationId": "nishiarai",
+    "toStationId": "takenotsuka",
+    "lineId": "TS",
+    "rideMinutes": 3,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "oshiage",
+    "toStationId": "hikifune",
+    "lineId": "TS",
+    "rideMinutes": 2,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "akihabara",
+    "toStationId": "shin-okachimachi",
+    "lineId": "TX",
+    "rideMinutes": 2,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "shin-okachimachi",
+    "toStationId": "asakusa-tx",
+    "lineId": "TX",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "asakusa-tx",
+    "toStationId": "minami-senju",
+    "lineId": "TX",
+    "rideMinutes": 3,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "minami-senju",
+    "toStationId": "kitasenju",
+    "lineId": "TX",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "kitasenju",
+    "toStationId": "rokucho",
+    "lineId": "TX",
+    "rideMinutes": 5,
+    "distanceKm": 4.5
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "shimbashi",
+    "lineId": "JT",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "shinagawa",
+    "lineId": "JT",
+    "rideMinutes": 5,
+    "distanceKm": 4.9
+  },
+  {
+    "fromStationId": "shinagawa",
+    "toStationId": "shimbashi",
+    "lineId": "JU",
+    "rideMinutes": 5,
+    "distanceKm": 4.9
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "tokyo",
+    "lineId": "JU",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "ueno",
+    "lineId": "JU",
+    "rideMinutes": 5,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "ueno",
+    "toStationId": "oku",
+    "lineId": "JU",
+    "rideMinutes": 5,
+    "distanceKm": 4.8
+  },
+  {
+    "fromStationId": "oku",
+    "toStationId": "akabane",
+    "lineId": "JU",
+    "rideMinutes": 4,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "shinagawa",
+    "toStationId": "shimbashi",
+    "lineId": "JJ",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "shimbashi",
+    "toStationId": "tokyo",
+    "lineId": "JJ",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "ueno",
+    "lineId": "JJ",
+    "rideMinutes": 5,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "ueno",
+    "toStationId": "nippori",
+    "lineId": "JJ",
+    "rideMinutes": 4,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "nippori",
+    "toStationId": "minami-senju",
+    "lineId": "JJ",
+    "rideMinutes": 4,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "minami-senju",
+    "toStationId": "kitasenju",
+    "lineId": "JJ",
+    "rideMinutes": 3,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "kitasenju",
+    "toStationId": "ayase",
+    "lineId": "JL",
+    "rideMinutes": 4,
+    "distanceKm": 2.5
+  },
+  {
+    "fromStationId": "ayase",
+    "toStationId": "kameari",
+    "lineId": "JL",
+    "rideMinutes": 3,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "kameari",
+    "toStationId": "kanamachi",
+    "lineId": "JL",
+    "rideMinutes": 3,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "fuchu-hommachi",
+    "toStationId": "nishi-kokubunji",
+    "lineId": "JM",
+    "rideMinutes": 4,
+    "distanceKm": 3.9
+  },
+  {
+    "fromStationId": "nishi-kokubunji",
+    "toStationId": "shin-kodaira",
+    "lineId": "JM",
+    "rideMinutes": 4,
+    "distanceKm": 3.5
+  },
+  {
+    "fromStationId": "shin-kodaira",
+    "toStationId": "shin-akitsu",
+    "lineId": "JM",
+    "rideMinutes": 5,
+    "distanceKm": 5.6
+  },
+  {
+    "fromStationId": "yanokuchi",
+    "toStationId": "inagi-naganuma",
+    "lineId": "JN",
+    "rideMinutes": 2,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "inagi-naganuma",
+    "toStationId": "fuchu-hommachi",
+    "lineId": "JN",
+    "rideMinutes": 4,
+    "distanceKm": 4
+  },
+  {
+    "fromStationId": "fuchu-hommachi",
+    "toStationId": "bubaigawara",
+    "lineId": "JN",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "bubaigawara",
+    "toStationId": "tachikawa",
+    "lineId": "JN",
+    "rideMinutes": 6,
+    "distanceKm": 4.6
+  },
+  {
+    "fromStationId": "machida",
+    "toStationId": "hachioji-minamino",
+    "lineId": "JH",
+    "rideMinutes": 10,
+    "distanceKm": 9.2
+  },
+  {
+    "fromStationId": "hachioji-minamino",
+    "toStationId": "hachioji",
+    "lineId": "JH",
+    "rideMinutes": 6,
+    "distanceKm": 4.8
+  },
+  {
+    "fromStationId": "tachikawa",
+    "toStationId": "haijima",
+    "lineId": "OME",
+    "rideMinutes": 8,
+    "distanceKm": 6.9
+  },
+  {
+    "fromStationId": "haijima",
+    "toStationId": "ome",
+    "lineId": "OME",
+    "rideMinutes": 14,
+    "distanceKm": 11.6
+  },
+  {
+    "fromStationId": "ome",
+    "toStationId": "okutama",
+    "lineId": "OME",
+    "rideMinutes": 30,
+    "distanceKm": 18.7
+  },
+  {
+    "fromStationId": "haijima",
+    "toStationId": "musashi-itsukaichi",
+    "lineId": "ITS",
+    "rideMinutes": 17,
+    "distanceKm": 11.1
+  },
+  {
+    "fromStationId": "hachioji",
+    "toStationId": "haijima",
+    "lineId": "HCK",
+    "rideMinutes": 12,
+    "distanceKm": 9.9
+  },
+  {
+    "fromStationId": "haijima",
+    "toStationId": "hakonegasaki",
+    "lineId": "HCK",
+    "rideMinutes": 9,
+    "distanceKm": 7.6
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "ueno",
+    "lineId": "SHK-Tohoku",
+    "rideMinutes": 5,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "ueno",
+    "lineId": "SHK-Joetsu",
+    "rideMinutes": 5,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "ueno",
+    "lineId": "SHK-Hokuriku",
+    "rideMinutes": 5,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "tokyo",
+    "toStationId": "shinagawa",
+    "lineId": "SHK-Tokaido",
+    "rideMinutes": 7,
+    "distanceKm": 6.8
+  },
+  {
+    "fromStationId": "oimachi",
+    "toStationId": "hatanodai",
+    "lineId": "OM",
+    "rideMinutes": 6,
+    "distanceKm": 4.6
+  },
+  {
+    "fromStationId": "hatanodai",
+    "toStationId": "ookayama",
+    "lineId": "OM",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "ookayama",
+    "toStationId": "jiyugaoka",
+    "lineId": "OM",
+    "rideMinutes": 3,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "jiyugaoka",
+    "toStationId": "futako-tamagawa",
+    "lineId": "OM",
+    "rideMinutes": 6,
+    "distanceKm": 5.1
+  },
+  {
+    "fromStationId": "gotanda",
+    "toStationId": "togoshi-ginza",
+    "lineId": "IK",
+    "rideMinutes": 4,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "togoshi-ginza",
+    "toStationId": "hatanodai",
+    "lineId": "IK",
+    "rideMinutes": 4,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "hatanodai",
+    "toStationId": "ikegami",
+    "lineId": "IK",
+    "rideMinutes": 5,
+    "distanceKm": 3.9
+  },
+  {
+    "fromStationId": "ikegami",
+    "toStationId": "kamata",
+    "lineId": "IK",
+    "rideMinutes": 4,
+    "distanceKm": 1.8
+  },
+  {
+    "fromStationId": "tamagawa",
+    "toStationId": "shimo-maruko",
+    "lineId": "TM",
+    "rideMinutes": 4,
+    "distanceKm": 2.6
+  },
+  {
+    "fromStationId": "shimo-maruko",
+    "toStationId": "kamata",
+    "lineId": "TM",
+    "rideMinutes": 6,
+    "distanceKm": 3
+  },
+  {
+    "fromStationId": "sangenjaya",
+    "toStationId": "shoin-jinja-mae",
+    "lineId": "SG",
+    "rideMinutes": 5,
+    "distanceKm": 1.4
+  },
+  {
+    "fromStationId": "shoin-jinja-mae",
+    "toStationId": "gotokuji",
+    "lineId": "SG",
+    "rideMinutes": 6,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "gotokuji",
+    "toStationId": "shimo-takaido",
+    "lineId": "SG",
+    "rideMinutes": 4,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "kitano",
+    "toStationId": "takao",
+    "lineId": "KOT",
+    "rideMinutes": 9,
+    "distanceKm": 6.9
+  },
+  {
+    "fromStationId": "takao",
+    "toStationId": "takaosanguchi",
+    "lineId": "KOT",
+    "rideMinutes": 3,
+    "distanceKm": 1.7
+  },
+  {
+    "fromStationId": "chofu",
+    "toStationId": "keio-yomiuriland",
+    "lineId": "KOS",
+    "rideMinutes": 5,
+    "distanceKm": 3.9
+  },
+  {
+    "fromStationId": "keio-yomiuriland",
+    "toStationId": "keio-nagayama",
+    "lineId": "KOS",
+    "rideMinutes": 7,
+    "distanceKm": 7.5
+  },
+  {
+    "fromStationId": "keio-nagayama",
+    "toStationId": "tama-center",
+    "lineId": "KOS",
+    "rideMinutes": 3,
+    "distanceKm": 2.3
+  },
+  {
+    "fromStationId": "tama-center",
+    "toStationId": "minami-osawa",
+    "lineId": "KOS",
+    "rideMinutes": 5,
+    "distanceKm": 4.5
+  },
+  {
+    "fromStationId": "takahatafudo",
+    "toStationId": "tama-dobutsukoen",
+    "lineId": "KOD",
+    "rideMinutes": 4,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "keio-nagayama",
+    "toStationId": "tama-center",
+    "lineId": "OT",
+    "rideMinutes": 3,
+    "distanceKm": 2.3
+  },
+  {
+    "fromStationId": "tama-center",
+    "toStationId": "karakida",
+    "lineId": "OT",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "ikebukuro",
+    "toStationId": "nerima",
+    "lineId": "SI",
+    "rideMinutes": 7,
+    "distanceKm": 6
+  },
+  {
+    "fromStationId": "nerima",
+    "toStationId": "shakujii-koen",
+    "lineId": "SI",
+    "rideMinutes": 5,
+    "distanceKm": 4.6
+  },
+  {
+    "fromStationId": "shakujii-koen",
+    "toStationId": "oizumi-gakuen",
+    "lineId": "SI",
+    "rideMinutes": 4,
+    "distanceKm": 3.2
+  },
+  {
+    "fromStationId": "oizumi-gakuen",
+    "toStationId": "hibarigaoka",
+    "lineId": "SI",
+    "rideMinutes": 3,
+    "distanceKm": 2.8
+  },
+  {
+    "fromStationId": "hibarigaoka",
+    "toStationId": "kiyose",
+    "lineId": "SI",
+    "rideMinutes": 4,
+    "distanceKm": 2.8
+  },
+  {
+    "fromStationId": "nerima",
+    "toStationId": "kotake-mukaihara",
+    "lineId": "SIY",
+    "rideMinutes": 5,
+    "distanceKm": 2.6
+  },
+  {
+    "fromStationId": "nerima",
+    "toStationId": "toshimaen",
+    "lineId": "SIT",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "seibu-shinjuku",
+    "toStationId": "takadanobaba",
+    "lineId": "SS",
+    "rideMinutes": 3,
+    "distanceKm": 2
+  },
+  {
+    "fromStationId": "takadanobaba",
+    "toStationId": "nakai",
+    "lineId": "SS",
+    "rideMinutes": 4,
+    "distanceKm": 2.4
+  },
+  {
+    "fromStationId": "nakai",
+    "toStationId": "saginomiya",
+    "lineId": "SS",
+    "rideMinutes": 5,
+    "distanceKm": 3.5
+  },
+  {
+    "fromStationId": "saginomiya",
+    "toStationId": "tanashi",
+    "lineId": "SS",
+    "rideMinutes": 9,
+    "distanceKm": 7.6
+  },
+  {
+    "fromStationId": "tanashi",
+    "toStationId": "kodaira",
+    "lineId": "SS",
+    "rideMinutes": 6,
+    "distanceKm": 4.9
+  },
+  {
+    "fromStationId": "kodaira",
+    "toStationId": "higashi-murayama",
+    "lineId": "SS",
+    "rideMinutes": 4,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "kodaira",
+    "toStationId": "hagiyama",
+    "lineId": "SSH",
+    "rideMinutes": 2,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "hagiyama",
+    "toStationId": "ogawa",
+    "lineId": "SSH",
+    "rideMinutes": 3,
+    "distanceKm": 1.6
+  },
+  {
+    "fromStationId": "ogawa",
+    "toStationId": "tamagawa-josui",
+    "lineId": "SSH",
+    "rideMinutes": 7,
+    "distanceKm": 5.5
+  },
+  {
+    "fromStationId": "tamagawa-josui",
+    "toStationId": "haijima",
+    "lineId": "SSH",
+    "rideMinutes": 6,
+    "distanceKm": 5.7
+  },
+  {
+    "fromStationId": "kokubunji",
+    "toStationId": "ogawa",
+    "lineId": "SK",
+    "rideMinutes": 5,
+    "distanceKm": 3.6
+  },
+  {
+    "fromStationId": "ogawa",
+    "toStationId": "higashi-murayama",
+    "lineId": "SK",
+    "rideMinutes": 5,
+    "distanceKm": 4.2
+  },
+  {
+    "fromStationId": "kokubunji",
+    "toStationId": "hagiyama",
+    "lineId": "ST",
+    "rideMinutes": 6,
+    "distanceKm": 4.6
+  },
+  {
+    "fromStationId": "hagiyama",
+    "toStationId": "tamako",
+    "lineId": "ST",
+    "rideMinutes": 7,
+    "distanceKm": 4.6
+  },
+  {
+    "fromStationId": "musashi-sakai",
+    "toStationId": "koremasa",
+    "lineId": "SW",
+    "rideMinutes": 12,
+    "distanceKm": 8
+  },
+  {
+    "fromStationId": "hikifune",
+    "toStationId": "kameido",
+    "lineId": "TSK",
+    "rideMinutes": 8,
+    "distanceKm": 3.4
+  },
+  {
+    "fromStationId": "nishiarai",
+    "toStationId": "daishimae",
+    "lineId": "TSD",
+    "rideMinutes": 2,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "ikebukuro",
+    "toStationId": "oyama",
+    "lineId": "TJ",
+    "rideMinutes": 5,
+    "distanceKm": 3.1
+  },
+  {
+    "fromStationId": "oyama",
+    "toStationId": "kami-itabashi",
+    "lineId": "TJ",
+    "rideMinutes": 5,
+    "distanceKm": 2.9
+  },
+  {
+    "fromStationId": "kami-itabashi",
+    "toStationId": "narimasu",
+    "lineId": "TJ",
+    "rideMinutes": 6,
+    "distanceKm": 4.4
+  },
+  {
+    "fromStationId": "keisei-takasago",
+    "toStationId": "shibamata",
+    "lineId": "KSK",
+    "rideMinutes": 3,
+    "distanceKm": 1
+  },
+  {
+    "fromStationId": "shibamata",
+    "toStationId": "keisei-kanamachi",
+    "lineId": "KSK",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "keisei-takasago",
+    "toStationId": "shin-shibamata",
+    "lineId": "HS",
+    "rideMinutes": 3,
+    "distanceKm": 1.3
+  },
+  {
+    "fromStationId": "minowabashi",
+    "toStationId": "machiya",
+    "lineId": "SA",
+    "rideMinutes": 7,
+    "distanceKm": 2.1
+  },
+  {
+    "fromStationId": "machiya",
+    "toStationId": "kumanomae",
+    "lineId": "SA",
+    "rideMinutes": 5,
+    "distanceKm": 1.2
+  },
+  {
+    "fromStationId": "kumanomae",
+    "toStationId": "oji",
+    "lineId": "SA",
+    "rideMinutes": 9,
+    "distanceKm": 2.5
+  },
+  {
+    "fromStationId": "oji",
+    "toStationId": "otsuka",
+    "lineId": "SA",
+    "rideMinutes": 11,
+    "distanceKm": 2.9
+  },
+  {
+    "fromStationId": "otsuka",
+    "toStationId": "waseda",
+    "lineId": "SA",
+    "rideMinutes": 11,
+    "distanceKm": 2.6
+  },
+  {
+    "fromStationId": "nippori",
+    "toStationId": "nishi-nippori",
+    "lineId": "NT",
+    "rideMinutes": 2,
+    "distanceKm": 0.7
+  },
+  {
+    "fromStationId": "nishi-nippori",
+    "toStationId": "kumanomae",
+    "lineId": "NT",
+    "rideMinutes": 5,
+    "distanceKm": 1.9
+  },
+  {
+    "fromStationId": "kumanomae",
+    "toStationId": "toneri",
+    "lineId": "NT",
+    "rideMinutes": 11,
+    "distanceKm": 5.9
+  },
+  {
+    "fromStationId": "toneri",
+    "toStationId": "minumadai-shinsuikoen",
+    "lineId": "NT",
+    "rideMinutes": 2,
+    "distanceKm": 0.9
+  },
+  {
+    "fromStationId": "kamikitadai",
+    "toStationId": "tamagawa-josui",
+    "lineId": "TT",
+    "rideMinutes": 4,
+    "distanceKm": 2.2
+  },
+  {
+    "fromStationId": "tamagawa-josui",
+    "toStationId": "tachikawa",
+    "lineId": "TT",
+    "rideMinutes": 12,
+    "distanceKm": 5.4
+  },
+  {
+    "fromStationId": "tachikawa",
+    "toStationId": "takahatafudo",
+    "lineId": "TT",
+    "rideMinutes": 11,
+    "distanceKm": 5.5
+  },
+  {
+    "fromStationId": "takahatafudo",
+    "toStationId": "tama-dobutsukoen",
+    "lineId": "TT",
+    "rideMinutes": 3,
+    "distanceKm": 1.5
+  },
+  {
+    "fromStationId": "tama-dobutsukoen",
+    "toStationId": "tama-center",
+    "lineId": "TT",
+    "rideMinutes": 6,
+    "distanceKm": 3.5
+  }
+]

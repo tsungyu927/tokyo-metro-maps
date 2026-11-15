@@ -1,0 +1,92 @@
+[
+  {
+    "id": "TokyoMetro",
+    "name": "東京メトロ",
+    "shortName": "Metro",
+    "color": "#00A7DB"
+  },
+  {
+    "id": "Toei",
+    "name": "都営地下鉄",
+    "shortName": "都営",
+    "color": "#B6007A"
+  },
+  {
+    "id": "JR-East",
+    "name": "JR東日本",
+    "shortName": "JR",
+    "color": "#80C241"
+  },
+  {
+    "id": "Shinkansen",
+    "name": "新幹線（東京都内）",
+    "shortName": "新幹線",
+    "color": "#003399"
+  },
+  {
+    "id": "TokyoMonorail",
+    "name": "東京モノレール",
+    "shortName": "モノレール",
+    "color": "#0068B7"
+  },
+  {
+    "id": "Yurikamome",
+    "name": "ゆりかもめ",
+    "shortName": "ゆりかもめ",
+    "color": "#00A0DE"
+  },
+  {
+    "id": "Rinkai",
+    "name": "りんかい線・TX",
+    "shortName": "臨海・TX",
+    "color": "#004098"
+  },
+  {
+    "id": "Keikyu",
+    "name": "京浜急行電鉄",
+    "shortName": "京急",
+    "color": "#E5002D"
+  },
+  {
+    "id": "Keisei",
+    "name": "京成電鉄・北総",
+    "shortName": "京成",
+    "color": "#005AAA"
+  },
+  {
+    "id": "Tokyu",
+    "name": "東急電鉄",
+    "shortName": "東急",
+    "color": "#D90226"
+  },
+  {
+    "id": "Keio",
+    "name": "京王電鉄",
+    "shortName": "京王",
+    "color": "#DD0077"
+  },
+  {
+    "id": "Odakyu",
+    "name": "小田急電鉄",
+    "shortName": "小田急",
+    "color": "#0078C8"
+  },
+  {
+    "id": "Seibu",
+    "name": "西武鉄道",
+    "shortName": "西武",
+    "color": "#003E92"
+  },
+  {
+    "id": "Tobu",
+    "name": "東武鉄道",
+    "shortName": "東武",
+    "color": "#0F6CC3"
+  },
+  {
+    "id": "Toei-Tram",
+    "name": "都電・舎人・多摩モノレール",
+    "shortName": "都電・単軌",
+    "color": "#E85298"
+  }
+]

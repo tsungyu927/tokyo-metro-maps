@@ -1,0 +1,422 @@
+{
+  "currencySymbol": "¥",
+  "operatorBrackets": {
+    "TokyoMetro": [
+      {
+        "maxKm": 6,
+        "icFare": 178,
+        "cashFare": 180
+      },
+      {
+        "maxKm": 11,
+        "icFare": 209,
+        "cashFare": 210
+      },
+      {
+        "maxKm": 19,
+        "icFare": 252,
+        "cashFare": 260
+      },
+      {
+        "maxKm": 27,
+        "icFare": 293,
+        "cashFare": 300
+      },
+      {
+        "maxKm": null,
+        "icFare": 324,
+        "cashFare": 330
+      }
+    ],
+    "Toei": [
+      {
+        "maxKm": 4,
+        "icFare": 178,
+        "cashFare": 180
+      },
+      {
+        "maxKm": 9,
+        "icFare": 220,
+        "cashFare": 220
+      },
+      {
+        "maxKm": 15,
+        "icFare": 272,
+        "cashFare": 280
+      },
+      {
+        "maxKm": 21,
+        "icFare": 324,
+        "cashFare": 330
+      },
+      {
+        "maxKm": 28,
+        "icFare": 377,
+        "cashFare": 380
+      },
+      {
+        "maxKm": null,
+        "icFare": 430,
+        "cashFare": 430
+      }
+    ],
+    "JR-East": [
+      {
+        "maxKm": 3,
+        "icFare": 146,
+        "cashFare": 150
+      },
+      {
+        "maxKm": 6,
+        "icFare": 167,
+        "cashFare": 170
+      },
+      {
+        "maxKm": 10,
+        "icFare": 178,
+        "cashFare": 180
+      },
+      {
+        "maxKm": 15,
+        "icFare": 230,
+        "cashFare": 230
+      },
+      {
+        "maxKm": 20,
+        "icFare": 318,
+        "cashFare": 320
+      },
+      {
+        "maxKm": 25,
+        "icFare": 406,
+        "cashFare": 410
+      },
+      {
+        "maxKm": 30,
+        "icFare": 483,
+        "cashFare": 490
+      },
+      {
+        "maxKm": 45,
+        "icFare": 571,
+        "cashFare": 580
+      },
+      {
+        "maxKm": 70,
+        "icFare": 945,
+        "cashFare": 950
+      },
+      {
+        "maxKm": null,
+        "icFare": 1342,
+        "cashFare": 1350
+      }
+    ],
+    "Shinkansen": [
+      {
+        "maxKm": 10,
+        "icFare": 178,
+        "cashFare": 180
+      },
+      {
+        "maxKm": null,
+        "icFare": 230,
+        "cashFare": 230
+      }
+    ],
+    "TokyoMonorail": [
+      {
+        "maxKm": 4,
+        "icFare": 205,
+        "cashFare": 210
+      },
+      {
+        "maxKm": 8,
+        "icFare": 304,
+        "cashFare": 310
+      },
+      {
+        "maxKm": 13,
+        "icFare": 420,
+        "cashFare": 420
+      },
+      {
+        "maxKm": null,
+        "icFare": 519,
+        "cashFare": 520
+      }
+    ],
+    "Yurikamome": [
+      {
+        "maxKm": 2,
+        "icFare": 199,
+        "cashFare": 200
+      },
+      {
+        "maxKm": 5,
+        "icFare": 262,
+        "cashFare": 270
+      },
+      {
+        "maxKm": 9,
+        "icFare": 335,
+        "cashFare": 340
+      },
+      {
+        "maxKm": null,
+        "icFare": 398,
+        "cashFare": 400
+      }
+    ],
+    "Rinkai": [
+      {
+        "maxKm": 3,
+        "icFare": 210,
+        "cashFare": 210
+      },
+      {
+        "maxKm": 6,
+        "icFare": 280,
+        "cashFare": 280
+      },
+      {
+        "maxKm": 10,
+        "icFare": 340,
+        "cashFare": 340
+      },
+      {
+        "maxKm": null,
+        "icFare": 400,
+        "cashFare": 400
+      }
+    ],
+    "Keikyu": [
+      {
+        "maxKm": 3,
+        "icFare": 150,
+        "cashFare": 150
+      },
+      {
+        "maxKm": 6,
+        "icFare": 170,
+        "cashFare": 170
+      },
+      {
+        "maxKm": 10,
+        "icFare": 220,
+        "cashFare": 220
+      },
+      {
+        "maxKm": 15,
+        "icFare": 270,
+        "cashFare": 270
+      },
+      {
+        "maxKm": null,
+        "icFare": 330,
+        "cashFare": 330
+      }
+    ],
+    "Keisei": [
+      {
+        "maxKm": 3,
+        "icFare": 147,
+        "cashFare": 150
+      },
+      {
+        "maxKm": 5,
+        "icFare": 168,
+        "cashFare": 170
+      },
+      {
+        "maxKm": 10,
+        "icFare": 209,
+        "cashFare": 210
+      },
+      {
+        "maxKm": 15,
+        "icFare": 272,
+        "cashFare": 280
+      },
+      {
+        "maxKm": null,
+        "icFare": 335,
+        "cashFare": 340
+      }
+    ],
+    "Tokyu": [
+      {
+        "maxKm": 3,
+        "icFare": 140,
+        "cashFare": 140
+      },
+      {
+        "maxKm": 7,
+        "icFare": 180,
+        "cashFare": 180
+      },
+      {
+        "maxKm": 11,
+        "icFare": 220,
+        "cashFare": 220
+      },
+      {
+        "maxKm": null,
+        "icFare": 260,
+        "cashFare": 260
+      }
+    ],
+    "Keio": [
+      {
+        "maxKm": 4,
+        "icFare": 140,
+        "cashFare": 140
+      },
+      {
+        "maxKm": 8,
+        "icFare": 178,
+        "cashFare": 180
+      },
+      {
+        "maxKm": 14,
+        "icFare": 230,
+        "cashFare": 230
+      },
+      {
+        "maxKm": 22,
+        "icFare": 293,
+        "cashFare": 300
+      },
+      {
+        "maxKm": null,
+        "icFare": 377,
+        "cashFare": 380
+      }
+    ],
+    "Odakyu": [
+      {
+        "maxKm": 3,
+        "icFare": 140,
+        "cashFare": 140
+      },
+      {
+        "maxKm": 6,
+        "icFare": 178,
+        "cashFare": 180
+      },
+      {
+        "maxKm": 12,
+        "icFare": 220,
+        "cashFare": 220
+      },
+      {
+        "maxKm": 20,
+        "icFare": 293,
+        "cashFare": 300
+      },
+      {
+        "maxKm": null,
+        "icFare": 387,
+        "cashFare": 390
+      }
+    ],
+    "Seibu": [
+      {
+        "maxKm": 4,
+        "icFare": 157,
+        "cashFare": 160
+      },
+      {
+        "maxKm": 8,
+        "icFare": 188,
+        "cashFare": 190
+      },
+      {
+        "maxKm": 14,
+        "icFare": 251,
+        "cashFare": 250
+      },
+      {
+        "maxKm": 22,
+        "icFare": 314,
+        "cashFare": 320
+      },
+      {
+        "maxKm": null,
+        "icFare": 387,
+        "cashFare": 390
+      }
+    ],
+    "Tobu": [
+      {
+        "maxKm": 3,
+        "icFare": 157,
+        "cashFare": 160
+      },
+      {
+        "maxKm": 7,
+        "icFare": 178,
+        "cashFare": 180
+      },
+      {
+        "maxKm": 11,
+        "icFare": 209,
+        "cashFare": 210
+      },
+      {
+        "maxKm": null,
+        "icFare": 272,
+        "cashFare": 280
+      }
+    ],
+    "Toei-Tram": [
+      {
+        "maxKm": 4,
+        "icFare": 170,
+        "cashFare": 170
+      },
+      {
+        "maxKm": 10,
+        "icFare": 262,
+        "cashFare": 270
+      },
+      {
+        "maxKm": null,
+        "icFare": 345,
+        "cashFare": 350
+      }
+    ]
+  },
+  "expressSurcharges": {
+    "NEX": {
+      "icFare": 1730,
+      "cashFare": 1730
+    },
+    "SHK-Tohoku": {
+      "icFare": 880,
+      "cashFare": 880
+    },
+    "SHK-Joetsu": {
+      "icFare": 880,
+      "cashFare": 880
+    },
+    "SHK-Hokuriku": {
+      "icFare": 880,
+      "cashFare": 880
+    },
+    "SHK-Tokaido": {
+      "icFare": 870,
+      "cashFare": 870
+    }
+  },
+  "interOperatorDiscounts": [
+    {
+      "operators": [
+        "TokyoMetro",
+        "Toei"
+      ],
+      "icDiscount": 70,
+      "cashDiscount": 70
+    }
+  ]
+}

@@ -1,0 +1,6414 @@
+[
+  {
+    "id": "tokyo",
+    "name": "東京",
+    "nameEn": "Tokyo",
+    "coord": [
+      139.7671,
+      35.6812
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY01"
+      },
+      {
+        "lineId": "JC",
+        "code": "JC01"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK26"
+      },
+      {
+        "lineId": "JE",
+        "code": "JE01"
+      },
+      {
+        "lineId": "JO",
+        "code": "JO19"
+      },
+      {
+        "lineId": "NEX",
+        "code": "NEX"
+      },
+      {
+        "lineId": "M",
+        "code": "M17"
+      },
+      {
+        "lineId": "JT",
+        "code": "JT01"
+      },
+      {
+        "lineId": "JU",
+        "code": "JU01"
+      },
+      {
+        "lineId": "JJ",
+        "code": "JJ01"
+      },
+      {
+        "lineId": "SHK-Tohoku",
+        "code": "新幹線"
+      },
+      {
+        "lineId": "SHK-Joetsu",
+        "code": "新幹線"
+      },
+      {
+        "lineId": "SHK-Hokuriku",
+        "code": "新幹線"
+      },
+      {
+        "lineId": "SHK-Tokaido",
+        "code": "新幹線"
+      }
+    ]
+  },
+  {
+    "id": "kanda",
+    "name": "神田",
+    "nameEn": "Kanda",
+    "coord": [
+      139.7709,
+      35.6917
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY02"
+      },
+      {
+        "lineId": "JC",
+        "code": "JC02"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK27"
+      },
+      {
+        "lineId": "G",
+        "code": "G13"
+      }
+    ]
+  },
+  {
+    "id": "akihabara",
+    "name": "秋葉原",
+    "nameEn": "Akihabara",
+    "coord": [
+      139.7731,
+      35.6984
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY03"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB19"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK28"
+      },
+      {
+        "lineId": "H",
+        "code": "H16"
+      },
+      {
+        "lineId": "TX",
+        "code": "TX01"
+      }
+    ]
+  },
+  {
+    "id": "okachimachi",
+    "name": "御徒町",
+    "nameEn": "Okachimachi",
+    "coord": [
+      139.7747,
+      35.7074
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY04"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK29"
+      }
+    ]
+  },
+  {
+    "id": "ueno",
+    "name": "上野",
+    "nameEn": "Ueno",
+    "coord": [
+      139.7774,
+      35.7141
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY05"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK30"
+      },
+      {
+        "lineId": "G",
+        "code": "G16"
+      },
+      {
+        "lineId": "H",
+        "code": "H18"
+      },
+      {
+        "lineId": "JU",
+        "code": "JU02"
+      },
+      {
+        "lineId": "JJ",
+        "code": "JJ01"
+      },
+      {
+        "lineId": "SHK-Tohoku",
+        "code": "新幹線"
+      },
+      {
+        "lineId": "SHK-Joetsu",
+        "code": "新幹線"
+      },
+      {
+        "lineId": "SHK-Hokuriku",
+        "code": "新幹線"
+      }
+    ]
+  },
+  {
+    "id": "nippori",
+    "name": "日暮里",
+    "nameEn": "Nippori",
+    "coord": [
+      139.771,
+      35.7278
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY07"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK32"
+      },
+      {
+        "lineId": "KS",
+        "code": "KS02"
+      },
+      {
+        "lineId": "JJ",
+        "code": "JJ02"
+      },
+      {
+        "lineId": "NT",
+        "code": "NT01"
+      }
+    ]
+  },
+  {
+    "id": "nishi-nippori",
+    "name": "西日暮里",
+    "nameEn": "Nishi-Nippori",
+    "coord": [
+      139.7669,
+      35.7321
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C16"
+      },
+      {
+        "lineId": "JY",
+        "code": "JY08"
+      },
+      {
+        "lineId": "NT",
+        "code": "NT02"
+      }
+    ]
+  },
+  {
+    "id": "tabata",
+    "name": "田端",
+    "nameEn": "Tabata",
+    "coord": [
+      139.7609,
+      35.738
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY09"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK34"
+      }
+    ]
+  },
+  {
+    "id": "komagome",
+    "name": "駒込",
+    "nameEn": "Komagome",
+    "coord": [
+      139.7469,
+      35.7365
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY10"
+      },
+      {
+        "lineId": "N",
+        "code": "N14"
+      }
+    ]
+  },
+  {
+    "id": "sugamo",
+    "name": "巣鴨",
+    "nameEn": "Sugamo",
+    "coord": [
+      139.7393,
+      35.7335
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY11"
+      },
+      {
+        "lineId": "I",
+        "code": "I15"
+      }
+    ]
+  },
+  {
+    "id": "otsuka",
+    "name": "大塚",
+    "nameEn": "Otsuka",
+    "coord": [
+      139.7282,
+      35.7314
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY12"
+      },
+      {
+        "lineId": "SA",
+        "code": "SA23"
+      }
+    ]
+  },
+  {
+    "id": "ikebukuro",
+    "name": "池袋",
+    "nameEn": "Ikebukuro",
+    "coord": [
+      139.7109,
+      35.7295
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY13"
+      },
+      {
+        "lineId": "JA",
+        "code": "JA12"
+      },
+      {
+        "lineId": "JS",
+        "code": "JS21"
+      },
+      {
+        "lineId": "M",
+        "code": "M25"
+      },
+      {
+        "lineId": "Y",
+        "code": "Y09"
+      },
+      {
+        "lineId": "F",
+        "code": "F09"
+      },
+      {
+        "lineId": "SI",
+        "code": "SI01"
+      },
+      {
+        "lineId": "TJ",
+        "code": "TJ01"
+      }
+    ]
+  },
+  {
+    "id": "takadanobaba",
+    "name": "高田馬場",
+    "nameEn": "Takadanobaba",
+    "coord": [
+      139.7038,
+      35.7123
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY15"
+      },
+      {
+        "lineId": "T",
+        "code": "T03"
+      },
+      {
+        "lineId": "SS",
+        "code": "SS02"
+      }
+    ]
+  },
+  {
+    "id": "shin-okubo",
+    "name": "新大久保",
+    "nameEn": "Shin-Okubo",
+    "coord": [
+      139.7001,
+      35.7013
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY16"
+      }
+    ]
+  },
+  {
+    "id": "shinjuku",
+    "name": "新宿",
+    "nameEn": "Shinjuku",
+    "coord": [
+      139.7003,
+      35.6896
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY17"
+      },
+      {
+        "lineId": "JC",
+        "code": "JC05"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB10"
+      },
+      {
+        "lineId": "JA",
+        "code": "JA11"
+      },
+      {
+        "lineId": "JS",
+        "code": "JS20"
+      },
+      {
+        "lineId": "NEX",
+        "code": "NEX"
+      },
+      {
+        "lineId": "M",
+        "code": "M08"
+      },
+      {
+        "lineId": "S",
+        "code": "S01"
+      },
+      {
+        "lineId": "E",
+        "code": "E27"
+      },
+      {
+        "lineId": "KO",
+        "code": "KO01"
+      },
+      {
+        "lineId": "OH",
+        "code": "OH01"
+      }
+    ]
+  },
+  {
+    "id": "yoyogi",
+    "name": "代々木",
+    "nameEn": "Yoyogi",
+    "coord": [
+      139.702,
+      35.6831
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY18"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB11"
+      },
+      {
+        "lineId": "E",
+        "code": "E26"
+      }
+    ]
+  },
+  {
+    "id": "harajuku",
+    "name": "原宿",
+    "nameEn": "Harajuku",
+    "coord": [
+      139.7027,
+      35.6702
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY19"
+      }
+    ]
+  },
+  {
+    "id": "shibuya",
+    "name": "渋谷",
+    "nameEn": "Shibuya",
+    "coord": [
+      139.7016,
+      35.658
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY20"
+      },
+      {
+        "lineId": "JA",
+        "code": "JA10"
+      },
+      {
+        "lineId": "JS",
+        "code": "JS19"
+      },
+      {
+        "lineId": "NEX",
+        "code": "NEX"
+      },
+      {
+        "lineId": "G",
+        "code": "G01"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z01"
+      },
+      {
+        "lineId": "F",
+        "code": "F16"
+      },
+      {
+        "lineId": "TY",
+        "code": "TY01"
+      },
+      {
+        "lineId": "DT",
+        "code": "DT01"
+      },
+      {
+        "lineId": "IN",
+        "code": "IN01"
+      }
+    ]
+  },
+  {
+    "id": "ebisu",
+    "name": "恵比寿",
+    "nameEn": "Ebisu",
+    "coord": [
+      139.7101,
+      35.6467
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY21"
+      },
+      {
+        "lineId": "JA",
+        "code": "JA09"
+      },
+      {
+        "lineId": "JS",
+        "code": "JS18"
+      },
+      {
+        "lineId": "H",
+        "code": "H02"
+      }
+    ]
+  },
+  {
+    "id": "meguro",
+    "name": "目黒",
+    "nameEn": "Meguro",
+    "coord": [
+      139.7158,
+      35.634
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY22"
+      },
+      {
+        "lineId": "N",
+        "code": "N01"
+      },
+      {
+        "lineId": "I",
+        "code": "I01"
+      },
+      {
+        "lineId": "MG",
+        "code": "MG01"
+      }
+    ]
+  },
+  {
+    "id": "gotanda",
+    "name": "五反田",
+    "nameEn": "Gotanda",
+    "coord": [
+      139.7238,
+      35.6264
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY23"
+      },
+      {
+        "lineId": "A",
+        "code": "A05"
+      },
+      {
+        "lineId": "IK",
+        "code": "IK01"
+      }
+    ]
+  },
+  {
+    "id": "osaki",
+    "name": "大崎",
+    "nameEn": "Osaki",
+    "coord": [
+      139.7285,
+      35.6197
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY24"
+      },
+      {
+        "lineId": "JA",
+        "code": "JA08"
+      },
+      {
+        "lineId": "JS",
+        "code": "JS17"
+      },
+      {
+        "lineId": "R",
+        "code": "R08"
+      }
+    ]
+  },
+  {
+    "id": "shinagawa",
+    "name": "品川",
+    "nameEn": "Shinagawa",
+    "coord": [
+      139.7387,
+      35.6285
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY25"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK20"
+      },
+      {
+        "lineId": "JO",
+        "code": "JO17"
+      },
+      {
+        "lineId": "NEX",
+        "code": "NEX"
+      },
+      {
+        "lineId": "KK",
+        "code": "KK01"
+      },
+      {
+        "lineId": "JT",
+        "code": "JT03"
+      },
+      {
+        "lineId": "JU",
+        "code": "JU03"
+      },
+      {
+        "lineId": "JJ",
+        "code": "JJ01"
+      },
+      {
+        "lineId": "SHK-Tokaido",
+        "code": "新幹線"
+      }
+    ]
+  },
+  {
+    "id": "takanawa-gateway",
+    "name": "高輪ゲートウェイ",
+    "nameEn": "Takanawa Gateway",
+    "coord": [
+      139.7407,
+      35.6355
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY26"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK21"
+      }
+    ]
+  },
+  {
+    "id": "tamachi",
+    "name": "田町",
+    "nameEn": "Tamachi",
+    "coord": [
+      139.7476,
+      35.6457
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY27"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK22"
+      }
+    ]
+  },
+  {
+    "id": "hamamatsucho",
+    "name": "浜松町",
+    "nameEn": "Hamamatsucho",
+    "coord": [
+      139.7571,
+      35.6556
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY28"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK23"
+      },
+      {
+        "lineId": "MO",
+        "code": "MO01"
+      }
+    ]
+  },
+  {
+    "id": "shimbashi",
+    "name": "新橋",
+    "nameEn": "Shimbashi",
+    "coord": [
+      139.7586,
+      35.6664
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY29"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK24"
+      },
+      {
+        "lineId": "JO",
+        "code": "JO18"
+      },
+      {
+        "lineId": "G",
+        "code": "G08"
+      },
+      {
+        "lineId": "A",
+        "code": "A10"
+      },
+      {
+        "lineId": "U",
+        "code": "U01"
+      },
+      {
+        "lineId": "JT",
+        "code": "JT02"
+      },
+      {
+        "lineId": "JU",
+        "code": "JU02"
+      },
+      {
+        "lineId": "JJ",
+        "code": "JJ01"
+      }
+    ]
+  },
+  {
+    "id": "yurakucho",
+    "name": "有楽町",
+    "nameEn": "Yurakucho",
+    "coord": [
+      139.7638,
+      35.6751
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY30"
+      },
+      {
+        "lineId": "JK",
+        "code": "JK25"
+      },
+      {
+        "lineId": "Y",
+        "code": "Y18"
+      }
+    ]
+  },
+  {
+    "id": "ochanomizu",
+    "name": "御茶ノ水",
+    "nameEn": "Ochanomizu",
+    "coord": [
+      139.7649,
+      35.6996
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC03"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB18"
+      },
+      {
+        "lineId": "M",
+        "code": "M20"
+      }
+    ]
+  },
+  {
+    "id": "yotsuya",
+    "name": "四ツ谷",
+    "nameEn": "Yotsuya",
+    "coord": [
+      139.7302,
+      35.686
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC04"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB14"
+      },
+      {
+        "lineId": "M",
+        "code": "M12"
+      },
+      {
+        "lineId": "N",
+        "code": "N08"
+      }
+    ]
+  },
+  {
+    "id": "nakano",
+    "name": "中野",
+    "nameEn": "Nakano",
+    "coord": [
+      139.6658,
+      35.7058
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC06"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB07"
+      },
+      {
+        "lineId": "T",
+        "code": "T01"
+      }
+    ]
+  },
+  {
+    "id": "ogikubo",
+    "name": "荻窪",
+    "nameEn": "Ogikubo",
+    "coord": [
+      139.6201,
+      35.7045
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC09"
+      },
+      {
+        "lineId": "M",
+        "code": "M01"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB04"
+      }
+    ]
+  },
+  {
+    "id": "kichijoji",
+    "name": "吉祥寺",
+    "nameEn": "Kichijoji",
+    "coord": [
+      139.5797,
+      35.7031
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC11"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB02"
+      },
+      {
+        "lineId": "IN",
+        "code": "IN17"
+      }
+    ]
+  },
+  {
+    "id": "ichigaya",
+    "name": "市ケ谷",
+    "nameEn": "Ichigaya",
+    "coord": [
+      139.7356,
+      35.6911
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB15"
+      },
+      {
+        "lineId": "Y",
+        "code": "Y14"
+      },
+      {
+        "lineId": "N",
+        "code": "N09"
+      },
+      {
+        "lineId": "S",
+        "code": "S04"
+      }
+    ]
+  },
+  {
+    "id": "iidabashi",
+    "name": "飯田橋",
+    "nameEn": "Iidabashi",
+    "coord": [
+      139.7449,
+      35.7021
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB16"
+      },
+      {
+        "lineId": "T",
+        "code": "T06"
+      },
+      {
+        "lineId": "Y",
+        "code": "Y13"
+      },
+      {
+        "lineId": "N",
+        "code": "N10"
+      },
+      {
+        "lineId": "E",
+        "code": "E06"
+      }
+    ]
+  },
+  {
+    "id": "suidobashi",
+    "name": "水道橋",
+    "nameEn": "Suidobashi",
+    "coord": [
+      139.7534,
+      35.702
+    ],
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB17"
+      },
+      {
+        "lineId": "I",
+        "code": "I11"
+      }
+    ]
+  },
+  {
+    "id": "asakusabashi",
+    "name": "浅草橋",
+    "nameEn": "Asakusabashi",
+    "coord": [
+      139.7844,
+      35.6974
+    ],
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB20"
+      },
+      {
+        "lineId": "A",
+        "code": "A16"
+      }
+    ]
+  },
+  {
+    "id": "ryogoku",
+    "name": "両国",
+    "nameEn": "Ryogoku",
+    "coord": [
+      139.7932,
+      35.6957
+    ],
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB21"
+      },
+      {
+        "lineId": "E",
+        "code": "E12"
+      }
+    ]
+  },
+  {
+    "id": "kinshicho",
+    "name": "錦糸町",
+    "nameEn": "Kinshicho",
+    "coord": [
+      139.8144,
+      35.6967
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB22"
+      },
+      {
+        "lineId": "JO",
+        "code": "JO22"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z13"
+      }
+    ]
+  },
+  {
+    "id": "akabane",
+    "name": "赤羽",
+    "nameEn": "Akabane",
+    "coord": [
+      139.7209,
+      35.7777
+    ],
+    "platforms": [
+      {
+        "lineId": "JK",
+        "code": "JK38"
+      },
+      {
+        "lineId": "JA",
+        "code": "JA15"
+      },
+      {
+        "lineId": "JS",
+        "code": "JS22"
+      },
+      {
+        "lineId": "JU",
+        "code": "JU04"
+      }
+    ]
+  },
+  {
+    "id": "oimachi",
+    "name": "大井町",
+    "nameEn": "Oimachi",
+    "coord": [
+      139.7347,
+      35.6064
+    ],
+    "platforms": [
+      {
+        "lineId": "JK",
+        "code": "JK19"
+      },
+      {
+        "lineId": "R",
+        "code": "R07"
+      },
+      {
+        "lineId": "OM",
+        "code": "OM01"
+      }
+    ]
+  },
+  {
+    "id": "hatchobori",
+    "name": "八丁堀",
+    "nameEn": "Hatchobori",
+    "coord": [
+      139.7776,
+      35.6752
+    ],
+    "platforms": [
+      {
+        "lineId": "JE",
+        "code": "JE02"
+      },
+      {
+        "lineId": "H",
+        "code": "H12"
+      }
+    ]
+  },
+  {
+    "id": "etchujima",
+    "name": "越中島",
+    "nameEn": "Etchujima",
+    "coord": [
+      139.7927,
+      35.6678
+    ],
+    "platforms": [
+      {
+        "lineId": "JE",
+        "code": "JE03"
+      }
+    ]
+  },
+  {
+    "id": "shinkiba",
+    "name": "新木場",
+    "nameEn": "Shin-Kiba",
+    "coord": [
+      139.8264,
+      35.6458
+    ],
+    "platforms": [
+      {
+        "lineId": "JE",
+        "code": "JE05"
+      },
+      {
+        "lineId": "Y",
+        "code": "Y24"
+      },
+      {
+        "lineId": "R",
+        "code": "R01"
+      }
+    ]
+  },
+  {
+    "id": "maihama",
+    "name": "舞浜",
+    "nameEn": "Maihama",
+    "coord": [
+      139.8837,
+      35.6363
+    ],
+    "platforms": [
+      {
+        "lineId": "JE",
+        "code": "JE07"
+      }
+    ]
+  },
+  {
+    "id": "shin-nihombashi",
+    "name": "新日本橋",
+    "nameEn": "Shin-Nihombashi",
+    "coord": [
+      139.7734,
+      35.6894
+    ],
+    "platforms": [
+      {
+        "lineId": "JO",
+        "code": "JO20"
+      }
+    ]
+  },
+  {
+    "id": "bakurocho",
+    "name": "馬喰町",
+    "nameEn": "Bakurocho",
+    "coord": [
+      139.7825,
+      35.6934
+    ],
+    "platforms": [
+      {
+        "lineId": "JO",
+        "code": "JO21"
+      }
+    ]
+  },
+  {
+    "id": "narita-airport-t2",
+    "name": "空港第2ビル",
+    "nameEn": "Narita Airport T2·3",
+    "coord": [
+      140.3863,
+      35.7732
+    ],
+    "platforms": [
+      {
+        "lineId": "NEX",
+        "code": "NEX"
+      }
+    ]
+  },
+  {
+    "id": "narita-airport-t1",
+    "name": "成田空港",
+    "nameEn": "Narita Airport T1",
+    "coord": [
+      140.3864,
+      35.7652
+    ],
+    "platforms": [
+      {
+        "lineId": "NEX",
+        "code": "NEX"
+      }
+    ]
+  },
+  {
+    "id": "omotesando",
+    "name": "表参道",
+    "nameEn": "Omotesando",
+    "coord": [
+      139.7126,
+      35.6652
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G02"
+      },
+      {
+        "lineId": "C",
+        "code": "C04"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z02"
+      }
+    ]
+  },
+  {
+    "id": "gaiemmae",
+    "name": "外苑前",
+    "nameEn": "Gaiemmae",
+    "coord": [
+      139.7178,
+      35.6705
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G03"
+      }
+    ]
+  },
+  {
+    "id": "aoyama-itchome",
+    "name": "青山一丁目",
+    "nameEn": "Aoyama-itchome",
+    "coord": [
+      139.7241,
+      35.6728
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G04"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z03"
+      },
+      {
+        "lineId": "E",
+        "code": "E24"
+      }
+    ]
+  },
+  {
+    "id": "akasaka-mitsuke",
+    "name": "赤坂見附",
+    "nameEn": "Akasaka-mitsuke",
+    "coord": [
+      139.7368,
+      35.677
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G05"
+      },
+      {
+        "lineId": "M",
+        "code": "M13"
+      }
+    ]
+  },
+  {
+    "id": "tameike-sanno",
+    "name": "溜池山王",
+    "nameEn": "Tameike-sanno",
+    "coord": [
+      139.7414,
+      35.6736
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G06"
+      },
+      {
+        "lineId": "N",
+        "code": "N06"
+      }
+    ]
+  },
+  {
+    "id": "toranomon",
+    "name": "虎ノ門",
+    "nameEn": "Toranomon",
+    "coord": [
+      139.7501,
+      35.6701
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G07"
+      }
+    ]
+  },
+  {
+    "id": "ginza",
+    "name": "銀座",
+    "nameEn": "Ginza",
+    "coord": [
+      139.7652,
+      35.672
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G09"
+      },
+      {
+        "lineId": "M",
+        "code": "M16"
+      },
+      {
+        "lineId": "H",
+        "code": "H09"
+      }
+    ]
+  },
+  {
+    "id": "kyobashi",
+    "name": "京橋",
+    "nameEn": "Kyobashi",
+    "coord": [
+      139.77,
+      35.6769
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G10"
+      }
+    ]
+  },
+  {
+    "id": "nihombashi",
+    "name": "日本橋",
+    "nameEn": "Nihombashi",
+    "coord": [
+      139.7736,
+      35.6824
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G11"
+      },
+      {
+        "lineId": "T",
+        "code": "T10"
+      },
+      {
+        "lineId": "A",
+        "code": "A13"
+      }
+    ]
+  },
+  {
+    "id": "mitsukoshimae",
+    "name": "三越前",
+    "nameEn": "Mitsukoshimae",
+    "coord": [
+      139.7734,
+      35.6848
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G12"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z09"
+      }
+    ]
+  },
+  {
+    "id": "suehirocho",
+    "name": "末広町",
+    "nameEn": "Suehirocho",
+    "coord": [
+      139.7717,
+      35.7029
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G14"
+      }
+    ]
+  },
+  {
+    "id": "ueno-hirokoji",
+    "name": "上野広小路",
+    "nameEn": "Ueno-hirokoji",
+    "coord": [
+      139.773,
+      35.7076
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G15"
+      }
+    ]
+  },
+  {
+    "id": "inaricho",
+    "name": "稲荷町",
+    "nameEn": "Inaricho",
+    "coord": [
+      139.7824,
+      35.7114
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G17"
+      }
+    ]
+  },
+  {
+    "id": "tawaramachi",
+    "name": "田原町",
+    "nameEn": "Tawaramachi",
+    "coord": [
+      139.7908,
+      35.7099
+    ],
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G18"
+      }
+    ]
+  },
+  {
+    "id": "asakusa",
+    "name": "浅草",
+    "nameEn": "Asakusa",
+    "coord": [
+      139.7975,
+      35.7107
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "G",
+        "code": "G19"
+      },
+      {
+        "lineId": "A",
+        "code": "A18"
+      },
+      {
+        "lineId": "TS",
+        "code": "TS01"
+      }
+    ]
+  },
+  {
+    "id": "nakano-sakaue",
+    "name": "中野坂上",
+    "nameEn": "Nakano-sakaue",
+    "coord": [
+      139.6825,
+      35.697
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M06"
+      },
+      {
+        "lineId": "E",
+        "code": "E30"
+      },
+      {
+        "lineId": "Mb",
+        "code": "M06"
+      }
+    ]
+  },
+  {
+    "id": "nishi-shinjuku",
+    "name": "西新宿",
+    "nameEn": "Nishi-shinjuku",
+    "coord": [
+      139.6927,
+      35.6945
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M07"
+      }
+    ]
+  },
+  {
+    "id": "shinjuku-sanchome",
+    "name": "新宿三丁目",
+    "nameEn": "Shinjuku-sanchome",
+    "coord": [
+      139.7046,
+      35.6908
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M09"
+      },
+      {
+        "lineId": "F",
+        "code": "F13"
+      },
+      {
+        "lineId": "S",
+        "code": "S02"
+      }
+    ]
+  },
+  {
+    "id": "shinjuku-gyoemmae",
+    "name": "新宿御苑前",
+    "nameEn": "Shinjuku-gyoemmae",
+    "coord": [
+      139.7106,
+      35.6885
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M10"
+      }
+    ]
+  },
+  {
+    "id": "yotsuya-sanchome",
+    "name": "四谷三丁目",
+    "nameEn": "Yotsuya-sanchome",
+    "coord": [
+      139.7202,
+      35.688
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M11"
+      }
+    ]
+  },
+  {
+    "id": "kokkai-gijidomae",
+    "name": "国会議事堂前",
+    "nameEn": "Kokkai-gijidomae",
+    "coord": [
+      139.7449,
+      35.675
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M14"
+      },
+      {
+        "lineId": "C",
+        "code": "C07"
+      }
+    ]
+  },
+  {
+    "id": "kasumigaseki",
+    "name": "霞ケ関",
+    "nameEn": "Kasumigaseki",
+    "coord": [
+      139.7511,
+      35.6742
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M15"
+      },
+      {
+        "lineId": "H",
+        "code": "H07"
+      },
+      {
+        "lineId": "C",
+        "code": "C08"
+      }
+    ]
+  },
+  {
+    "id": "otemachi",
+    "name": "大手町",
+    "nameEn": "Otemachi",
+    "coord": [
+      139.766,
+      35.6867
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M18"
+      },
+      {
+        "lineId": "T",
+        "code": "T09"
+      },
+      {
+        "lineId": "C",
+        "code": "C11"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z08"
+      },
+      {
+        "lineId": "I",
+        "code": "I09"
+      }
+    ]
+  },
+  {
+    "id": "awajicho",
+    "name": "淡路町",
+    "nameEn": "Awajicho",
+    "coord": [
+      139.7676,
+      35.6948
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M19"
+      }
+    ]
+  },
+  {
+    "id": "hongo-sanchome",
+    "name": "本郷三丁目",
+    "nameEn": "Hongo-sanchome",
+    "coord": [
+      139.76,
+      35.7068
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M21"
+      }
+    ]
+  },
+  {
+    "id": "korakuen",
+    "name": "後楽園",
+    "nameEn": "Korakuen",
+    "coord": [
+      139.7518,
+      35.7077
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M22"
+      },
+      {
+        "lineId": "N",
+        "code": "N11"
+      }
+    ]
+  },
+  {
+    "id": "nakameguro",
+    "name": "中目黒",
+    "nameEn": "Naka-meguro",
+    "coord": [
+      139.6991,
+      35.6443
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H01"
+      },
+      {
+        "lineId": "TY",
+        "code": "TY03"
+      }
+    ]
+  },
+  {
+    "id": "hiro-o",
+    "name": "広尾",
+    "nameEn": "Hiro-o",
+    "coord": [
+      139.7222,
+      35.6522
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H03"
+      }
+    ]
+  },
+  {
+    "id": "roppongi",
+    "name": "六本木",
+    "nameEn": "Roppongi",
+    "coord": [
+      139.7315,
+      35.6628
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H04"
+      },
+      {
+        "lineId": "E",
+        "code": "E23"
+      }
+    ]
+  },
+  {
+    "id": "kamiyacho",
+    "name": "神谷町",
+    "nameEn": "Kamiyacho",
+    "coord": [
+      139.745,
+      35.663
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H05"
+      }
+    ]
+  },
+  {
+    "id": "toranomon-hills",
+    "name": "虎ノ門ヒルズ",
+    "nameEn": "Toranomon Hills",
+    "coord": [
+      139.7484,
+      35.6669
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H06"
+      }
+    ]
+  },
+  {
+    "id": "hibiya",
+    "name": "日比谷",
+    "nameEn": "Hibiya",
+    "coord": [
+      139.7596,
+      35.6752
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H08"
+      },
+      {
+        "lineId": "C",
+        "code": "C09"
+      },
+      {
+        "lineId": "I",
+        "code": "I08"
+      }
+    ]
+  },
+  {
+    "id": "higashi-ginza",
+    "name": "東銀座",
+    "nameEn": "Higashi-ginza",
+    "coord": [
+      139.7676,
+      35.6695
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H10"
+      },
+      {
+        "lineId": "A",
+        "code": "A11"
+      }
+    ]
+  },
+  {
+    "id": "tsukiji",
+    "name": "築地",
+    "nameEn": "Tsukiji",
+    "coord": [
+      139.7726,
+      35.668
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H11"
+      }
+    ]
+  },
+  {
+    "id": "kayabacho",
+    "name": "茅場町",
+    "nameEn": "Kayabacho",
+    "coord": [
+      139.7798,
+      35.6798
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H13"
+      },
+      {
+        "lineId": "T",
+        "code": "T11"
+      }
+    ]
+  },
+  {
+    "id": "ningyocho",
+    "name": "人形町",
+    "nameEn": "Ningyocho",
+    "coord": [
+      139.7823,
+      35.6863
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H14"
+      },
+      {
+        "lineId": "A",
+        "code": "A14"
+      }
+    ]
+  },
+  {
+    "id": "kodemmacho",
+    "name": "小伝馬町",
+    "nameEn": "Kodemmacho",
+    "coord": [
+      139.7785,
+      35.6907
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H15"
+      }
+    ]
+  },
+  {
+    "id": "naka-okachimachi",
+    "name": "仲御徒町",
+    "nameEn": "Naka-okachimachi",
+    "coord": [
+      139.776,
+      35.7069
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H17"
+      }
+    ]
+  },
+  {
+    "id": "minami-senju",
+    "name": "南千住",
+    "nameEn": "Minami-senju",
+    "coord": [
+      139.7995,
+      35.7327
+    ],
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H21"
+      },
+      {
+        "lineId": "TX",
+        "code": "TX04"
+      },
+      {
+        "lineId": "JJ",
+        "code": "JJ04"
+      }
+    ]
+  },
+  {
+    "id": "kitasenju",
+    "name": "北千住",
+    "nameEn": "Kita-senju",
+    "coord": [
+      139.8049,
+      35.7495
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "H",
+        "code": "H22"
+      },
+      {
+        "lineId": "C",
+        "code": "C18"
+      },
+      {
+        "lineId": "TS",
+        "code": "TS09"
+      },
+      {
+        "lineId": "TX",
+        "code": "TX05"
+      },
+      {
+        "lineId": "JJ",
+        "code": "JJ05"
+      },
+      {
+        "lineId": "JL",
+        "code": "JL18"
+      }
+    ]
+  },
+  {
+    "id": "waseda",
+    "name": "早稲田",
+    "nameEn": "Waseda",
+    "coord": [
+      139.7214,
+      35.7058
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T04"
+      },
+      {
+        "lineId": "SA",
+        "code": "SA30"
+      }
+    ]
+  },
+  {
+    "id": "kagurazaka",
+    "name": "神楽坂",
+    "nameEn": "Kagurazaka",
+    "coord": [
+      139.7344,
+      35.7037
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T05"
+      }
+    ]
+  },
+  {
+    "id": "kudanshita",
+    "name": "九段下",
+    "nameEn": "Kudanshita",
+    "coord": [
+      139.7514,
+      35.6956
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T07"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z06"
+      },
+      {
+        "lineId": "S",
+        "code": "S05"
+      }
+    ]
+  },
+  {
+    "id": "takebashi",
+    "name": "竹橋",
+    "nameEn": "Takebashi",
+    "coord": [
+      139.7575,
+      35.6905
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T08"
+      }
+    ]
+  },
+  {
+    "id": "monzen-nakacho",
+    "name": "門前仲町",
+    "nameEn": "Monzen-nakacho",
+    "coord": [
+      139.796,
+      35.672
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T12"
+      },
+      {
+        "lineId": "E",
+        "code": "E15"
+      }
+    ]
+  },
+  {
+    "id": "toyocho",
+    "name": "東陽町",
+    "nameEn": "Toyocho",
+    "coord": [
+      139.8178,
+      35.6696
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T14"
+      }
+    ]
+  },
+  {
+    "id": "nishi-kasai",
+    "name": "西葛西",
+    "nameEn": "Nishi-kasai",
+    "coord": [
+      139.8592,
+      35.6646
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T16"
+      }
+    ]
+  },
+  {
+    "id": "yoyogi-uehara",
+    "name": "代々木上原",
+    "nameEn": "Yoyogi-uehara",
+    "coord": [
+      139.6798,
+      35.669
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C01"
+      },
+      {
+        "lineId": "OH",
+        "code": "OH05"
+      }
+    ]
+  },
+  {
+    "id": "meiji-jingumae",
+    "name": "明治神宮前",
+    "nameEn": "Meiji-jingumae",
+    "coord": [
+      139.705,
+      35.6685
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C03"
+      },
+      {
+        "lineId": "F",
+        "code": "F15"
+      }
+    ]
+  },
+  {
+    "id": "nogizaka",
+    "name": "乃木坂",
+    "nameEn": "Nogizaka",
+    "coord": [
+      139.7263,
+      35.6667
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C05"
+      }
+    ]
+  },
+  {
+    "id": "akasaka",
+    "name": "赤坂",
+    "nameEn": "Akasaka",
+    "coord": [
+      139.7364,
+      35.6724
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C06"
+      }
+    ]
+  },
+  {
+    "id": "nijubashimae",
+    "name": "二重橋前",
+    "nameEn": "Nijubashimae",
+    "coord": [
+      139.7617,
+      35.6805
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C10"
+      }
+    ]
+  },
+  {
+    "id": "shin-ochanomizu",
+    "name": "新御茶ノ水",
+    "nameEn": "Shin-ochanomizu",
+    "coord": [
+      139.7647,
+      35.6968
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C12"
+      }
+    ]
+  },
+  {
+    "id": "yushima",
+    "name": "湯島",
+    "nameEn": "Yushima",
+    "coord": [
+      139.77,
+      35.7076
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C13"
+      }
+    ]
+  },
+  {
+    "id": "nezu",
+    "name": "根津",
+    "nameEn": "Nezu",
+    "coord": [
+      139.7657,
+      35.7174
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C14"
+      }
+    ]
+  },
+  {
+    "id": "sendagi",
+    "name": "千駄木",
+    "nameEn": "Sendagi",
+    "coord": [
+      139.7634,
+      35.7254
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C15"
+      }
+    ]
+  },
+  {
+    "id": "higashi-ikebukuro",
+    "name": "東池袋",
+    "nameEn": "Higashi-ikebukuro",
+    "coord": [
+      139.7189,
+      35.7261
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y10"
+      }
+    ]
+  },
+  {
+    "id": "gokokuji",
+    "name": "護国寺",
+    "nameEn": "Gokokuji",
+    "coord": [
+      139.7279,
+      35.7196
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y11"
+      }
+    ]
+  },
+  {
+    "id": "edogawabashi",
+    "name": "江戸川橋",
+    "nameEn": "Edogawabashi",
+    "coord": [
+      139.7336,
+      35.7094
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y12"
+      }
+    ]
+  },
+  {
+    "id": "kojimachi",
+    "name": "麹町",
+    "nameEn": "Kojimachi",
+    "coord": [
+      139.7376,
+      35.6844
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y15"
+      }
+    ]
+  },
+  {
+    "id": "nagatacho",
+    "name": "永田町",
+    "nameEn": "Nagatacho",
+    "coord": [
+      139.7402,
+      35.6788
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y16"
+      },
+      {
+        "lineId": "Z",
+        "code": "Z04"
+      },
+      {
+        "lineId": "N",
+        "code": "N07"
+      }
+    ]
+  },
+  {
+    "id": "sakuradamon",
+    "name": "桜田門",
+    "nameEn": "Sakuradamon",
+    "coord": [
+      139.7518,
+      35.6773
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y17"
+      }
+    ]
+  },
+  {
+    "id": "ginza-itchome",
+    "name": "銀座一丁目",
+    "nameEn": "Ginza-itchome",
+    "coord": [
+      139.7671,
+      35.6744
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y19"
+      }
+    ]
+  },
+  {
+    "id": "shintomicho",
+    "name": "新富町",
+    "nameEn": "Shintomicho",
+    "coord": [
+      139.7734,
+      35.6704
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y20"
+      }
+    ]
+  },
+  {
+    "id": "tsukishima",
+    "name": "月島",
+    "nameEn": "Tsukishima",
+    "coord": [
+      139.7849,
+      35.6646
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y21"
+      },
+      {
+        "lineId": "E",
+        "code": "E16"
+      }
+    ]
+  },
+  {
+    "id": "toyosu",
+    "name": "豊洲",
+    "nameEn": "Toyosu",
+    "coord": [
+      139.7962,
+      35.6552
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y22"
+      },
+      {
+        "lineId": "U",
+        "code": "U16"
+      }
+    ]
+  },
+  {
+    "id": "hanzomon",
+    "name": "半蔵門",
+    "nameEn": "Hanzomon",
+    "coord": [
+      139.7417,
+      35.6857
+    ],
+    "platforms": [
+      {
+        "lineId": "Z",
+        "code": "Z05"
+      }
+    ]
+  },
+  {
+    "id": "jimbocho",
+    "name": "神保町",
+    "nameEn": "Jimbocho",
+    "coord": [
+      139.7576,
+      35.6959
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "Z",
+        "code": "Z07"
+      },
+      {
+        "lineId": "I",
+        "code": "I10"
+      },
+      {
+        "lineId": "S",
+        "code": "S06"
+      }
+    ]
+  },
+  {
+    "id": "suitengumae",
+    "name": "水天宮前",
+    "nameEn": "Suitengumae",
+    "coord": [
+      139.7854,
+      35.6824
+    ],
+    "platforms": [
+      {
+        "lineId": "Z",
+        "code": "Z10"
+      }
+    ]
+  },
+  {
+    "id": "kiyosumi-shirakawa",
+    "name": "清澄白河",
+    "nameEn": "Kiyosumi-shirakawa",
+    "coord": [
+      139.7988,
+      35.682
+    ],
+    "platforms": [
+      {
+        "lineId": "Z",
+        "code": "Z11"
+      },
+      {
+        "lineId": "E",
+        "code": "E14"
+      }
+    ]
+  },
+  {
+    "id": "oshiage",
+    "name": "押上",
+    "nameEn": "Oshiage",
+    "coord": [
+      139.8133,
+      35.7107
+    ],
+    "platforms": [
+      {
+        "lineId": "Z",
+        "code": "Z14"
+      },
+      {
+        "lineId": "A",
+        "code": "A20"
+      },
+      {
+        "lineId": "KSO",
+        "code": "KS45"
+      },
+      {
+        "lineId": "TS",
+        "code": "TS03"
+      }
+    ]
+  },
+  {
+    "id": "shirokanedai",
+    "name": "白金台",
+    "nameEn": "Shirokanedai",
+    "coord": [
+      139.7263,
+      35.6379
+    ],
+    "platforms": [
+      {
+        "lineId": "N",
+        "code": "N02"
+      },
+      {
+        "lineId": "I",
+        "code": "I02"
+      }
+    ]
+  },
+  {
+    "id": "shirokane-takanawa",
+    "name": "白金高輪",
+    "nameEn": "Shirokane-takanawa",
+    "coord": [
+      139.7341,
+      35.6431
+    ],
+    "platforms": [
+      {
+        "lineId": "N",
+        "code": "N03"
+      },
+      {
+        "lineId": "I",
+        "code": "I03"
+      }
+    ]
+  },
+  {
+    "id": "azabu-juban",
+    "name": "麻布十番",
+    "nameEn": "Azabu-juban",
+    "coord": [
+      139.7372,
+      35.6548
+    ],
+    "platforms": [
+      {
+        "lineId": "N",
+        "code": "N04"
+      },
+      {
+        "lineId": "E",
+        "code": "E22"
+      }
+    ]
+  },
+  {
+    "id": "roppongi-itchome",
+    "name": "六本木一丁目",
+    "nameEn": "Roppongi-itchome",
+    "coord": [
+      139.7392,
+      35.6648
+    ],
+    "platforms": [
+      {
+        "lineId": "N",
+        "code": "N05"
+      }
+    ]
+  },
+  {
+    "id": "akabane-iwabuchi",
+    "name": "赤羽岩淵",
+    "nameEn": "Akabane-iwabuchi",
+    "coord": [
+      139.7221,
+      35.7834
+    ],
+    "platforms": [
+      {
+        "lineId": "N",
+        "code": "N19"
+      }
+    ]
+  },
+  {
+    "id": "zoshigaya",
+    "name": "雑司が谷",
+    "nameEn": "Zoshigaya",
+    "coord": [
+      139.715,
+      35.7204
+    ],
+    "platforms": [
+      {
+        "lineId": "F",
+        "code": "F10"
+      }
+    ]
+  },
+  {
+    "id": "nishi-waseda",
+    "name": "西早稲田",
+    "nameEn": "Nishi-waseda",
+    "coord": [
+      139.7091,
+      35.7073
+    ],
+    "platforms": [
+      {
+        "lineId": "F",
+        "code": "F11"
+      }
+    ]
+  },
+  {
+    "id": "higashi-shinjuku",
+    "name": "東新宿",
+    "nameEn": "Higashi-shinjuku",
+    "coord": [
+      139.7075,
+      35.6977
+    ],
+    "platforms": [
+      {
+        "lineId": "F",
+        "code": "F12"
+      },
+      {
+        "lineId": "E",
+        "code": "E02"
+      }
+    ]
+  },
+  {
+    "id": "kita-sando",
+    "name": "北参道",
+    "nameEn": "Kita-sando",
+    "coord": [
+      139.7055,
+      35.6785
+    ],
+    "platforms": [
+      {
+        "lineId": "F",
+        "code": "F14"
+      }
+    ]
+  },
+  {
+    "id": "takanawadai",
+    "name": "高輪台",
+    "nameEn": "Takanawadai",
+    "coord": [
+      139.7299,
+      35.6317
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A06"
+      }
+    ]
+  },
+  {
+    "id": "sengakuji",
+    "name": "泉岳寺",
+    "nameEn": "Sengakuji",
+    "coord": [
+      139.7401,
+      35.6387
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A07"
+      },
+      {
+        "lineId": "KK",
+        "code": "A07"
+      }
+    ]
+  },
+  {
+    "id": "mita",
+    "name": "三田",
+    "nameEn": "Mita",
+    "coord": [
+      139.7487,
+      35.6481
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A08"
+      },
+      {
+        "lineId": "I",
+        "code": "I04"
+      }
+    ]
+  },
+  {
+    "id": "daimon",
+    "name": "大門",
+    "nameEn": "Daimon",
+    "coord": [
+      139.7547,
+      35.6567
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A09"
+      },
+      {
+        "lineId": "E",
+        "code": "E20"
+      }
+    ]
+  },
+  {
+    "id": "higashi-nihombashi",
+    "name": "東日本橋",
+    "nameEn": "Higashi-nihombashi",
+    "coord": [
+      139.7848,
+      35.6915
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A15"
+      }
+    ]
+  },
+  {
+    "id": "kuramae",
+    "name": "蔵前",
+    "nameEn": "Kuramae",
+    "coord": [
+      139.7905,
+      35.7033
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A17"
+      },
+      {
+        "lineId": "E",
+        "code": "E11"
+      }
+    ]
+  },
+  {
+    "id": "shibakoen",
+    "name": "芝公園",
+    "nameEn": "Shibakoen",
+    "coord": [
+      139.7498,
+      35.654
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I05"
+      }
+    ]
+  },
+  {
+    "id": "onarimon",
+    "name": "御成門",
+    "nameEn": "Onarimon",
+    "coord": [
+      139.7514,
+      35.6612
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I06"
+      }
+    ]
+  },
+  {
+    "id": "uchisaiwaicho",
+    "name": "内幸町",
+    "nameEn": "Uchisaiwaicho",
+    "coord": [
+      139.7556,
+      35.6696
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I07"
+      }
+    ]
+  },
+  {
+    "id": "kasuga",
+    "name": "春日",
+    "nameEn": "Kasuga",
+    "coord": [
+      139.7536,
+      35.71
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I12"
+      },
+      {
+        "lineId": "E",
+        "code": "E07"
+      }
+    ]
+  },
+  {
+    "id": "akebonobashi",
+    "name": "曙橋",
+    "nameEn": "Akebonobashi",
+    "coord": [
+      139.7232,
+      35.6924
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S03"
+      }
+    ]
+  },
+  {
+    "id": "ogawamachi",
+    "name": "小川町",
+    "nameEn": "Ogawamachi",
+    "coord": [
+      139.7662,
+      35.6952
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S07"
+      }
+    ]
+  },
+  {
+    "id": "iwamotocho",
+    "name": "岩本町",
+    "nameEn": "Iwamotocho",
+    "coord": [
+      139.7755,
+      35.6952
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S08"
+      }
+    ]
+  },
+  {
+    "id": "bakuro-yokoyama",
+    "name": "馬喰横山",
+    "nameEn": "Bakuro-yokoyama",
+    "coord": [
+      139.7834,
+      35.6926
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S09"
+      }
+    ]
+  },
+  {
+    "id": "morishita",
+    "name": "森下",
+    "nameEn": "Morishita",
+    "coord": [
+      139.7982,
+      35.6879
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S11"
+      },
+      {
+        "lineId": "E",
+        "code": "E13"
+      }
+    ]
+  },
+  {
+    "id": "sumiyoshi",
+    "name": "住吉",
+    "nameEn": "Sumiyoshi",
+    "coord": [
+      139.8157,
+      35.6892
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S13"
+      }
+    ]
+  },
+  {
+    "id": "tochomae",
+    "name": "都庁前",
+    "nameEn": "Tochomae",
+    "coord": [
+      139.6923,
+      35.6905
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E28"
+      }
+    ]
+  },
+  {
+    "id": "shinjuku-nishiguchi",
+    "name": "新宿西口",
+    "nameEn": "Shinjuku-nishiguchi",
+    "coord": [
+      139.6989,
+      35.6935
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E01"
+      }
+    ]
+  },
+  {
+    "id": "wakamatsu-kawada",
+    "name": "若松河田",
+    "nameEn": "Wakamatsu-kawada",
+    "coord": [
+      139.7189,
+      35.6991
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E03"
+      }
+    ]
+  },
+  {
+    "id": "ueno-okachimachi",
+    "name": "上野御徒町",
+    "nameEn": "Ueno-okachimachi",
+    "coord": [
+      139.7738,
+      35.7077
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E09"
+      }
+    ]
+  },
+  {
+    "id": "shin-okachimachi",
+    "name": "新御徒町",
+    "nameEn": "Shin-okachimachi",
+    "coord": [
+      139.7819,
+      35.7071
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E10"
+      },
+      {
+        "lineId": "TX",
+        "code": "TX02"
+      }
+    ]
+  },
+  {
+    "id": "kachidoki",
+    "name": "勝どき",
+    "nameEn": "Kachidoki",
+    "coord": [
+      139.7772,
+      35.6587
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E17"
+      }
+    ]
+  },
+  {
+    "id": "tsukijishijo",
+    "name": "築地市場",
+    "nameEn": "Tsukijishijo",
+    "coord": [
+      139.7676,
+      35.665
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E18"
+      }
+    ]
+  },
+  {
+    "id": "shiodome",
+    "name": "汐留",
+    "nameEn": "Shiodome",
+    "coord": [
+      139.7602,
+      35.6629
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E19"
+      },
+      {
+        "lineId": "U",
+        "code": "U02"
+      }
+    ]
+  },
+  {
+    "id": "akabanebashi",
+    "name": "赤羽橋",
+    "nameEn": "Akabanebashi",
+    "coord": [
+      139.744,
+      35.655
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E21"
+      }
+    ]
+  },
+  {
+    "id": "kokuritsu-kyogijo",
+    "name": "国立競技場",
+    "nameEn": "Kokuritsu-kyogijo",
+    "coord": [
+      139.7124,
+      35.6801
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E25"
+      }
+    ]
+  },
+  {
+    "id": "nishi-shinjuku-gochome",
+    "name": "西新宿五丁目",
+    "nameEn": "Nishi-shinjuku-gochome",
+    "coord": [
+      139.6837,
+      35.6897
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E29"
+      }
+    ]
+  },
+  {
+    "id": "minami-asagaya",
+    "name": "南阿佐ケ谷",
+    "nameEn": "Minami-asagaya",
+    "coord": [
+      139.6356,
+      35.6994
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M02"
+      }
+    ]
+  },
+  {
+    "id": "shin-koenji",
+    "name": "新高円寺",
+    "nameEn": "Shin-koenji",
+    "coord": [
+      139.6484,
+      35.6978
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M03"
+      }
+    ]
+  },
+  {
+    "id": "higashi-koenji",
+    "name": "東高円寺",
+    "nameEn": "Higashi-koenji",
+    "coord": [
+      139.658,
+      35.6979
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M04"
+      }
+    ]
+  },
+  {
+    "id": "shin-nakano",
+    "name": "新中野",
+    "nameEn": "Shin-nakano",
+    "coord": [
+      139.6693,
+      35.6975
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M05"
+      }
+    ]
+  },
+  {
+    "id": "nakano-shimbashi",
+    "name": "中野新橋",
+    "nameEn": "Nakano-shimbashi",
+    "coord": [
+      139.6736,
+      35.6921
+    ],
+    "platforms": [
+      {
+        "lineId": "Mb",
+        "code": "Mb05"
+      }
+    ]
+  },
+  {
+    "id": "nakano-fujimicho",
+    "name": "中野富士見町",
+    "nameEn": "Nakano-fujimicho",
+    "coord": [
+      139.6673,
+      35.6907
+    ],
+    "platforms": [
+      {
+        "lineId": "Mb",
+        "code": "Mb04"
+      }
+    ]
+  },
+  {
+    "id": "honancho",
+    "name": "方南町",
+    "nameEn": "Honancho",
+    "coord": [
+      139.6579,
+      35.6836
+    ],
+    "platforms": [
+      {
+        "lineId": "Mb",
+        "code": "Mb03"
+      }
+    ]
+  },
+  {
+    "id": "myogadani",
+    "name": "茗荷谷",
+    "nameEn": "Myogadani",
+    "coord": [
+      139.7371,
+      35.7172
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M23"
+      }
+    ]
+  },
+  {
+    "id": "shin-otsuka",
+    "name": "新大塚",
+    "nameEn": "Shin-otsuka",
+    "coord": [
+      139.7299,
+      35.726
+    ],
+    "platforms": [
+      {
+        "lineId": "M",
+        "code": "M24"
+      }
+    ]
+  },
+  {
+    "id": "ochiai",
+    "name": "落合",
+    "nameEn": "Ochiai",
+    "coord": [
+      139.686,
+      35.7107
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T02"
+      }
+    ]
+  },
+  {
+    "id": "minami-sunamachi",
+    "name": "南砂町",
+    "nameEn": "Minami-sunamachi",
+    "coord": [
+      139.8308,
+      35.6683
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T15"
+      }
+    ]
+  },
+  {
+    "id": "kasai",
+    "name": "葛西",
+    "nameEn": "Kasai",
+    "coord": [
+      139.8726,
+      35.6636
+    ],
+    "platforms": [
+      {
+        "lineId": "T",
+        "code": "T17"
+      }
+    ]
+  },
+  {
+    "id": "yoyogi-koen",
+    "name": "代々木公園",
+    "nameEn": "Yoyogi-koen",
+    "coord": [
+      139.6902,
+      35.6691
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C02"
+      }
+    ]
+  },
+  {
+    "id": "machiya",
+    "name": "町屋",
+    "nameEn": "Machiya",
+    "coord": [
+      139.781,
+      35.7429
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C17"
+      },
+      {
+        "lineId": "KS",
+        "code": "KS04"
+      },
+      {
+        "lineId": "SA",
+        "code": "SA06"
+      }
+    ]
+  },
+  {
+    "id": "ayase",
+    "name": "綾瀬",
+    "nameEn": "Ayase",
+    "coord": [
+      139.825,
+      35.7623
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C19"
+      },
+      {
+        "lineId": "JL",
+        "code": "JL19"
+      }
+    ]
+  },
+  {
+    "id": "kita-ayase",
+    "name": "北綾瀬",
+    "nameEn": "Kita-ayase",
+    "coord": [
+      139.8322,
+      35.7768
+    ],
+    "platforms": [
+      {
+        "lineId": "C",
+        "code": "C20"
+      }
+    ]
+  },
+  {
+    "id": "chikatetsu-narimasu",
+    "name": "地下鉄成増",
+    "nameEn": "Chikatetsu-narimasu",
+    "coord": [
+      139.6317,
+      35.7766
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y02"
+      },
+      {
+        "lineId": "F",
+        "code": "F02"
+      }
+    ]
+  },
+  {
+    "id": "chikatetsu-akatsuka",
+    "name": "地下鉄赤塚",
+    "nameEn": "Chikatetsu-akatsuka",
+    "coord": [
+      139.6442,
+      35.7699
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y03"
+      },
+      {
+        "lineId": "F",
+        "code": "F03"
+      }
+    ]
+  },
+  {
+    "id": "heiwadai",
+    "name": "平和台",
+    "nameEn": "Heiwadai",
+    "coord": [
+      139.6539,
+      35.7577
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y04"
+      },
+      {
+        "lineId": "F",
+        "code": "F04"
+      }
+    ]
+  },
+  {
+    "id": "hikawadai",
+    "name": "氷川台",
+    "nameEn": "Hikawadai",
+    "coord": [
+      139.6647,
+      35.7498
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y05"
+      },
+      {
+        "lineId": "F",
+        "code": "F05"
+      }
+    ]
+  },
+  {
+    "id": "kotake-mukaihara",
+    "name": "小竹向原",
+    "nameEn": "Kotake-mukaihara",
+    "coord": [
+      139.6797,
+      35.7434
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y06"
+      },
+      {
+        "lineId": "F",
+        "code": "F06"
+      },
+      {
+        "lineId": "SIY",
+        "code": "SI37"
+      }
+    ]
+  },
+  {
+    "id": "senkawa",
+    "name": "千川",
+    "nameEn": "Senkawa",
+    "coord": [
+      139.6895,
+      35.7383
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y07"
+      },
+      {
+        "lineId": "F",
+        "code": "F07"
+      }
+    ]
+  },
+  {
+    "id": "kanamecho",
+    "name": "要町",
+    "nameEn": "Kanamecho",
+    "coord": [
+      139.6987,
+      35.7332
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y08"
+      },
+      {
+        "lineId": "F",
+        "code": "F08"
+      }
+    ]
+  },
+  {
+    "id": "tatsumi",
+    "name": "辰巳",
+    "nameEn": "Tatsumi",
+    "coord": [
+      139.8105,
+      35.6458
+    ],
+    "platforms": [
+      {
+        "lineId": "Y",
+        "code": "Y23"
+      }
+    ]
+  },
+  {
+    "id": "oji",
+    "name": "王子",
+    "nameEn": "Oji",
+    "coord": [
+      139.7379,
+      35.7524
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JK",
+        "code": "JK36"
+      },
+      {
+        "lineId": "N",
+        "code": "N16"
+      },
+      {
+        "lineId": "SA",
+        "code": "SA16"
+      }
+    ]
+  },
+  {
+    "id": "nishi-magome",
+    "name": "西馬込",
+    "nameEn": "Nishi-magome",
+    "coord": [
+      139.7058,
+      35.5868
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A01"
+      }
+    ]
+  },
+  {
+    "id": "magome",
+    "name": "馬込",
+    "nameEn": "Magome",
+    "coord": [
+      139.7118,
+      35.5964
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A02"
+      }
+    ]
+  },
+  {
+    "id": "nakanobu",
+    "name": "中延",
+    "nameEn": "Nakanobu",
+    "coord": [
+      139.7128,
+      35.6054
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A03"
+      }
+    ]
+  },
+  {
+    "id": "togoshi",
+    "name": "戸越",
+    "nameEn": "Togoshi",
+    "coord": [
+      139.7163,
+      35.6147
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A04"
+      }
+    ]
+  },
+  {
+    "id": "honjo-azumabashi",
+    "name": "本所吾妻橋",
+    "nameEn": "Honjo-azumabashi",
+    "coord": [
+      139.8047,
+      35.7087
+    ],
+    "platforms": [
+      {
+        "lineId": "A",
+        "code": "A19"
+      }
+    ]
+  },
+  {
+    "id": "nishi-sugamo",
+    "name": "西巣鴨",
+    "nameEn": "Nishi-sugamo",
+    "coord": [
+      139.7286,
+      35.7435
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I16"
+      }
+    ]
+  },
+  {
+    "id": "shin-itabashi",
+    "name": "新板橋",
+    "nameEn": "Shin-itabashi",
+    "coord": [
+      139.72,
+      35.7484
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I17"
+      }
+    ]
+  },
+  {
+    "id": "itabashi-kuyakushomae",
+    "name": "板橋区役所前",
+    "nameEn": "Itabashi-kuyakushomae",
+    "coord": [
+      139.7093,
+      35.751
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I18"
+      }
+    ]
+  },
+  {
+    "id": "takashimadaira",
+    "name": "高島平",
+    "nameEn": "Takashimadaira",
+    "coord": [
+      139.6606,
+      35.789
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I25"
+      }
+    ]
+  },
+  {
+    "id": "nishi-takashimadaira",
+    "name": "西高島平",
+    "nameEn": "Nishi-takashimadaira",
+    "coord": [
+      139.6392,
+      35.7927
+    ],
+    "platforms": [
+      {
+        "lineId": "I",
+        "code": "I27"
+      }
+    ]
+  },
+  {
+    "id": "ojima",
+    "name": "大島",
+    "nameEn": "Ojima",
+    "coord": [
+      139.8323,
+      35.6897
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S15"
+      }
+    ]
+  },
+  {
+    "id": "higashi-ojima",
+    "name": "東大島",
+    "nameEn": "Higashi-ojima",
+    "coord": [
+      139.8498,
+      35.6898
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S16"
+      }
+    ]
+  },
+  {
+    "id": "funabori",
+    "name": "船堀",
+    "nameEn": "Funabori",
+    "coord": [
+      139.8644,
+      35.6837
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S17"
+      }
+    ]
+  },
+  {
+    "id": "shinozaki",
+    "name": "篠崎",
+    "nameEn": "Shinozaki",
+    "coord": [
+      139.9031,
+      35.7058
+    ],
+    "platforms": [
+      {
+        "lineId": "S",
+        "code": "S20"
+      }
+    ]
+  },
+  {
+    "id": "higashi-nakano",
+    "name": "東中野",
+    "nameEn": "Higashi-nakano",
+    "coord": [
+      139.6838,
+      35.7062
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E31"
+      }
+    ]
+  },
+  {
+    "id": "nakai",
+    "name": "中井",
+    "nameEn": "Nakai",
+    "coord": [
+      139.6866,
+      35.7146
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E32"
+      },
+      {
+        "lineId": "SS",
+        "code": "SS04"
+      }
+    ]
+  },
+  {
+    "id": "ochiai-minami-nagasaki",
+    "name": "落合南長崎",
+    "nameEn": "Ochiai-minami-nagasaki",
+    "coord": [
+      139.683,
+      35.7236
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E33"
+      }
+    ]
+  },
+  {
+    "id": "nerima",
+    "name": "練馬",
+    "nameEn": "Nerima",
+    "coord": [
+      139.6537,
+      35.7376
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E35"
+      },
+      {
+        "lineId": "SI",
+        "code": "SI06"
+      },
+      {
+        "lineId": "SIY",
+        "code": "SI06"
+      },
+      {
+        "lineId": "SIT",
+        "code": "SI06"
+      }
+    ]
+  },
+  {
+    "id": "toshimaen",
+    "name": "豊島園",
+    "nameEn": "Toshimaen",
+    "coord": [
+      139.6487,
+      35.7423
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E36"
+      },
+      {
+        "lineId": "SIT",
+        "code": "SI39"
+      }
+    ]
+  },
+  {
+    "id": "hikarigaoka",
+    "name": "光が丘",
+    "nameEn": "Hikarigaoka",
+    "coord": [
+      139.6285,
+      35.7586
+    ],
+    "platforms": [
+      {
+        "lineId": "E",
+        "code": "E38"
+      }
+    ]
+  },
+  {
+    "id": "uguisudani",
+    "name": "鶯谷",
+    "nameEn": "Uguisudani",
+    "coord": [
+      139.778,
+      35.7215
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY06"
+      }
+    ]
+  },
+  {
+    "id": "mejiro",
+    "name": "目白",
+    "nameEn": "Mejiro",
+    "coord": [
+      139.7066,
+      35.7212
+    ],
+    "platforms": [
+      {
+        "lineId": "JY",
+        "code": "JY14"
+      }
+    ]
+  },
+  {
+    "id": "itabashi",
+    "name": "板橋",
+    "nameEn": "Itabashi",
+    "coord": [
+      139.7195,
+      35.7453
+    ],
+    "platforms": [
+      {
+        "lineId": "JA",
+        "code": "JA13"
+      }
+    ]
+  },
+  {
+    "id": "jujo",
+    "name": "十条",
+    "nameEn": "Jujo",
+    "coord": [
+      139.7224,
+      35.7605
+    ],
+    "platforms": [
+      {
+        "lineId": "JA",
+        "code": "JA14"
+      }
+    ]
+  },
+  {
+    "id": "koenji",
+    "name": "高円寺",
+    "nameEn": "Koenji",
+    "coord": [
+      139.6496,
+      35.7053
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC07"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB06"
+      }
+    ]
+  },
+  {
+    "id": "asagaya",
+    "name": "阿佐ケ谷",
+    "nameEn": "Asagaya",
+    "coord": [
+      139.6359,
+      35.7049
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC08"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB05"
+      }
+    ]
+  },
+  {
+    "id": "nishi-ogikubo",
+    "name": "西荻窪",
+    "nameEn": "Nishi-ogikubo",
+    "coord": [
+      139.5994,
+      35.7039
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC10"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB03"
+      }
+    ]
+  },
+  {
+    "id": "mitaka",
+    "name": "三鷹",
+    "nameEn": "Mitaka",
+    "coord": [
+      139.5608,
+      35.7027
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC12"
+      },
+      {
+        "lineId": "JB",
+        "code": "JB01"
+      }
+    ]
+  },
+  {
+    "id": "musashi-sakai",
+    "name": "武蔵境",
+    "nameEn": "Musashi-sakai",
+    "coord": [
+      139.5439,
+      35.7021
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC13"
+      },
+      {
+        "lineId": "SW",
+        "code": "SW01"
+      }
+    ]
+  },
+  {
+    "id": "koganei",
+    "name": "武蔵小金井",
+    "nameEn": "Musashi-koganei",
+    "coord": [
+      139.5067,
+      35.7011
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC14"
+      }
+    ]
+  },
+  {
+    "id": "kokubunji",
+    "name": "国分寺",
+    "nameEn": "Kokubunji",
+    "coord": [
+      139.48,
+      35.7002
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC15"
+      },
+      {
+        "lineId": "SK",
+        "code": "SK01"
+      },
+      {
+        "lineId": "ST",
+        "code": "ST01"
+      }
+    ]
+  },
+  {
+    "id": "nishi-kokubunji",
+    "name": "西国分寺",
+    "nameEn": "Nishi-kokubunji",
+    "coord": [
+      139.4659,
+      35.6997
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC16"
+      },
+      {
+        "lineId": "JM",
+        "code": "JM33"
+      }
+    ]
+  },
+  {
+    "id": "tachikawa",
+    "name": "立川",
+    "nameEn": "Tachikawa",
+    "coord": [
+      139.4137,
+      35.698
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC19"
+      },
+      {
+        "lineId": "JN",
+        "code": "JN26"
+      },
+      {
+        "lineId": "OME",
+        "code": "JC19"
+      },
+      {
+        "lineId": "TT",
+        "code": "TT12"
+      }
+    ]
+  },
+  {
+    "id": "hino",
+    "name": "日野",
+    "nameEn": "Hino",
+    "coord": [
+      139.3937,
+      35.6793
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC20"
+      }
+    ]
+  },
+  {
+    "id": "hachioji",
+    "name": "八王子",
+    "nameEn": "Hachioji",
+    "coord": [
+      139.3389,
+      35.6556
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC22"
+      },
+      {
+        "lineId": "JH",
+        "code": "JH32"
+      },
+      {
+        "lineId": "HCK",
+        "code": "HCK"
+      }
+    ]
+  },
+  {
+    "id": "takao",
+    "name": "高尾",
+    "nameEn": "Takao",
+    "coord": [
+      139.2819,
+      35.6422
+    ],
+    "platforms": [
+      {
+        "lineId": "JC",
+        "code": "JC24"
+      },
+      {
+        "lineId": "KOT",
+        "code": "KO52"
+      }
+    ]
+  },
+  {
+    "id": "kameido",
+    "name": "亀戸",
+    "nameEn": "Kameido",
+    "coord": [
+      139.8266,
+      35.6974
+    ],
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB23"
+      },
+      {
+        "lineId": "TSK",
+        "code": "TS44"
+      }
+    ]
+  },
+  {
+    "id": "shin-koiwa",
+    "name": "新小岩",
+    "nameEn": "Shin-koiwa",
+    "coord": [
+      139.8581,
+      35.7169
+    ],
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB25"
+      },
+      {
+        "lineId": "JO",
+        "code": "JO23"
+      }
+    ]
+  },
+  {
+    "id": "koiwa",
+    "name": "小岩",
+    "nameEn": "Koiwa",
+    "coord": [
+      139.8819,
+      35.7332
+    ],
+    "platforms": [
+      {
+        "lineId": "JB",
+        "code": "JB26"
+      }
+    ]
+  },
+  {
+    "id": "omori",
+    "name": "大森",
+    "nameEn": "Omori",
+    "coord": [
+      139.728,
+      35.5885
+    ],
+    "platforms": [
+      {
+        "lineId": "JK",
+        "code": "JK18"
+      }
+    ]
+  },
+  {
+    "id": "kamata",
+    "name": "蒲田",
+    "nameEn": "Kamata",
+    "coord": [
+      139.7159,
+      35.5625
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "JK",
+        "code": "JK17"
+      },
+      {
+        "lineId": "IK",
+        "code": "IK15"
+      },
+      {
+        "lineId": "TM",
+        "code": "TM07"
+      }
+    ]
+  },
+  {
+    "id": "oku",
+    "name": "尾久",
+    "nameEn": "Oku",
+    "coord": [
+      139.754,
+      35.7469
+    ],
+    "platforms": [
+      {
+        "lineId": "JU",
+        "code": "JU03"
+      }
+    ]
+  },
+  {
+    "id": "kameari",
+    "name": "亀有",
+    "nameEn": "Kameari",
+    "coord": [
+      139.8473,
+      35.7664
+    ],
+    "platforms": [
+      {
+        "lineId": "JL",
+        "code": "JL20"
+      }
+    ]
+  },
+  {
+    "id": "kanamachi",
+    "name": "金町",
+    "nameEn": "Kanamachi",
+    "coord": [
+      139.8705,
+      35.7695
+    ],
+    "platforms": [
+      {
+        "lineId": "JL",
+        "code": "JL21"
+      }
+    ]
+  },
+  {
+    "id": "fuchu-hommachi",
+    "name": "府中本町",
+    "nameEn": "Fuchu-hommachi",
+    "coord": [
+      139.4772,
+      35.6661
+    ],
+    "platforms": [
+      {
+        "lineId": "JM",
+        "code": "JM35"
+      },
+      {
+        "lineId": "JN",
+        "code": "JN21"
+      }
+    ]
+  },
+  {
+    "id": "shin-kodaira",
+    "name": "新小平",
+    "nameEn": "Shin-kodaira",
+    "coord": [
+      139.4622,
+      35.7311
+    ],
+    "platforms": [
+      {
+        "lineId": "JM",
+        "code": "JM32"
+      }
+    ]
+  },
+  {
+    "id": "shin-akitsu",
+    "name": "新秋津",
+    "nameEn": "Shin-akitsu",
+    "coord": [
+      139.4932,
+      35.7782
+    ],
+    "platforms": [
+      {
+        "lineId": "JM",
+        "code": "JM30"
+      }
+    ]
+  },
+  {
+    "id": "yanokuchi",
+    "name": "矢野口",
+    "nameEn": "Yanokuchi",
+    "coord": [
+      139.5194,
+      35.6416
+    ],
+    "platforms": [
+      {
+        "lineId": "JN",
+        "code": "JN18"
+      }
+    ]
+  },
+  {
+    "id": "inagi-naganuma",
+    "name": "稲城長沼",
+    "nameEn": "Inagi-naganuma",
+    "coord": [
+      139.5008,
+      35.6442
+    ],
+    "platforms": [
+      {
+        "lineId": "JN",
+        "code": "JN19"
+      }
+    ]
+  },
+  {
+    "id": "bubaigawara",
+    "name": "分倍河原",
+    "nameEn": "Bubaigawara",
+    "coord": [
+      139.4685,
+      35.6684
+    ],
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO25"
+      },
+      {
+        "lineId": "JN",
+        "code": "JN22"
+      }
+    ]
+  },
+  {
+    "id": "machida",
+    "name": "町田",
+    "nameEn": "Machida",
+    "coord": [
+      139.4454,
+      35.5422
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "OH",
+        "code": "OH27"
+      },
+      {
+        "lineId": "JH",
+        "code": "JH23"
+      }
+    ]
+  },
+  {
+    "id": "hachioji-minamino",
+    "name": "八王子みなみ野",
+    "nameEn": "Hachioji-minamino",
+    "coord": [
+      139.331,
+      35.6311
+    ],
+    "platforms": [
+      {
+        "lineId": "JH",
+        "code": "JH30"
+      }
+    ]
+  },
+  {
+    "id": "haijima",
+    "name": "拝島",
+    "nameEn": "Haijima",
+    "coord": [
+      139.3436,
+      35.721
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "OME",
+        "code": "JC55"
+      },
+      {
+        "lineId": "ITS",
+        "code": "JC55"
+      },
+      {
+        "lineId": "HCK",
+        "code": "HCK"
+      },
+      {
+        "lineId": "SSH",
+        "code": "SS36"
+      }
+    ]
+  },
+  {
+    "id": "ome",
+    "name": "青梅",
+    "nameEn": "Ome",
+    "coord": [
+      139.2577,
+      35.7905
+    ],
+    "platforms": [
+      {
+        "lineId": "OME",
+        "code": "JC62"
+      }
+    ]
+  },
+  {
+    "id": "okutama",
+    "name": "奥多摩",
+    "nameEn": "Okutama",
+    "coord": [
+      139.0972,
+      35.8095
+    ],
+    "platforms": [
+      {
+        "lineId": "OME",
+        "code": "JC74"
+      }
+    ]
+  },
+  {
+    "id": "musashi-itsukaichi",
+    "name": "武蔵五日市",
+    "nameEn": "Musashi-itsukaichi",
+    "coord": [
+      139.2281,
+      35.7322
+    ],
+    "platforms": [
+      {
+        "lineId": "ITS",
+        "code": "JC86"
+      }
+    ]
+  },
+  {
+    "id": "hakonegasaki",
+    "name": "箱根ケ崎",
+    "nameEn": "Hakonegasaki",
+    "coord": [
+      139.3469,
+      35.7713
+    ],
+    "platforms": [
+      {
+        "lineId": "HCK",
+        "code": "HCK"
+      }
+    ]
+  },
+  {
+    "id": "tennozu-isle",
+    "name": "天王洲アイル",
+    "nameEn": "Tennozu Isle",
+    "coord": [
+      139.7501,
+      35.6223
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "MO",
+        "code": "MO02"
+      },
+      {
+        "lineId": "R",
+        "code": "R05"
+      }
+    ]
+  },
+  {
+    "id": "oi-keibajo-mae",
+    "name": "大井競馬場前",
+    "nameEn": "Oi Keibajo Mae",
+    "coord": [
+      139.7422,
+      35.5924
+    ],
+    "platforms": [
+      {
+        "lineId": "MO",
+        "code": "MO03"
+      }
+    ]
+  },
+  {
+    "id": "ryutsu-center",
+    "name": "流通センター",
+    "nameEn": "Ryutsu Center",
+    "coord": [
+      139.7498,
+      35.5764
+    ],
+    "platforms": [
+      {
+        "lineId": "MO",
+        "code": "MO04"
+      }
+    ]
+  },
+  {
+    "id": "haneda-t3",
+    "name": "羽田空港第3ターミナル",
+    "nameEn": "Haneda Airport T3",
+    "coord": [
+      139.7667,
+      35.5446
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "MO",
+        "code": "MO08"
+      },
+      {
+        "lineId": "KKA",
+        "code": "KK16"
+      }
+    ]
+  },
+  {
+    "id": "haneda-t1",
+    "name": "羽田空港第1ターミナル",
+    "nameEn": "Haneda Airport T1",
+    "coord": [
+      139.7845,
+      35.5494
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "MO",
+        "code": "MO10"
+      },
+      {
+        "lineId": "KKA",
+        "code": "KK17"
+      }
+    ]
+  },
+  {
+    "id": "haneda-t2",
+    "name": "羽田空港第2ターミナル",
+    "nameEn": "Haneda Airport T2",
+    "coord": [
+      139.7897,
+      35.5515
+    ],
+    "platforms": [
+      {
+        "lineId": "MO",
+        "code": "MO11"
+      }
+    ]
+  },
+  {
+    "id": "takeshiba",
+    "name": "竹芝",
+    "nameEn": "Takeshiba",
+    "coord": [
+      139.7621,
+      35.654
+    ],
+    "platforms": [
+      {
+        "lineId": "U",
+        "code": "U03"
+      }
+    ]
+  },
+  {
+    "id": "odaiba-kaihinkoen",
+    "name": "お台場海浜公園",
+    "nameEn": "Odaiba-kaihinkoen",
+    "coord": [
+      139.7785,
+      35.6296
+    ],
+    "platforms": [
+      {
+        "lineId": "U",
+        "code": "U06"
+      }
+    ]
+  },
+  {
+    "id": "daiba",
+    "name": "台場",
+    "nameEn": "Daiba",
+    "coord": [
+      139.772,
+      35.6256
+    ],
+    "platforms": [
+      {
+        "lineId": "U",
+        "code": "U07"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-big-sight",
+    "name": "東京ビッグサイト",
+    "nameEn": "Tokyo Big Sight",
+    "coord": [
+      139.7916,
+      35.6301
+    ],
+    "platforms": [
+      {
+        "lineId": "U",
+        "code": "U11"
+      }
+    ]
+  },
+  {
+    "id": "ariake",
+    "name": "有明",
+    "nameEn": "Ariake",
+    "coord": [
+      139.7931,
+      35.6345
+    ],
+    "platforms": [
+      {
+        "lineId": "U",
+        "code": "U12"
+      }
+    ]
+  },
+  {
+    "id": "shijo-mae",
+    "name": "市場前",
+    "nameEn": "Shijo-mae (Toyosu Market)",
+    "coord": [
+      139.7867,
+      35.6458
+    ],
+    "platforms": [
+      {
+        "lineId": "U",
+        "code": "U14"
+      }
+    ]
+  },
+  {
+    "id": "shin-toyosu",
+    "name": "新豊洲",
+    "nameEn": "Shin-toyosu",
+    "coord": [
+      139.7898,
+      35.6487
+    ],
+    "platforms": [
+      {
+        "lineId": "U",
+        "code": "U15"
+      }
+    ]
+  },
+  {
+    "id": "shinagawa-seaside",
+    "name": "品川シーサイド",
+    "nameEn": "Shinagawa Seaside",
+    "coord": [
+      139.7495,
+      35.6096
+    ],
+    "platforms": [
+      {
+        "lineId": "R",
+        "code": "R06"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-teleport",
+    "name": "東京テレポート",
+    "nameEn": "Tokyo Teleport",
+    "coord": [
+      139.7791,
+      35.6272
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "R",
+        "code": "R04"
+      }
+    ]
+  },
+  {
+    "id": "kokusai-tenjijo",
+    "name": "国際展示場",
+    "nameEn": "Kokusai-tenjijo",
+    "coord": [
+      139.7919,
+      35.6346
+    ],
+    "platforms": [
+      {
+        "lineId": "R",
+        "code": "R03"
+      }
+    ]
+  },
+  {
+    "id": "shinonome",
+    "name": "東雲",
+    "nameEn": "Shinonome",
+    "coord": [
+      139.8035,
+      35.6408
+    ],
+    "platforms": [
+      {
+        "lineId": "R",
+        "code": "R02"
+      }
+    ]
+  },
+  {
+    "id": "aomono-yokocho",
+    "name": "青物横丁",
+    "nameEn": "Aomono-yokocho",
+    "coord": [
+      139.7429,
+      35.6092
+    ],
+    "platforms": [
+      {
+        "lineId": "KK",
+        "code": "KK04"
+      }
+    ]
+  },
+  {
+    "id": "heiwajima",
+    "name": "平和島",
+    "nameEn": "Heiwajima",
+    "coord": [
+      139.7351,
+      35.5784
+    ],
+    "platforms": [
+      {
+        "lineId": "KK",
+        "code": "KK08"
+      }
+    ]
+  },
+  {
+    "id": "keikyu-kamata",
+    "name": "京急蒲田",
+    "nameEn": "Keikyu-kamata",
+    "coord": [
+      139.7239,
+      35.5608
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KK",
+        "code": "KK11"
+      },
+      {
+        "lineId": "KKA",
+        "code": "KK11"
+      }
+    ]
+  },
+  {
+    "id": "rokugodote",
+    "name": "六郷土手",
+    "nameEn": "Rokugodote",
+    "coord": [
+      139.7082,
+      35.5416
+    ],
+    "platforms": [
+      {
+        "lineId": "KK",
+        "code": "KK13"
+      }
+    ]
+  },
+  {
+    "id": "kojiya",
+    "name": "糀谷",
+    "nameEn": "Kojiya",
+    "coord": [
+      139.7353,
+      35.5542
+    ],
+    "platforms": [
+      {
+        "lineId": "KKA",
+        "code": "KK12"
+      }
+    ]
+  },
+  {
+    "id": "anamori-inari",
+    "name": "穴守稲荷",
+    "nameEn": "Anamori-inari",
+    "coord": [
+      139.7468,
+      35.5504
+    ],
+    "platforms": [
+      {
+        "lineId": "KKA",
+        "code": "KK14"
+      }
+    ]
+  },
+  {
+    "id": "tenkubashi",
+    "name": "天空橋",
+    "nameEn": "Tenkubashi",
+    "coord": [
+      139.7547,
+      35.5484
+    ],
+    "platforms": [
+      {
+        "lineId": "KKA",
+        "code": "KK15"
+      }
+    ]
+  },
+  {
+    "id": "keisei-ueno",
+    "name": "京成上野",
+    "nameEn": "Keisei-ueno",
+    "coord": [
+      139.7736,
+      35.7116
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KS",
+        "code": "KS01"
+      }
+    ]
+  },
+  {
+    "id": "senju-ohashi",
+    "name": "千住大橋",
+    "nameEn": "Senju-ohashi",
+    "coord": [
+      139.7966,
+      35.7418
+    ],
+    "platforms": [
+      {
+        "lineId": "KS",
+        "code": "KS05"
+      }
+    ]
+  },
+  {
+    "id": "aoto",
+    "name": "青砥",
+    "nameEn": "Aoto",
+    "coord": [
+      139.8562,
+      35.7457
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KS",
+        "code": "KS09"
+      },
+      {
+        "lineId": "KSO",
+        "code": "KS09"
+      }
+    ]
+  },
+  {
+    "id": "keisei-takasago",
+    "name": "京成高砂",
+    "nameEn": "Keisei-takasago",
+    "coord": [
+      139.867,
+      35.7509
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KS",
+        "code": "KS10"
+      },
+      {
+        "lineId": "KSK",
+        "code": "KS10"
+      },
+      {
+        "lineId": "HS",
+        "code": "KS10"
+      }
+    ]
+  },
+  {
+    "id": "keisei-koiwa",
+    "name": "京成小岩",
+    "nameEn": "Keisei-koiwa",
+    "coord": [
+      139.8825,
+      35.7424
+    ],
+    "platforms": [
+      {
+        "lineId": "KS",
+        "code": "KS11"
+      }
+    ]
+  },
+  {
+    "id": "keisei-hikifune",
+    "name": "京成曳舟",
+    "nameEn": "Keisei-hikifune",
+    "coord": [
+      139.8195,
+      35.7176
+    ],
+    "platforms": [
+      {
+        "lineId": "KSO",
+        "code": "KS46"
+      }
+    ]
+  },
+  {
+    "id": "yotsugi",
+    "name": "四ツ木",
+    "nameEn": "Yotsugi",
+    "coord": [
+      139.8342,
+      35.7336
+    ],
+    "platforms": [
+      {
+        "lineId": "KSO",
+        "code": "KS47"
+      }
+    ]
+  },
+  {
+    "id": "keisei-tateishi",
+    "name": "京成立石",
+    "nameEn": "Keisei-tateishi",
+    "coord": [
+      139.8482,
+      35.7385
+    ],
+    "platforms": [
+      {
+        "lineId": "KSO",
+        "code": "KS48"
+      }
+    ]
+  },
+  {
+    "id": "shibamata",
+    "name": "柴又",
+    "nameEn": "Shibamata",
+    "coord": [
+      139.8754,
+      35.7568
+    ],
+    "platforms": [
+      {
+        "lineId": "KSK",
+        "code": "KS50"
+      }
+    ]
+  },
+  {
+    "id": "keisei-kanamachi",
+    "name": "京成金町",
+    "nameEn": "Keisei-kanamachi",
+    "coord": [
+      139.8712,
+      35.7689
+    ],
+    "platforms": [
+      {
+        "lineId": "KSK",
+        "code": "KS51"
+      }
+    ]
+  },
+  {
+    "id": "shin-shibamata",
+    "name": "新柴又",
+    "nameEn": "Shin-shibamata",
+    "coord": [
+      139.8886,
+      35.7478
+    ],
+    "platforms": [
+      {
+        "lineId": "HS",
+        "code": "HS01"
+      }
+    ]
+  },
+  {
+    "id": "daikanyama",
+    "name": "代官山",
+    "nameEn": "Daikanyama",
+    "coord": [
+      139.7032,
+      35.6481
+    ],
+    "platforms": [
+      {
+        "lineId": "TY",
+        "code": "TY02"
+      }
+    ]
+  },
+  {
+    "id": "gakugei-daigaku",
+    "name": "学芸大学",
+    "nameEn": "Gakugei-daigaku",
+    "coord": [
+      139.6854,
+      35.6286
+    ],
+    "platforms": [
+      {
+        "lineId": "TY",
+        "code": "TY05"
+      }
+    ]
+  },
+  {
+    "id": "toritsu-daigaku",
+    "name": "都立大学",
+    "nameEn": "Toritsu-daigaku",
+    "coord": [
+      139.6766,
+      35.6177
+    ],
+    "platforms": [
+      {
+        "lineId": "TY",
+        "code": "TY06"
+      }
+    ]
+  },
+  {
+    "id": "jiyugaoka",
+    "name": "自由が丘",
+    "nameEn": "Jiyugaoka",
+    "coord": [
+      139.6686,
+      35.6075
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "TY",
+        "code": "TY07"
+      },
+      {
+        "lineId": "OM",
+        "code": "OM10"
+      }
+    ]
+  },
+  {
+    "id": "den-en-chofu",
+    "name": "田園調布",
+    "nameEn": "Den-en-chofu",
+    "coord": [
+      139.6673,
+      35.5969
+    ],
+    "platforms": [
+      {
+        "lineId": "TY",
+        "code": "TY08"
+      },
+      {
+        "lineId": "MG",
+        "code": "MG08"
+      }
+    ]
+  },
+  {
+    "id": "tamagawa",
+    "name": "多摩川",
+    "nameEn": "Tamagawa",
+    "coord": [
+      139.6687,
+      35.5896
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "TY",
+        "code": "TY09"
+      },
+      {
+        "lineId": "MG",
+        "code": "MG09"
+      },
+      {
+        "lineId": "TM",
+        "code": "TM01"
+      }
+    ]
+  },
+  {
+    "id": "fudomae",
+    "name": "不動前",
+    "nameEn": "Fudomae",
+    "coord": [
+      139.7136,
+      35.6258
+    ],
+    "platforms": [
+      {
+        "lineId": "MG",
+        "code": "MG02"
+      }
+    ]
+  },
+  {
+    "id": "musashi-koyama",
+    "name": "武蔵小山",
+    "nameEn": "Musashi-koyama",
+    "coord": [
+      139.7044,
+      35.6203
+    ],
+    "platforms": [
+      {
+        "lineId": "MG",
+        "code": "MG03"
+      }
+    ]
+  },
+  {
+    "id": "ookayama",
+    "name": "大岡山",
+    "nameEn": "Ookayama",
+    "coord": [
+      139.6856,
+      35.6074
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "MG",
+        "code": "MG06"
+      },
+      {
+        "lineId": "OM",
+        "code": "OM08"
+      }
+    ]
+  },
+  {
+    "id": "ikejiri-ohashi",
+    "name": "池尻大橋",
+    "nameEn": "Ikejiri-ohashi",
+    "coord": [
+      139.6844,
+      35.6505
+    ],
+    "platforms": [
+      {
+        "lineId": "DT",
+        "code": "DT02"
+      }
+    ]
+  },
+  {
+    "id": "sangenjaya",
+    "name": "三軒茶屋",
+    "nameEn": "Sangenjaya",
+    "coord": [
+      139.6713,
+      35.6435
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "DT",
+        "code": "DT03"
+      },
+      {
+        "lineId": "SG",
+        "code": "SG01"
+      }
+    ]
+  },
+  {
+    "id": "komazawa-daigaku",
+    "name": "駒沢大学",
+    "nameEn": "Komazawa-daigaku",
+    "coord": [
+      139.6612,
+      35.6327
+    ],
+    "platforms": [
+      {
+        "lineId": "DT",
+        "code": "DT04"
+      }
+    ]
+  },
+  {
+    "id": "sakura-shimmachi",
+    "name": "桜新町",
+    "nameEn": "Sakura-shimmachi",
+    "coord": [
+      139.6448,
+      35.6319
+    ],
+    "platforms": [
+      {
+        "lineId": "DT",
+        "code": "DT05"
+      }
+    ]
+  },
+  {
+    "id": "yoga",
+    "name": "用賀",
+    "nameEn": "Yoga",
+    "coord": [
+      139.6344,
+      35.6264
+    ],
+    "platforms": [
+      {
+        "lineId": "DT",
+        "code": "DT06"
+      }
+    ]
+  },
+  {
+    "id": "futako-tamagawa",
+    "name": "二子玉川",
+    "nameEn": "Futako-tamagawa",
+    "coord": [
+      139.6267,
+      35.6115
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "DT",
+        "code": "DT07"
+      },
+      {
+        "lineId": "OM",
+        "code": "OM15"
+      }
+    ]
+  },
+  {
+    "id": "hatanodai",
+    "name": "旗の台",
+    "nameEn": "Hatanodai",
+    "coord": [
+      139.7024,
+      35.6048
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "OM",
+        "code": "OM06"
+      },
+      {
+        "lineId": "IK",
+        "code": "IK05"
+      }
+    ]
+  },
+  {
+    "id": "togoshi-ginza",
+    "name": "戸越銀座",
+    "nameEn": "Togoshi-ginza",
+    "coord": [
+      139.715,
+      35.6161
+    ],
+    "platforms": [
+      {
+        "lineId": "IK",
+        "code": "IK03"
+      }
+    ]
+  },
+  {
+    "id": "ikegami",
+    "name": "池上",
+    "nameEn": "Ikegami",
+    "coord": [
+      139.7031,
+      35.572
+    ],
+    "platforms": [
+      {
+        "lineId": "IK",
+        "code": "IK13"
+      }
+    ]
+  },
+  {
+    "id": "shimo-maruko",
+    "name": "下丸子",
+    "nameEn": "Shimo-maruko",
+    "coord": [
+      139.6857,
+      35.5713
+    ],
+    "platforms": [
+      {
+        "lineId": "TM",
+        "code": "TM04"
+      }
+    ]
+  },
+  {
+    "id": "shoin-jinja-mae",
+    "name": "松陰神社前",
+    "nameEn": "Shoin-jinja-mae",
+    "coord": [
+      139.6531,
+      35.6442
+    ],
+    "platforms": [
+      {
+        "lineId": "SG",
+        "code": "SG04"
+      }
+    ]
+  },
+  {
+    "id": "gotokuji",
+    "name": "豪徳寺",
+    "nameEn": "Gotokuji",
+    "coord": [
+      139.6473,
+      35.6537
+    ],
+    "platforms": [
+      {
+        "lineId": "OH",
+        "code": "OH10"
+      },
+      {
+        "lineId": "SG",
+        "code": "SG08"
+      }
+    ]
+  },
+  {
+    "id": "shinsen",
+    "name": "神泉",
+    "nameEn": "Shinsen",
+    "coord": [
+      139.6935,
+      35.6572
+    ],
+    "platforms": [
+      {
+        "lineId": "IN",
+        "code": "IN02"
+      }
+    ]
+  },
+  {
+    "id": "komaba-todaimae",
+    "name": "駒場東大前",
+    "nameEn": "Komaba-todaimae",
+    "coord": [
+      139.6838,
+      35.6589
+    ],
+    "platforms": [
+      {
+        "lineId": "IN",
+        "code": "IN03"
+      }
+    ]
+  },
+  {
+    "id": "shimokitazawa",
+    "name": "下北沢",
+    "nameEn": "Shimokitazawa",
+    "coord": [
+      139.6669,
+      35.6616
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "IN",
+        "code": "IN05"
+      },
+      {
+        "lineId": "OH",
+        "code": "OH07"
+      }
+    ]
+  },
+  {
+    "id": "meidaimae",
+    "name": "明大前",
+    "nameEn": "Meidaimae",
+    "coord": [
+      139.6505,
+      35.6684
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "IN",
+        "code": "IN08"
+      },
+      {
+        "lineId": "KO",
+        "code": "KO06"
+      }
+    ]
+  },
+  {
+    "id": "eifukucho",
+    "name": "永福町",
+    "nameEn": "Eifukucho",
+    "coord": [
+      139.6426,
+      35.6762
+    ],
+    "platforms": [
+      {
+        "lineId": "IN",
+        "code": "IN09"
+      }
+    ]
+  },
+  {
+    "id": "kugayama",
+    "name": "久我山",
+    "nameEn": "Kugayama",
+    "coord": [
+      139.5993,
+      35.6879
+    ],
+    "platforms": [
+      {
+        "lineId": "IN",
+        "code": "IN14"
+      }
+    ]
+  },
+  {
+    "id": "sasazuka",
+    "name": "笹塚",
+    "nameEn": "Sasazuka",
+    "coord": [
+      139.6673,
+      35.6737
+    ],
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO04"
+      }
+    ]
+  },
+  {
+    "id": "shimo-takaido",
+    "name": "下高井戸",
+    "nameEn": "Shimo-takaido",
+    "coord": [
+      139.6413,
+      35.6661
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO07"
+      },
+      {
+        "lineId": "SG",
+        "code": "SG10"
+      }
+    ]
+  },
+  {
+    "id": "chitose-karasuyama",
+    "name": "千歳烏山",
+    "nameEn": "Chitose-karasuyama",
+    "coord": [
+      139.6008,
+      35.6679
+    ],
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO12"
+      }
+    ]
+  },
+  {
+    "id": "chofu",
+    "name": "調布",
+    "nameEn": "Chofu",
+    "coord": [
+      139.5442,
+      35.652
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO18"
+      },
+      {
+        "lineId": "KOS",
+        "code": "KO18"
+      }
+    ]
+  },
+  {
+    "id": "fuchu",
+    "name": "府中",
+    "nameEn": "Fuchu",
+    "coord": [
+      139.4803,
+      35.6722
+    ],
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO24"
+      }
+    ]
+  },
+  {
+    "id": "seiseki-sakuragaoka",
+    "name": "聖蹟桜ヶ丘",
+    "nameEn": "Seiseki-sakuragaoka",
+    "coord": [
+      139.4469,
+      35.6506
+    ],
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO27"
+      }
+    ]
+  },
+  {
+    "id": "takahatafudo",
+    "name": "高幡不動",
+    "nameEn": "Takahatafudo",
+    "coord": [
+      139.4133,
+      35.6621
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO29"
+      },
+      {
+        "lineId": "KOD",
+        "code": "KO29"
+      },
+      {
+        "lineId": "TT",
+        "code": "TT07"
+      }
+    ]
+  },
+  {
+    "id": "kitano",
+    "name": "北野",
+    "nameEn": "Kitano",
+    "coord": [
+      139.3547,
+      35.6443
+    ],
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO33"
+      },
+      {
+        "lineId": "KOT",
+        "code": "KO33"
+      }
+    ]
+  },
+  {
+    "id": "keio-hachioji",
+    "name": "京王八王子",
+    "nameEn": "Keio-hachioji",
+    "coord": [
+      139.3435,
+      35.6578
+    ],
+    "platforms": [
+      {
+        "lineId": "KO",
+        "code": "KO34"
+      }
+    ]
+  },
+  {
+    "id": "takaosanguchi",
+    "name": "高尾山口",
+    "nameEn": "Takaosanguchi",
+    "coord": [
+      139.2699,
+      35.6323
+    ],
+    "platforms": [
+      {
+        "lineId": "KOT",
+        "code": "KO53"
+      }
+    ]
+  },
+  {
+    "id": "keio-yomiuriland",
+    "name": "京王よみうりランド",
+    "nameEn": "Keio-yomiuriland",
+    "coord": [
+      139.5174,
+      35.6327
+    ],
+    "platforms": [
+      {
+        "lineId": "KOS",
+        "code": "KO37"
+      }
+    ]
+  },
+  {
+    "id": "keio-nagayama",
+    "name": "京王永山",
+    "nameEn": "Keio-nagayama",
+    "coord": [
+      139.448,
+      35.63
+    ],
+    "platforms": [
+      {
+        "lineId": "KOS",
+        "code": "KO40"
+      },
+      {
+        "lineId": "OT",
+        "code": "OT05"
+      }
+    ]
+  },
+  {
+    "id": "tama-center",
+    "name": "多摩センター",
+    "nameEn": "Tama-center",
+    "coord": [
+      139.4243,
+      35.6248
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "KOS",
+        "code": "KO41"
+      },
+      {
+        "lineId": "OT",
+        "code": "OT06"
+      },
+      {
+        "lineId": "TT",
+        "code": "TT01"
+      }
+    ]
+  },
+  {
+    "id": "minami-osawa",
+    "name": "南大沢",
+    "nameEn": "Minami-osawa",
+    "coord": [
+      139.3792,
+      35.6138
+    ],
+    "platforms": [
+      {
+        "lineId": "KOS",
+        "code": "KO43"
+      }
+    ]
+  },
+  {
+    "id": "tama-dobutsukoen",
+    "name": "多摩動物公園",
+    "nameEn": "Tama-dobutsukoen",
+    "coord": [
+      139.4044,
+      35.6494
+    ],
+    "platforms": [
+      {
+        "lineId": "KOD",
+        "code": "KO47"
+      },
+      {
+        "lineId": "TT",
+        "code": "TT05"
+      }
+    ]
+  },
+  {
+    "id": "karakida",
+    "name": "唐木田",
+    "nameEn": "Karakida",
+    "coord": [
+      139.4097,
+      35.6122
+    ],
+    "platforms": [
+      {
+        "lineId": "OT",
+        "code": "OT07"
+      }
+    ]
+  },
+  {
+    "id": "yoyogi-hachiman",
+    "name": "代々木八幡",
+    "nameEn": "Yoyogi-hachiman",
+    "coord": [
+      139.6897,
+      35.6695
+    ],
+    "platforms": [
+      {
+        "lineId": "OH",
+        "code": "OH04"
+      }
+    ]
+  },
+  {
+    "id": "kyodo",
+    "name": "経堂",
+    "nameEn": "Kyodo",
+    "coord": [
+      139.6363,
+      35.6512
+    ],
+    "platforms": [
+      {
+        "lineId": "OH",
+        "code": "OH11"
+      }
+    ]
+  },
+  {
+    "id": "seijogakuen-mae",
+    "name": "成城学園前",
+    "nameEn": "Seijogakuen-mae",
+    "coord": [
+      139.5988,
+      35.64
+    ],
+    "platforms": [
+      {
+        "lineId": "OH",
+        "code": "OH14"
+      }
+    ]
+  },
+  {
+    "id": "komae",
+    "name": "狛江",
+    "nameEn": "Komae",
+    "coord": [
+      139.579,
+      35.6345
+    ],
+    "platforms": [
+      {
+        "lineId": "OH",
+        "code": "OH16"
+      }
+    ]
+  },
+  {
+    "id": "tokyo-skytree",
+    "name": "とうきょうスカイツリー",
+    "nameEn": "Tokyo Skytree",
+    "coord": [
+      139.8091,
+      35.7104
+    ],
+    "platforms": [
+      {
+        "lineId": "TS",
+        "code": "TS02"
+      }
+    ]
+  },
+  {
+    "id": "hikifune",
+    "name": "曳舟",
+    "nameEn": "Hikifune",
+    "coord": [
+      139.817,
+      35.7185
+    ],
+    "platforms": [
+      {
+        "lineId": "TS",
+        "code": "TS04"
+      },
+      {
+        "lineId": "TSK",
+        "code": "TS04"
+      }
+    ]
+  },
+  {
+    "id": "nishiarai",
+    "name": "西新井",
+    "nameEn": "Nishiarai",
+    "coord": [
+      139.7911,
+      35.7768
+    ],
+    "platforms": [
+      {
+        "lineId": "TS",
+        "code": "TS13"
+      },
+      {
+        "lineId": "TSD",
+        "code": "TS13"
+      }
+    ]
+  },
+  {
+    "id": "takenotsuka",
+    "name": "竹ノ塚",
+    "nameEn": "Takenotsuka",
+    "coord": [
+      139.7908,
+      35.7945
+    ],
+    "platforms": [
+      {
+        "lineId": "TS",
+        "code": "TS14"
+      }
+    ]
+  },
+  {
+    "id": "daishimae",
+    "name": "大師前",
+    "nameEn": "Daishimae",
+    "coord": [
+      139.781,
+      35.7788
+    ],
+    "platforms": [
+      {
+        "lineId": "TSD",
+        "code": "TS51"
+      }
+    ]
+  },
+  {
+    "id": "asakusa-tx",
+    "name": "浅草（TX）",
+    "nameEn": "Asakusa (TX)",
+    "coord": [
+      139.7924,
+      35.7145
+    ],
+    "platforms": [
+      {
+        "lineId": "TX",
+        "code": "TX03"
+      }
+    ]
+  },
+  {
+    "id": "rokucho",
+    "name": "六町",
+    "nameEn": "Rokucho",
+    "coord": [
+      139.8235,
+      35.7931
+    ],
+    "platforms": [
+      {
+        "lineId": "TX",
+        "code": "TX07"
+      }
+    ]
+  },
+  {
+    "id": "shakujii-koen",
+    "name": "石神井公園",
+    "nameEn": "Shakujii-koen",
+    "coord": [
+      139.6064,
+      35.7435
+    ],
+    "platforms": [
+      {
+        "lineId": "SI",
+        "code": "SI10"
+      }
+    ]
+  },
+  {
+    "id": "oizumi-gakuen",
+    "name": "大泉学園",
+    "nameEn": "Oizumi-gakuen",
+    "coord": [
+      139.5867,
+      35.7495
+    ],
+    "platforms": [
+      {
+        "lineId": "SI",
+        "code": "SI11"
+      }
+    ]
+  },
+  {
+    "id": "hibarigaoka",
+    "name": "ひばりヶ丘",
+    "nameEn": "Hibarigaoka",
+    "coord": [
+      139.5462,
+      35.7513
+    ],
+    "platforms": [
+      {
+        "lineId": "SI",
+        "code": "SI13"
+      }
+    ]
+  },
+  {
+    "id": "kiyose",
+    "name": "清瀬",
+    "nameEn": "Kiyose",
+    "coord": [
+      139.5198,
+      35.7717
+    ],
+    "platforms": [
+      {
+        "lineId": "SI",
+        "code": "SI15"
+      }
+    ]
+  },
+  {
+    "id": "seibu-shinjuku",
+    "name": "西武新宿",
+    "nameEn": "Seibu-shinjuku",
+    "coord": [
+      139.7005,
+      35.6946
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "SS",
+        "code": "SS01"
+      }
+    ]
+  },
+  {
+    "id": "saginomiya",
+    "name": "鷺ノ宮",
+    "nameEn": "Saginomiya",
+    "coord": [
+      139.6391,
+      35.7224
+    ],
+    "platforms": [
+      {
+        "lineId": "SS",
+        "code": "SS09"
+      }
+    ]
+  },
+  {
+    "id": "tanashi",
+    "name": "田無",
+    "nameEn": "Tanashi",
+    "coord": [
+      139.5387,
+      35.7274
+    ],
+    "platforms": [
+      {
+        "lineId": "SS",
+        "code": "SS17"
+      }
+    ]
+  },
+  {
+    "id": "kodaira",
+    "name": "小平",
+    "nameEn": "Kodaira",
+    "coord": [
+      139.4883,
+      35.7368
+    ],
+    "platforms": [
+      {
+        "lineId": "SS",
+        "code": "SS19"
+      },
+      {
+        "lineId": "SSH",
+        "code": "SS19"
+      }
+    ]
+  },
+  {
+    "id": "higashi-murayama",
+    "name": "東村山",
+    "nameEn": "Higashi-murayama",
+    "coord": [
+      139.4662,
+      35.7607
+    ],
+    "platforms": [
+      {
+        "lineId": "SS",
+        "code": "SS21"
+      },
+      {
+        "lineId": "SK",
+        "code": "SK05"
+      }
+    ]
+  },
+  {
+    "id": "ogawa",
+    "name": "小川",
+    "nameEn": "Ogawa",
+    "coord": [
+      139.4658,
+      35.7351
+    ],
+    "platforms": [
+      {
+        "lineId": "SSH",
+        "code": "SS31"
+      },
+      {
+        "lineId": "SK",
+        "code": "SK02"
+      }
+    ]
+  },
+  {
+    "id": "hagiyama",
+    "name": "萩山",
+    "nameEn": "Hagiyama",
+    "coord": [
+      139.4718,
+      35.746
+    ],
+    "platforms": [
+      {
+        "lineId": "SSH",
+        "code": "SS30"
+      },
+      {
+        "lineId": "ST",
+        "code": "ST04"
+      }
+    ]
+  },
+  {
+    "id": "tamako",
+    "name": "多摩湖",
+    "nameEn": "Tamako",
+    "coord": [
+      139.4408,
+      35.7654
+    ],
+    "platforms": [
+      {
+        "lineId": "ST",
+        "code": "ST07"
+      }
+    ]
+  },
+  {
+    "id": "tamagawa-josui",
+    "name": "玉川上水",
+    "nameEn": "Tamagawa-josui",
+    "coord": [
+      139.4184,
+      35.7314
+    ],
+    "isMajorHub": true,
+    "platforms": [
+      {
+        "lineId": "SSH",
+        "code": "SS33"
+      },
+      {
+        "lineId": "TT",
+        "code": "TT17"
+      }
+    ]
+  },
+  {
+    "id": "koremasa",
+    "name": "是政",
+    "nameEn": "Koremasa",
+    "coord": [
+      139.4937,
+      35.6596
+    ],
+    "platforms": [
+      {
+        "lineId": "SW",
+        "code": "SW06"
+      }
+    ]
+  },
+  {
+    "id": "oyama",
+    "name": "大山",
+    "nameEn": "Oyama",
+    "coord": [
+      139.7024,
+      35.7485
+    ],
+    "platforms": [
+      {
+        "lineId": "TJ",
+        "code": "TJ04"
+      }
+    ]
+  },
+  {
+    "id": "kami-itabashi",
+    "name": "上板橋",
+    "nameEn": "Kami-itabashi",
+    "coord": [
+      139.6754,
+      35.7599
+    ],
+    "platforms": [
+      {
+        "lineId": "TJ",
+        "code": "TJ07"
+      }
+    ]
+  },
+  {
+    "id": "narimasu",
+    "name": "成増",
+    "nameEn": "Narimasu",
+    "coord": [
+      139.6317,
+      35.7773
+    ],
+    "platforms": [
+      {
+        "lineId": "TJ",
+        "code": "TJ10"
+      }
+    ]
+  },
+  {
+    "id": "minowabashi",
+    "name": "三ノ輪橋",
+    "nameEn": "Minowabashi",
+    "coord": [
+      139.7916,
+      35.7305
+    ],
+    "platforms": [
+      {
+        "lineId": "SA",
+        "code": "SA01"
+      }
+    ]
+  },
+  {
+    "id": "kumanomae",
+    "name": "熊野前",
+    "nameEn": "Kumanomae",
+    "coord": [
+      139.7695,
+      35.7484
+    ],
+    "platforms": [
+      {
+        "lineId": "SA",
+        "code": "SA09"
+      },
+      {
+        "lineId": "NT",
+        "code": "NT04"
+      }
+    ]
+  },
+  {
+    "id": "toneri",
+    "name": "舎人",
+    "nameEn": "Toneri",
+    "coord": [
+      139.7706,
+      35.8022
+    ],
+    "platforms": [
+      {
+        "lineId": "NT",
+        "code": "NT12"
+      }
+    ]
+  },
+  {
+    "id": "minumadai-shinsuikoen",
+    "name": "見沼代親水公園",
+    "nameEn": "Minumadai-shinsuikoen",
+    "coord": [
+      139.7705,
+      35.8124
+    ],
+    "platforms": [
+      {
+        "lineId": "NT",
+        "code": "NT13"
+      }
+    ]
+  },
+  {
+    "id": "kamikitadai",
+    "name": "上北台",
+    "nameEn": "Kamikitadai",
+    "coord": [
+      139.416,
+      35.7457
+    ],
+    "platforms": [
+      {
+        "lineId": "TT",
+        "code": "TT19"
+      }
+    ]
+  }
+]

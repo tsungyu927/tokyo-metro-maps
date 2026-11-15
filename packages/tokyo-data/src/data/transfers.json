@@ -1,0 +1,596 @@
+[
+  {
+    "fromStationId": "akasaka-mitsuke",
+    "fromLineId": "G",
+    "toStationId": "akasaka-mitsuke",
+    "toLineId": "M",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.crossPlatform"
+  },
+  {
+    "fromStationId": "omotesando",
+    "fromLineId": "G",
+    "toStationId": "omotesando",
+    "toLineId": "Z",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.crossPlatform"
+  },
+  {
+    "fromStationId": "omotesando",
+    "fromLineId": "G",
+    "toStationId": "omotesando",
+    "toLineId": "C",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.stairsDown"
+  },
+  {
+    "fromStationId": "omotesando",
+    "fromLineId": "Z",
+    "toStationId": "omotesando",
+    "toLineId": "C",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.stairsDown"
+  },
+  {
+    "fromStationId": "kanda",
+    "fromLineId": "JC",
+    "toStationId": "kanda",
+    "toLineId": "JY",
+    "walkMinutes": 2,
+    "difficulty": "easy",
+    "noteKey": "transfer.sameConcourse"
+  },
+  {
+    "fromStationId": "kanda",
+    "fromLineId": "JC",
+    "toStationId": "kanda",
+    "toLineId": "JK",
+    "walkMinutes": 2,
+    "difficulty": "easy",
+    "noteKey": "transfer.sameConcourse"
+  },
+  {
+    "fromStationId": "ueno",
+    "fromLineId": "JY",
+    "toStationId": "ueno",
+    "toLineId": "G",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.uenoGates"
+  },
+  {
+    "fromStationId": "ueno",
+    "fromLineId": "G",
+    "toStationId": "ueno",
+    "toLineId": "H",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.undergroundPassage"
+  },
+  {
+    "fromStationId": "ginza",
+    "fromLineId": "G",
+    "toStationId": "ginza",
+    "toLineId": "M",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.undergroundPassage"
+  },
+  {
+    "fromStationId": "ginza",
+    "fromLineId": "G",
+    "toStationId": "ginza",
+    "toLineId": "H",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.undergroundPassage"
+  },
+  {
+    "fromStationId": "ginza",
+    "fromLineId": "M",
+    "toStationId": "ginza",
+    "toLineId": "H",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.undergroundPassage"
+  },
+  {
+    "fromStationId": "shinjuku",
+    "fromLineId": "JY",
+    "toStationId": "shinjuku",
+    "toLineId": "E",
+    "walkMinutes": 7,
+    "difficulty": "hard",
+    "noteKey": "transfer.deepUnderground"
+  },
+  {
+    "fromStationId": "shinjuku",
+    "fromLineId": "JC",
+    "toStationId": "shinjuku",
+    "toLineId": "E",
+    "walkMinutes": 7,
+    "difficulty": "hard",
+    "noteKey": "transfer.deepUnderground"
+  },
+  {
+    "fromStationId": "shinjuku",
+    "fromLineId": "M",
+    "toStationId": "shinjuku",
+    "toLineId": "E",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.deepUnderground"
+  },
+  {
+    "fromStationId": "shinjuku",
+    "fromLineId": "JY",
+    "toStationId": "shinjuku",
+    "toLineId": "S",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.longPassage"
+  },
+  {
+    "fromStationId": "shibuya",
+    "fromLineId": "JY",
+    "toStationId": "shibuya",
+    "toLineId": "F",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.deepUnderground"
+  },
+  {
+    "fromStationId": "shibuya",
+    "fromLineId": "JY",
+    "toStationId": "shibuya",
+    "toLineId": "Z",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.deepUnderground"
+  },
+  {
+    "fromStationId": "shibuya",
+    "fromLineId": "G",
+    "toStationId": "shibuya",
+    "toLineId": "F",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.deepUnderground"
+  },
+  {
+    "fromStationId": "tokyo",
+    "fromLineId": "JY",
+    "toStationId": "tokyo",
+    "toLineId": "JE",
+    "walkMinutes": 7,
+    "difficulty": "hard",
+    "noteKey": "transfer.keiyoWalk"
+  },
+  {
+    "fromStationId": "tokyo",
+    "fromLineId": "JC",
+    "toStationId": "tokyo",
+    "toLineId": "JE",
+    "walkMinutes": 8,
+    "difficulty": "hard",
+    "noteKey": "transfer.keiyoWalk"
+  },
+  {
+    "fromStationId": "tokyo",
+    "fromLineId": "JY",
+    "toStationId": "tokyo",
+    "toLineId": "M",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.marunouchiGate"
+  },
+  {
+    "fromStationId": "otemachi",
+    "fromLineId": "T",
+    "toStationId": "otemachi",
+    "toLineId": "C",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.otemachiMaze"
+  },
+  {
+    "fromStationId": "otemachi",
+    "fromLineId": "M",
+    "toStationId": "otemachi",
+    "toLineId": "Z",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.undergroundPassage"
+  },
+  {
+    "fromStationId": "otemachi",
+    "fromLineId": "M",
+    "toStationId": "tokyo",
+    "toLineId": "JY",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "otemachi",
+    "fromLineId": "T",
+    "toStationId": "tokyo",
+    "toLineId": "JY",
+    "walkMinutes": 7,
+    "difficulty": "hard",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "akasaka-mitsuke",
+    "fromLineId": "G",
+    "toStationId": "nagatacho",
+    "toLineId": "Z",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "akasaka-mitsuke",
+    "fromLineId": "M",
+    "toStationId": "nagatacho",
+    "toLineId": "Y",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "akasaka-mitsuke",
+    "fromLineId": "G",
+    "toStationId": "nagatacho",
+    "toLineId": "N",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "tameike-sanno",
+    "fromLineId": "G",
+    "toStationId": "kokkai-gijidomae",
+    "toLineId": "C",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "tameike-sanno",
+    "fromLineId": "N",
+    "toStationId": "kokkai-gijidomae",
+    "toLineId": "M",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "hibiya",
+    "fromLineId": "H",
+    "toStationId": "yurakucho",
+    "toLineId": "Y",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "hibiya",
+    "fromLineId": "C",
+    "toStationId": "yurakucho",
+    "toLineId": "JY",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "meiji-jingumae",
+    "fromLineId": "C",
+    "toStationId": "harajuku",
+    "toLineId": "JY",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "meiji-jingumae",
+    "fromLineId": "F",
+    "toStationId": "harajuku",
+    "toLineId": "JY",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "ueno-hirokoji",
+    "fromLineId": "G",
+    "toStationId": "ueno-okachimachi",
+    "toLineId": "E",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "ueno-okachimachi",
+    "fromLineId": "E",
+    "toStationId": "okachimachi",
+    "toLineId": "JY",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "shinjuku-nishiguchi",
+    "fromLineId": "E",
+    "toStationId": "shinjuku",
+    "toLineId": "JY",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "kasuga",
+    "fromLineId": "E",
+    "toStationId": "korakuen",
+    "toLineId": "M",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "awajicho",
+    "fromLineId": "M",
+    "toStationId": "shin-ochanomizu",
+    "toLineId": "C",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "shin-ochanomizu",
+    "fromLineId": "C",
+    "toStationId": "ogawamachi",
+    "toLineId": "S",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "bakurocho",
+    "fromLineId": "JO",
+    "toStationId": "bakuro-yokoyama",
+    "toLineId": "S",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "higashi-nihombashi",
+    "fromLineId": "A",
+    "toStationId": "bakuro-yokoyama",
+    "toLineId": "S",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "sengakuji",
+    "fromLineId": "A",
+    "toStationId": "sengakuji",
+    "toLineId": "KK",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "oshiage",
+    "fromLineId": "A",
+    "toStationId": "oshiage",
+    "toLineId": "KSO",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "oshiage",
+    "fromLineId": "Z",
+    "toStationId": "oshiage",
+    "toLineId": "TS",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "nakameguro",
+    "fromLineId": "H",
+    "toStationId": "nakameguro",
+    "toLineId": "TY",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "shibuya",
+    "fromLineId": "F",
+    "toStationId": "shibuya",
+    "toLineId": "TY",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "shibuya",
+    "fromLineId": "Z",
+    "toStationId": "shibuya",
+    "toLineId": "DT",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "meguro",
+    "fromLineId": "N",
+    "toStationId": "meguro",
+    "toLineId": "MG",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "meguro",
+    "fromLineId": "I",
+    "toStationId": "meguro",
+    "toLineId": "MG",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "yoyogi-uehara",
+    "fromLineId": "C",
+    "toStationId": "yoyogi-uehara",
+    "toLineId": "OH",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "kotake-mukaihara",
+    "fromLineId": "Y",
+    "toStationId": "kotake-mukaihara",
+    "toLineId": "SIY",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "kotake-mukaihara",
+    "fromLineId": "F",
+    "toStationId": "kotake-mukaihara",
+    "toLineId": "SIY",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "osaki",
+    "fromLineId": "JA",
+    "toStationId": "osaki",
+    "toLineId": "R",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "ayase",
+    "fromLineId": "C",
+    "toStationId": "ayase",
+    "toLineId": "JL",
+    "walkMinutes": 1,
+    "difficulty": "easy",
+    "noteKey": "transfer.throughService"
+  },
+  {
+    "fromStationId": "hamamatsucho",
+    "fromLineId": "JY",
+    "toStationId": "daimon",
+    "toLineId": "A",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "hamamatsucho",
+    "fromLineId": "MO",
+    "toStationId": "daimon",
+    "toLineId": "E",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "ueno",
+    "fromLineId": "JY",
+    "toStationId": "keisei-ueno",
+    "toLineId": "KS",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "ueno",
+    "fromLineId": "G",
+    "toStationId": "keisei-ueno",
+    "toLineId": "KS",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "shinjuku",
+    "fromLineId": "JY",
+    "toStationId": "seibu-shinjuku",
+    "toLineId": "SS",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "asakusa",
+    "fromLineId": "G",
+    "toStationId": "asakusa-tx",
+    "toLineId": "TX",
+    "walkMinutes": 7,
+    "difficulty": "hard",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "yoyogi-uehara",
+    "fromLineId": "OH",
+    "toStationId": "yoyogi-koen",
+    "toLineId": "C",
+    "walkMinutes": 3,
+    "difficulty": "easy",
+    "noteKey": "transfer.interStationLink"
+  },
+  {
+    "fromStationId": "haneda-t1",
+    "fromLineId": "MO",
+    "toStationId": "haneda-t1",
+    "toLineId": "KKA",
+    "walkMinutes": 4,
+    "difficulty": "normal",
+    "noteKey": "transfer.undergroundPassage"
+  },
+  {
+    "fromStationId": "tokyo",
+    "fromLineId": "JY",
+    "toStationId": "tokyo",
+    "toLineId": "SHK-Tokaido",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.sameConcourse"
+  },
+  {
+    "fromStationId": "tokyo",
+    "fromLineId": "JY",
+    "toStationId": "tokyo",
+    "toLineId": "SHK-Joetsu",
+    "walkMinutes": 5,
+    "difficulty": "normal",
+    "noteKey": "transfer.sameConcourse"
+  },
+  {
+    "fromStationId": "ueno",
+    "fromLineId": "JY",
+    "toStationId": "ueno",
+    "toLineId": "SHK-Joetsu",
+    "walkMinutes": 6,
+    "difficulty": "hard",
+    "noteKey": "transfer.deepUnderground"
+  }
+]
