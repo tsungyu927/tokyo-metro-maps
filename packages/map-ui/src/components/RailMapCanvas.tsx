@@ -1047,8 +1047,8 @@ export function RailMapCanvas({
 
   return (
     <div
-      className="relative w-full h-full"
-      style={{ position: 'relative', width: '100%', height: '100%' }}
+      className="relative z-0 isolate w-full h-full"
+      style={{ position: 'relative', zIndex: 0, isolation: 'isolate', width: '100%', height: '100%' }}
     >
       <div
         ref={containerRef}
@@ -1400,9 +1400,11 @@ function SvgFallbackCanvas({
   return (
     <div
       ref={hostRef}
-      className="relative w-full h-full select-none overflow-hidden"
+      className="relative z-0 isolate w-full h-full select-none overflow-hidden"
       style={{
         position: 'relative',
+        zIndex: 0,
+        isolation: 'isolate',
         width: '100%',
         height: '100%',
         backgroundColor: MINIMALIST_PALETTE.land,

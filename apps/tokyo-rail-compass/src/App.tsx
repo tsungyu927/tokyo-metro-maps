@@ -531,7 +531,7 @@ export default function App() {
 
       {/* Mobile Full-Screen Wallet Overlay (Wallet Tab) */}
       {activeTab === 'wallet' && (
-        <div className="md:hidden fixed inset-0 bottom-[60px] z-20 bg-[#F2F1EC] overflow-y-auto px-4 pt-5 pb-8">
+        <div className="md:hidden fixed inset-0 bottom-[60px] z-30 bg-[#F2F1EC] overflow-y-auto px-4 pt-5 pb-8">
           <TransitWalletView
             passes={tokyoTransitDataset.walletPasses}
             wallet={wallet}
@@ -543,13 +543,13 @@ export default function App() {
 
       {/* Mobile Full-Screen Line Layers Settings Overlay (Lines Tab) */}
       {activeTab === 'lines' && (
-        <div className="md:hidden fixed inset-0 bottom-[60px] z-20 bg-[#F2F1EC] overflow-y-auto px-4 pt-5 pb-8">
+        <div className="md:hidden fixed inset-0 bottom-[60px] z-30 bg-[#F2F1EC] overflow-y-auto px-4 pt-5 pb-8">
           {lineSettingsView}
         </div>
       )}
 
       {/* Mobile Fixed Bottom Navigation Bar */}
-      <nav className="md:hidden fixed bottom-0 left-0 right-0 h-[60px] z-30 bg-white/95 backdrop-blur-md border-t border-slate-200 grid grid-cols-3">
+      <nav className="md:hidden fixed bottom-0 left-0 right-0 h-[60px] z-40 bg-white/95 backdrop-blur-md border-t border-slate-200 grid grid-cols-3">
         <button
           type="button"
           onClick={() => setActiveTab('explore')}

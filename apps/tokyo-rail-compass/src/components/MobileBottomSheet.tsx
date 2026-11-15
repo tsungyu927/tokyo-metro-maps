@@ -63,7 +63,7 @@ export function MobileBottomSheet({
 
   return (
     <div
-      className={`md:hidden fixed left-2 right-2 bottom-[68px] z-20 rounded-t-2xl rounded-b-xl bg-white/95 backdrop-blur-lg border border-slate-200/90 shadow-glass flex flex-col transition-all duration-300 ease-out overflow-hidden ${SNAP_HEIGHT_CLASSES[snap]}`}
+      className={`md:hidden fixed left-2 right-2 bottom-[68px] z-30 rounded-t-2xl rounded-b-xl bg-white/95 backdrop-blur-lg border border-slate-200/90 shadow-glass flex flex-col transition-all duration-300 ease-out overflow-hidden ${SNAP_HEIGHT_CLASSES[snap]}`}
     >
       <div
         onTouchStart={handleTouchStart}
